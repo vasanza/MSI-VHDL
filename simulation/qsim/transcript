@@ -1,0 +1,46 @@
+# do DisenoModular.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:02:05 on Apr 06,2021
+# vcom -work work DisenoModular.vho 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package altera_lnsim_components
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package cyclonev_atom_pack
+# -- Loading package cyclonev_components
+# -- Compiling entity DisenoModular
+# -- Compiling architecture structure of DisenoModular
+# End time: 15:02:06 on Apr 06,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:02:06 on Apr 06,2021
+# vcom -work work Waveform1.vwf.vht 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity DisenoModular_vhd_vec_tst
+# -- Compiling architecture DisenoModular_arch of DisenoModular_vhd_vec_tst
+# End time: 15:02:06 on Apr 06,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -novopt -c -t 1ps -L cyclonev -L altera -L altera_mf -L 220model -L sgate -L altera_lnsim work.DisenoModular_vhd_vec_tst 
+# Start time: 15:02:06 on Apr 06,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.disenomodular_vhd_vec_tst(disenomodular_arch)
+# Loading altera_lnsim.altera_lnsim_components
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading cyclonev.cyclonev_atom_pack(body)
+# Loading cyclonev.cyclonev_components
+# Loading work.disenomodular(structure)
+# Loading ieee.std_logic_arith(body)
+# Loading cyclonev.cyclonev_io_obuf(arch)
+# Loading cyclonev.cyclonev_io_ibuf(arch)
+# Loading cyclonev.cyclonev_lcell_comb(vital_lcell_comb)
+# after#32
+# End time: 15:02:08 on Apr 06,2021, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0

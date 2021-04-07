@@ -1,0 +1,154 @@
+Determining the location of the ModelSim executable...
+
+Using: C:\intelFPGA\17.0\modelsim_ase\win32aloem
+
+To specify a ModelSim executable directory, select: Tools -> Options -> EDA Tool Options
+Note: if both ModelSim-Altera and ModelSim executables are available, ModelSim-Altera will be used.
+
+**** Generating the ModelSim Testbench ****
+
+quartus_eda --gen_testbench --tool=modelsim_oem --format=vhdl --write_settings_files=off DisenoModular -c DisenoModular --vector_source="D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/0_CLASES/SD1C4.MSI/DisenoModular/Waveform1.vwf" --testbench_file="D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/0_CLASES/SD1C4.MSI/DisenoModular/simulation/qsim/Waveform1.vwf.vht"
+
+Info: *******************************************************************
+Info: Running Quartus Prime EDA Netlist Writer
+    Info: Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+    Info: Copyright (C) 2017  Intel Corporation. All rights reserved.
+    Info: Your use of Intel Corporation's design tools, logic functions 
+    Info: and other software and tools, and its AMPP partner logic 
+    Info: functions, and any output files from any of the foregoing 
+    Info: (including device programming or simulation files), and any 
+    Info: associated documentation or information are expressly subject 
+    Info: to the terms and conditions of the Intel Program License 
+    Info: Subscription Agreement, the Intel Quartus Prime License Agreement,
+    Info: the Intel MegaCore Function License Agreement, or other 
+    Info: applicable license agreement, including, without limitation, 
+    Info: that your use is for the sole purpose of programming logic 
+    Info: devices manufactured by Intel and sold by Intel or its 
+    Info: authorized distributors.  Please refer to the applicable 
+    Info: agreement for further details.
+    Info: Processing started: Tue Apr 06 15:01:49 2021
+Info: Command: quartus_eda --gen_testbench --tool=modelsim_oem --format=vhdl --write_settings_files=off DisenoModular -c DisenoModular --vector_source=D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/0_CLASES/SD1C4.MSI/DisenoModular/Waveform1.vwf --testbench_file=D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/0_CLASES/SD1C4.MSI/DisenoModular/simulation/qsim/Waveform1.vwf.vht
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+
+Completed successfully. 
+
+**** Generating the functional simulation netlist ****
+
+quartus_eda --write_settings_files=off --simulation --functional=on --flatten_buses=off --tool=modelsim_oem --format=vhdl --output_directory="D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/0_CLASES/SD1C4.MSI/DisenoModular/simulation/qsim/" DisenoModular -c DisenoModular
+
+Info: *******************************************************************
+Info: Running Quartus Prime EDA Netlist Writer
+    Info: Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+    Info: Copyright (C) 2017  Intel Corporation. All rights reserved.
+    Info: Your use of Intel Corporation's design tools, logic functions 
+    Info: and other software and tools, and its AMPP partner logic 
+    Info: functions, and any output files from any of the foregoing 
+    Info: (including device programming or simulation files), and any 
+    Info: associated documentation or information are expressly subject 
+    Info: to the terms and conditions of the Intel Program License 
+    Info: Subscription Agreement, the Intel Quartus Prime License Agreement,
+    Info: the Intel MegaCore Function License Agreement, or other 
+    Info: applicable license agreement, including, without limitation, 
+    Info: that your use is for the sole purpose of programming logic 
+    Info: devices manufactured by Intel and sold by Intel or its 
+    Info: authorized distributors.  Please refer to the applicable 
+    Info: agreement for further details.
+    Info: Processing started: Tue Apr 06 15:01:56 2021
+Info: Command: quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=vhdl --output_directory=D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/0_CLASES/SD1C4.MSI/DisenoModular/simulation/qsim/ DisenoModular -c DisenoModular
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Info (204019): Generated file DisenoModular.vho in folder "D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/0_CLASES/SD1C4.MSI/DisenoModular/simulation/qsim//" for EDA simulation tool
+Info: Quartus Prime EDA Netlist Writer was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4718 megabytes
+    Info: Processing ended: Tue Apr 06 15:02:02 2021
+    Info: Elapsed time: 00:00:06
+    Info: Total CPU time (on all processors): 00:00:06
+
+Completed successfully. 
+
+**** Generating the ModelSim .do script ****
+
+D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/0_CLASES/SD1C4.MSI/DisenoModular/simulation/qsim/DisenoModular.do generated.
+
+Completed successfully. 
+
+**** Running the ModelSim simulation ****
+
+C:/intelFPGA/17.0/modelsim_ase/win32aloem/vsim -c -do DisenoModular.do
+
+Reading C:/intelFPGA/17.0/modelsim_ase/tcl/vsim/pref.tcl
+
+# 10.5b
+
+
+# do DisenoModular.do
+
+# ** Warning: (vlib-34) Library already exists at "work".
+
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:02:05 on Apr 06,2021
+# vcom -work work DisenoModular.vho 
+# -- Loading package STANDARD
+
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package altera_lnsim_components
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package cyclonev_atom_pack
+# -- Loading package cyclonev_components
+# -- Compiling entity DisenoModular
+
+# -- Compiling architecture structure of DisenoModular
+# End time: 15:02:06 on Apr 06,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:02:06 on Apr 06,2021
+# vcom -work work Waveform1.vwf.vht 
+# -- Loading package STANDARD
+
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity DisenoModular_vhd_vec_tst
+# -- Compiling architecture DisenoModular_arch of DisenoModular_vhd_vec_tst
+# End time: 15:02:06 on Apr 06,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+
+# vsim -novopt -c -t 1ps -L cyclonev -L altera -L altera_mf -L 220model -L sgate -L altera_lnsim work.DisenoModular_vhd_vec_tst 
+# Start time: 15:02:06 on Apr 06,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.disenomodular_vhd_vec_tst(disenomodular_arch)
+# Loading altera_lnsim.altera_lnsim_components
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading cyclonev.cyclonev_atom_pack(body)
+# Loading cyclonev.cyclonev_components
+# Loading work.disenomodular(structure)
+# Loading ieee.std_logic_arith(body)
+# Loading cyclonev.cyclonev_io_obuf(arch)
+# Loading cyclonev.cyclonev_io_ibuf(arch)
+# Loading cyclonev.cyclonev_lcell_comb(vital_lcell_comb)
+# after#32
+
+# End time: 15:02:08 on Apr 06,2021, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+
+Completed successfully. 
+
+**** Converting ModelSim VCD to vector waveform ****
+
+Reading D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/0_CLASES/SD1C4.MSI/DisenoModular/Waveform1.vwf...
+
+Reading D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/0_CLASES/SD1C4.MSI/DisenoModular/simulation/qsim/DisenoModular.msim.vcd...
+
+Processing channel transitions... 
+
+Writing the resulting VWF to D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/0_CLASES/SD1C4.MSI/DisenoModular/simulation/qsim/DisenoModular_20210406150208.sim.vwf
+
+Finished VCD to VWF conversion.
+
+Completed successfully. 
+
+All completed.

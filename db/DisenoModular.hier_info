@@ -1,0 +1,120 @@
+|DisenoModular
+R[0] <= mux4a1:inst.Q[0]
+R[1] <= mux4a1:inst.Q[1]
+R[2] <= mux4a1:inst.Q[2]
+R[3] <= mux4a1:inst.Q[3]
+A[0] => comparador:inst5.A[0]
+A[0] => sum:inst1.X[0]
+A[0] => mux4a1:inst.B[0]
+A[0] => gray:inst4.X[0]
+A[1] => comparador:inst5.A[1]
+A[1] => sum:inst1.X[1]
+A[1] => mux4a1:inst.B[1]
+A[1] => gray:inst4.X[1]
+A[2] => comparador:inst5.A[2]
+A[2] => sum:inst1.X[2]
+A[2] => mux4a1:inst.B[2]
+A[2] => gray:inst4.X[2]
+A[3] => comparador:inst5.A[3]
+A[3] => sum:inst1.X[3]
+A[3] => mux4a1:inst.B[3]
+A[3] => gray:inst4.X[3]
+TC => mux4a1:inst.sel[1]
+TBCD => mux4a1:inst.sel[0]
+
+
+|DisenoModular|mux4a1:inst
+A[0] => Mux3.IN0
+A[1] => Mux2.IN0
+A[2] => Mux1.IN0
+A[3] => Mux0.IN0
+B[0] => Mux3.IN1
+B[1] => Mux2.IN1
+B[2] => Mux1.IN1
+B[3] => Mux0.IN1
+C[0] => Mux3.IN2
+C[1] => Mux2.IN2
+C[2] => Mux1.IN2
+C[3] => Mux0.IN2
+D[0] => Mux3.IN3
+D[1] => Mux2.IN3
+D[2] => Mux1.IN3
+D[3] => Mux0.IN3
+sel[0] => Mux0.IN5
+sel[0] => Mux1.IN5
+sel[0] => Mux2.IN5
+sel[0] => Mux3.IN5
+sel[1] => Mux0.IN4
+sel[1] => Mux1.IN4
+sel[1] => Mux2.IN4
+sel[1] => Mux3.IN4
+en => Q.OUTPUTSELECT
+en => Q.OUTPUTSELECT
+en => Q.OUTPUTSELECT
+en => Q.OUTPUTSELECT
+Q[0] <= Q.DB_MAX_OUTPUT_PORT_TYPE
+Q[1] <= Q.DB_MAX_OUTPUT_PORT_TYPE
+Q[2] <= Q.DB_MAX_OUTPUT_PORT_TYPE
+Q[3] <= Q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|DisenoModular|comparador:inst5
+A[0] => LessThan0.IN4
+A[0] => LessThan1.IN4
+A[0] => Equal0.IN3
+A[1] => LessThan0.IN3
+A[1] => LessThan1.IN3
+A[1] => Equal0.IN2
+A[2] => LessThan0.IN2
+A[2] => LessThan1.IN2
+A[2] => Equal0.IN1
+A[3] => LessThan0.IN1
+A[3] => LessThan1.IN1
+A[3] => Equal0.IN0
+B[0] => LessThan0.IN8
+B[0] => LessThan1.IN8
+B[0] => Equal0.IN7
+B[1] => LessThan0.IN7
+B[1] => LessThan1.IN7
+B[1] => Equal0.IN6
+B[2] => LessThan0.IN6
+B[2] => LessThan1.IN6
+B[2] => Equal0.IN5
+B[3] => LessThan0.IN5
+B[3] => LessThan1.IN5
+B[3] => Equal0.IN4
+AmenorB <= LessThan0.DB_MAX_OUTPUT_PORT_TYPE
+AmayorB <= LessThan1.DB_MAX_OUTPUT_PORT_TYPE
+AigualB <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|DisenoModular|sum:inst1
+X[0] => Add0.IN4
+X[1] => Add0.IN3
+X[2] => Add0.IN2
+X[3] => Add0.IN1
+Y[0] => Add0.IN8
+Y[1] => Add0.IN7
+Y[2] => Add0.IN6
+Y[3] => Add0.IN5
+S[0] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+S[1] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+S[2] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+S[3] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+S[4] <= <GND>
+
+
+|DisenoModular|gray:inst4
+X[0] => S.IN0
+X[1] => S.IN0
+X[1] => S.IN1
+X[2] => S.IN0
+X[2] => S.IN1
+X[3] => S.IN1
+X[3] => S[3].DATAIN
+S[0] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[1] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[2] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[3] <= X[3].DB_MAX_OUTPUT_PORT_TYPE
+
+
