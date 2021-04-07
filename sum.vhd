@@ -10,5 +10,6 @@ end sum;
 
 architecture sol of sum is
 	begin
-		s<='0'&(x+y);
+		s<=('0'&x)+('0'&y);--sin bit de signo
+		--s<='0'&(x+y);--con bit de signo
 end sol;

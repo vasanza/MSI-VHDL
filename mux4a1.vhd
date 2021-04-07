@@ -4,7 +4,7 @@ use IEEE.STD_LOGIC_1164.ALL;
 entity mux4a1 is
 generic ( n: integer:=4);--1
 port (
-    A : in std_logic_vector(n-1 downto 0);
+   A : in std_logic_vector(n-1 downto 0);
 	B : in std_logic_vector(n-1 downto 0);
 	C : in std_logic_vector(n-1 downto 0);
 	D : in std_logic_vector(n-1 downto 0);
