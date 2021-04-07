@@ -1,7 +1,7 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;
-use IEEE.STD_LOGIC_UNSIGNED.ALL;
+use  IEEE.STD_LOGIC_UNSIGNED.ALL;--leer
  
 entity decoder_de_bcd_a_7segmentos is
    port( BCD: in std_logic_vector(3 downto 0);
