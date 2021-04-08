@@ -1,0 +1,30 @@
+|comparador
+A[0] => LessThan0.IN4
+A[0] => LessThan1.IN4
+A[0] => Equal0.IN3
+A[1] => LessThan0.IN3
+A[1] => LessThan1.IN3
+A[1] => Equal0.IN2
+A[2] => LessThan0.IN2
+A[2] => LessThan1.IN2
+A[2] => Equal0.IN1
+A[3] => LessThan0.IN1
+A[3] => LessThan1.IN1
+A[3] => Equal0.IN0
+B[0] => LessThan0.IN8
+B[0] => LessThan1.IN8
+B[0] => Equal0.IN7
+B[1] => LessThan0.IN7
+B[1] => LessThan1.IN7
+B[1] => Equal0.IN6
+B[2] => LessThan0.IN6
+B[2] => LessThan1.IN6
+B[2] => Equal0.IN5
+B[3] => LessThan0.IN5
+B[3] => LessThan1.IN5
+B[3] => Equal0.IN4
+AmenorB <= LessThan0.DB_MAX_OUTPUT_PORT_TYPE
+AmayorB <= LessThan1.DB_MAX_OUTPUT_PORT_TYPE
+AigualB <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+
+
