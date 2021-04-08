@@ -10,7 +10,7 @@
 
 # CLONE
 - git status
-- git clone https://github.com/vasanza/MSI_VHDL.git
+- git clone https://github.com/vasanza/MSI-VHDL.git
 
 # SWITCHED TO BRANCH
 - git checkout -b NameBranch
