@@ -1,3 +1,13 @@
+# IDE
+- Quartus Prime 17.0.0
+
+# DEVICE
+- FPGA Cyclone V SE 5CSEBA6U23I7
+
+# HARDWARE TERASIC
+- DE10NANO
+- DE10STANDARD
+
 # CLONE
 - git status
 - git clone https://github.com/vasanza/MSI_VHDL.git
