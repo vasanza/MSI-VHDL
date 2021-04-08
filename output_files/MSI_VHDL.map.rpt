@@ -1,5 +1,5 @@
 Analysis & Synthesis report for MSI_VHDL
-Wed Apr 07 20:30:40 2021
+Wed Apr 07 22:17:56 2021
 Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
 
 
@@ -14,7 +14,7 @@ Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
   6. Analysis & Synthesis Resource Usage Summary
   7. Analysis & Synthesis Resource Utilization by Entity
   8. General Register Statistics
-  9. Parameter Settings for User Entity Instance: Top-level Entity: |comparador
+  9. Parameter Settings for User Entity Instance: Top-level Entity: |cnt
  10. Post-Synthesis Netlist Statistics for Top Partition
  11. Elapsed Time Per Partition
  12. Analysis & Synthesis Messages
@@ -44,14 +44,14 @@ agreement for further details.
 +-----------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                      ;
 +---------------------------------+-------------------------------------------------+
-; Analysis & Synthesis Status     ; Successful - Wed Apr 07 20:30:40 2021           ;
+; Analysis & Synthesis Status     ; Successful - Wed Apr 07 22:17:56 2021           ;
 ; Quartus Prime Version           ; 17.0.0 Build 595 04/25/2017 SJ Standard Edition ;
 ; Revision Name                   ; MSI_VHDL                                        ;
-; Top-level Entity Name           ; comparador                                      ;
+; Top-level Entity Name           ; cnt                                             ;
 ; Family                          ; Cyclone V                                       ;
 ; Logic utilization (in ALMs)     ; N/A                                             ;
-; Total registers                 ; 0                                               ;
-; Total pins                      ; 11                                              ;
+; Total registers                 ; 4                                               ;
+; Total pins                      ; 7                                               ;
 ; Total virtual pins              ; 0                                               ;
 ; Total block memory bits         ; 0                                               ;
 ; Total DSP Blocks                ; 0                                               ;
@@ -70,7 +70,7 @@ agreement for further details.
 ; Option                                                                          ; Setting            ; Default Value      ;
 +---------------------------------------------------------------------------------+--------------------+--------------------+
 ; Device                                                                          ; 5CSEBA6U23I7       ;                    ;
-; Top-level entity name                                                           ; comparador         ; MSI_VHDL           ;
+; Top-level entity name                                                           ; cnt                ; MSI_VHDL           ;
 ; Family name                                                                     ; Cyclone V          ; Cyclone V          ;
 ; Use smart compilation                                                           ; Off                ; Off                ;
 ; Enable parallel Assembler and TimeQuest Timing Analyzer during compilation      ; On                 ; On                 ;
@@ -160,47 +160,48 @@ agreement for further details.
 ; Maximum allowed            ; 4           ;
 ;                            ;             ;
 ; Average used               ; 1.00        ;
-; Maximum used               ; 1           ;
+; Maximum used               ; 4           ;
 ;                            ;             ;
 ; Usage by Processor         ; % Time Used ;
 ;     Processor 1            ; 100.0%      ;
+;     Processors 2-4         ;   0.0%      ;
 +----------------------------+-------------+
 
 
-+--------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Source Files Read                                                                                         ;
-+----------------------------------+-----------------+-----------------+-----------------------------------------------+---------+
-; File Name with User-Entered Path ; Used in Netlist ; File Type       ; File Name with Absolute Path                  ; Library ;
-+----------------------------------+-----------------+-----------------+-----------------------------------------------+---------+
-; comparador.vhd                   ; yes             ; User VHDL File  ; D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/comparador.vhd ;         ;
-+----------------------------------+-----------------+-----------------+-----------------------------------------------+---------+
++-------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                  ;
++----------------------------------+-----------------+-----------------+----------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type       ; File Name with Absolute Path           ; Library ;
++----------------------------------+-----------------+-----------------+----------------------------------------+---------+
+; cnt.vhd                          ; yes             ; User VHDL File  ; D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/cnt.vhd ;         ;
++----------------------------------+-----------------+-----------------+----------------------------------------+---------+
 
 
-+----------------------------------------------------------+
-; Analysis & Synthesis Resource Usage Summary              ;
-+---------------------------------------------+------------+
-; Resource                                    ; Usage      ;
-+---------------------------------------------+------------+
-; Estimate of Logic utilization (ALMs needed) ; 3          ;
-;                                             ;            ;
-; Combinational ALUT usage for logic          ; 6          ;
-;     -- 7 input functions                    ; 0          ;
-;     -- 6 input functions                    ; 0          ;
-;     -- 5 input functions                    ; 3          ;
-;     -- 4 input functions                    ; 3          ;
-;     -- <=3 input functions                  ; 0          ;
-;                                             ;            ;
-; Dedicated logic registers                   ; 0          ;
-;                                             ;            ;
-; I/O pins                                    ; 11         ;
-;                                             ;            ;
-; Total DSP Blocks                            ; 0          ;
-;                                             ;            ;
-; Maximum fan-out node                        ; A[3]~input ;
-; Maximum fan-out                             ; 3          ;
-; Total fan-out                               ; 41         ;
-; Average fan-out                             ; 1.46       ;
-+---------------------------------------------+------------+
++---------------------------------------------------------+
+; Analysis & Synthesis Resource Usage Summary             ;
++---------------------------------------------+-----------+
+; Resource                                    ; Usage     ;
++---------------------------------------------+-----------+
+; Estimate of Logic utilization (ALMs needed) ; 2         ;
+;                                             ;           ;
+; Combinational ALUT usage for logic          ; 4         ;
+;     -- 7 input functions                    ; 0         ;
+;     -- 6 input functions                    ; 0         ;
+;     -- 5 input functions                    ; 1         ;
+;     -- 4 input functions                    ; 1         ;
+;     -- <=3 input functions                  ; 2         ;
+;                                             ;           ;
+; Dedicated logic registers                   ; 4         ;
+;                                             ;           ;
+; I/O pins                                    ; 7         ;
+;                                             ;           ;
+; Total DSP Blocks                            ; 0         ;
+;                                             ;           ;
+; Maximum fan-out node                        ; q[0]~reg0 ;
+; Maximum fan-out                             ; 5         ;
+; Total fan-out                               ; 37        ;
+; Average fan-out                             ; 1.68      ;
++---------------------------------------------+-----------+
 
 
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -208,7 +209,7 @@ agreement for further details.
 +----------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+---------------------+-------------+--------------+
 ; Compilation Hierarchy Node ; Combinational ALUTs ; Dedicated Logic Registers ; Block Memory Bits ; DSP Blocks ; Pins ; Virtual Pins ; Full Hierarchy Name ; Entity Name ; Library Name ;
 +----------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+---------------------+-------------+--------------+
-; |comparador                ; 6 (6)               ; 0 (0)                     ; 0                 ; 0          ; 11   ; 0            ; |comparador         ; comparador  ; work         ;
+; |cnt                       ; 4 (4)               ; 4 (4)                     ; 0                 ; 0          ; 7    ; 0            ; |cnt                ; cnt         ; work         ;
 +----------------------------+---------------------+---------------------------+-------------------+------------+------+--------------+---------------------+-------------+--------------+
 Note: For table entries with two numbers listed, the numbers in parentheses indicate the number of resources of the given type used by the specific entity alone. The numbers listed outside of parentheses indicate the total resources of the given type used by the specific entity and all of its sub-entities in the hierarchy.
 
@@ -218,23 +219,23 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 +----------------------------------------------+-------+
 ; Statistic                                    ; Value ;
 +----------------------------------------------+-------+
-; Total registers                              ; 0     ;
+; Total registers                              ; 4     ;
 ; Number of registers using Synchronous Clear  ; 0     ;
 ; Number of registers using Synchronous Load   ; 0     ;
-; Number of registers using Asynchronous Clear ; 0     ;
+; Number of registers using Asynchronous Clear ; 4     ;
 ; Number of registers using Asynchronous Load  ; 0     ;
 ; Number of registers using Clock Enable       ; 0     ;
 ; Number of registers using Preset             ; 0     ;
 +----------------------------------------------+-------+
 
 
-+----------------------------------------------------------------------------+
-; Parameter Settings for User Entity Instance: Top-level Entity: |comparador ;
-+----------------+-------+---------------------------------------------------+
-; Parameter Name ; Value ; Type                                              ;
-+----------------+-------+---------------------------------------------------+
-; n              ; 4     ; Signed Integer                                    ;
-+----------------+-------+---------------------------------------------------+
++---------------------------------------------------------------------+
+; Parameter Settings for User Entity Instance: Top-level Entity: |cnt ;
++----------------+-------+--------------------------------------------+
+; Parameter Name ; Value ; Type                                       ;
++----------------+-------+--------------------------------------------+
+; n              ; 4     ; Signed Integer                             ;
++----------------+-------+--------------------------------------------+
 Note: In order to hide this table in the UI and the text report file, please set the "Show Parameter Settings in Synthesis Report" option in "Analysis and Synthesis Settings -> More Settings" to "Off".
 
 
@@ -243,14 +244,18 @@ Note: In order to hide this table in the UI and the text report file, please set
 +-----------------------+-----------------------------+
 ; Type                  ; Count                       ;
 +-----------------------+-----------------------------+
-; arriav_lcell_comb     ; 6                           ;
-;     normal            ; 6                           ;
-;         4 data inputs ; 3                           ;
-;         5 data inputs ; 3                           ;
-; boundary_port         ; 11                          ;
+; arriav_ff             ; 4                           ;
+;     CLR               ; 4                           ;
+; arriav_lcell_comb     ; 4                           ;
+;     normal            ; 4                           ;
+;         2 data inputs ; 1                           ;
+;         3 data inputs ; 1                           ;
+;         4 data inputs ; 1                           ;
+;         5 data inputs ; 1                           ;
+; boundary_port         ; 7                           ;
 ;                       ;                             ;
-; Max LUT depth         ; 2.00                        ;
-; Average LUT depth     ; 2.00                        ;
+; Max LUT depth         ; 1.00                        ;
+; Average LUT depth     ; 0.82                        ;
 +-----------------------+-----------------------------+
 
 
@@ -259,7 +264,7 @@ Note: In order to hide this table in the UI and the text report file, please set
 +----------------+--------------+
 ; Partition Name ; Elapsed Time ;
 +----------------+--------------+
-; Top            ; 00:00:02     ;
+; Top            ; 00:00:01     ;
 +----------------+--------------+
 
 
@@ -269,10 +274,19 @@ Note: In order to hide this table in the UI and the text report file, please set
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
-    Info: Processing started: Wed Apr 07 20:30:07 2021
+    Info: Processing started: Wed Apr 07 22:17:17 2021
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off MSI_VHDL -c MSI_VHDL
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
+Info (12021): Found 2 design units, including 1 entities, in source file cnt.vhd
+    Info (12022): Found design unit 1: cnt-comportamiento File: D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/cnt.vhd Line: 18
+    Info (12023): Found entity 1: cnt File: D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/cnt.vhd Line: 10
+Info (12021): Found 2 design units, including 1 entities, in source file ffjk.vhd
+    Info (12022): Found design unit 1: ffjk-comportamiento File: D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/FFjk.vhd Line: 16
+    Info (12023): Found entity 1: ffjk File: D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/FFjk.vhd Line: 9
+Info (12021): Found 2 design units, including 1 entities, in source file ffd.vhd
+    Info (12022): Found design unit 1: ffd-comportamiento File: D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/FFd.vhd Line: 16
+    Info (12023): Found entity 1: ffd File: D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/FFd.vhd Line: 9
 Info (12021): Found 2 design units, including 1 entities, in source file sum4.vhd
     Info (12022): Found design unit 1: sum4-sol File: D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/sum4.vhd Line: 18
     Info (12023): Found entity 1: sum4 File: D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/sum4.vhd Line: 10
@@ -309,18 +323,18 @@ Info (12021): Found 2 design units, including 1 entities, in source file deco_bc
 Info (12021): Found 2 design units, including 1 entities, in source file comparador.vhd
     Info (12022): Found design unit 1: comparador-sol File: D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/comparador.vhd Line: 18
     Info (12023): Found entity 1: comparador File: D:/FIEC/F_BLOG/GITHUB/MSI_VHDL/comparador.vhd Line: 9
-Info (12127): Elaborating entity "comparador" for the top level hierarchy
+Info (12127): Elaborating entity "cnt" for the top level hierarchy
 Info (286030): Timing-Driven Synthesis is running
 Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
     Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
-Info (21057): Implemented 17 device resources after synthesis - the final resource count might be different
-    Info (21058): Implemented 8 input pins
-    Info (21059): Implemented 3 output pins
-    Info (21061): Implemented 6 logic cells
+Info (21057): Implemented 11 device resources after synthesis - the final resource count might be different
+    Info (21058): Implemented 3 input pins
+    Info (21059): Implemented 4 output pins
+    Info (21061): Implemented 4 logic cells
 Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 1 warning
-    Info: Peak virtual memory: 4854 megabytes
-    Info: Processing ended: Wed Apr 07 20:30:40 2021
-    Info: Elapsed time: 00:00:33
-    Info: Total CPU time (on all processors): 00:01:12
+    Info: Peak virtual memory: 4865 megabytes
+    Info: Processing ended: Wed Apr 07 22:17:56 2021
+    Info: Elapsed time: 00:00:39
+    Info: Total CPU time (on all processors): 00:01:28
 
 

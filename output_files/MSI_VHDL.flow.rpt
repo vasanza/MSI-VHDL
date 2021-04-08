@@ -1,5 +1,5 @@
 Flow report for MSI_VHDL
-Wed Apr 07 20:33:25 2021
+Wed Apr 07 22:21:19 2021
 Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
 
 
@@ -41,16 +41,16 @@ agreement for further details.
 +-----------------------------------------------------------------------------------+
 ; Flow Summary                                                                      ;
 +---------------------------------+-------------------------------------------------+
-; Flow Status                     ; Successful - Wed Apr 07 20:33:06 2021           ;
+; Flow Status                     ; Successful - Wed Apr 07 22:20:53 2021           ;
 ; Quartus Prime Version           ; 17.0.0 Build 595 04/25/2017 SJ Standard Edition ;
 ; Revision Name                   ; MSI_VHDL                                        ;
-; Top-level Entity Name           ; comparador                                      ;
+; Top-level Entity Name           ; cnt                                             ;
 ; Family                          ; Cyclone V                                       ;
 ; Device                          ; 5CSEBA6U23I7                                    ;
 ; Timing Models                   ; Final                                           ;
-; Logic utilization (in ALMs)     ; 5 / 41,910 ( < 1 % )                            ;
-; Total registers                 ; 0                                               ;
-; Total pins                      ; 11 / 314 ( 4 % )                                ;
+; Logic utilization (in ALMs)     ; 3 / 41,910 ( < 1 % )                            ;
+; Total registers                 ; 4                                               ;
+; Total pins                      ; 7 / 314 ( 2 % )                                 ;
 ; Total virtual pins              ; 0                                               ;
 ; Total block memory bits         ; 0 / 5,662,720 ( 0 % )                           ;
 ; Total DSP Blocks                ; 0 / 112 ( 0 % )                                 ;
@@ -68,7 +68,7 @@ agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 04/07/2021 20:30:11 ;
+; Start date & time ; 04/07/2021 22:17:20 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; MSI_VHDL            ;
 +-------------------+---------------------+
@@ -79,14 +79,16 @@ agreement for further details.
 +-------------------------------------+----------------------------------------+---------------+-------------+------------+
 ; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id ;
 +-------------------------------------+----------------------------------------+---------------+-------------+------------+
-; COMPILER_SIGNATURE_ID               ; 220295162292527.161784541007568        ; --            ; --          ; --         ;
+; COMPILER_SIGNATURE_ID               ; 220295162292527.161785184031112        ; --            ; --          ; --         ;
 ; MAX_CORE_JUNCTION_TEMP              ; 100                                    ; --            ; --          ; --         ;
 ; MIN_CORE_JUNCTION_TEMP              ; -40                                    ; --            ; --          ; --         ;
-; PARTITION_COLOR                     ; -- (Not supported for targeted family) ; --            ; comparador  ; Top        ;
-; PARTITION_FITTER_PRESERVATION_LEVEL ; -- (Not supported for targeted family) ; --            ; comparador  ; Top        ;
-; PARTITION_NETLIST_TYPE              ; -- (Not supported for targeted family) ; --            ; comparador  ; Top        ;
+; PARTITION_COLOR                     ; -- (Not supported for targeted family) ; --            ; cnt         ; Top        ;
+; PARTITION_FITTER_PRESERVATION_LEVEL ; -- (Not supported for targeted family) ; --            ; cnt         ; Top        ;
+; PARTITION_NETLIST_TYPE              ; -- (Not supported for targeted family) ; --            ; cnt         ; Top        ;
+; POWER_BOARD_THERMAL_MODEL           ; None (CONSERVATIVE)                    ; --            ; --          ; --         ;
+; POWER_PRESET_COOLING_SOLUTION       ; 23 MM HEAT SINK WITH 200 LFPM AIRFLOW  ; --            ; --          ; --         ;
 ; PROJECT_OUTPUT_DIRECTORY            ; output_files                           ; --            ; --          ; --         ;
-; TOP_LEVEL_ENTITY                    ; comparador                             ; MSI_VHDL      ; --          ; --         ;
+; TOP_LEVEL_ENTITY                    ; cnt                                    ; MSI_VHDL      ; --          ; --         ;
 +-------------------------------------+----------------------------------------+---------------+-------------+------------+
 
 
@@ -95,11 +97,11 @@ agreement for further details.
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis      ; 00:00:32     ; 1.0                     ; 4854 MB             ; 00:01:11                           ;
-; Fitter                    ; 00:01:47     ; 1.0                     ; 6546 MB             ; 00:02:23                           ;
-; Assembler                 ; 00:00:32     ; 1.0                     ; 4837 MB             ; 00:00:32                           ;
-; TimeQuest Timing Analyzer ; 00:00:17     ; 1.0                     ; 5108 MB             ; 00:00:16                           ;
-; Total                     ; 00:03:08     ; --                      ; --                  ; 00:04:22                           ;
+; Analysis & Synthesis      ; 00:00:38     ; 1.0                     ; 4865 MB             ; 00:01:28                           ;
+; Fitter                    ; 00:02:18     ; 1.0                     ; 6641 MB             ; 00:03:09                           ;
+; Assembler                 ; 00:00:32     ; 1.0                     ; 4835 MB             ; 00:00:31                           ;
+; TimeQuest Timing Analyzer ; 00:00:24     ; 1.0                     ; 5156 MB             ; 00:00:23                           ;
+; Total                     ; 00:03:52     ; --                      ; --                  ; 00:05:31                           ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 

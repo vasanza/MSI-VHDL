@@ -1,11 +1,11 @@
-Analysis & Synthesis Status : Successful - Wed Apr 07 20:30:40 2021
+Analysis & Synthesis Status : Successful - Wed Apr 07 22:17:56 2021
 Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Standard Edition
 Revision Name : MSI_VHDL
-Top-level Entity Name : comparador
+Top-level Entity Name : cnt
 Family : Cyclone V
 Logic utilization (in ALMs) : N/A
-Total registers : 0
-Total pins : 11
+Total registers : 4
+Total pins : 7
 Total virtual pins : 0
 Total block memory bits : 0
 Total DSP Blocks : 0

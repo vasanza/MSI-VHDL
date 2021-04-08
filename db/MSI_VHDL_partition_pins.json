@@ -4,47 +4,31 @@
 			"name" : "Top",
 			"pins" : [
 				{
-					"name" : "AmenorB",
+					"name" : "q[0]",
 					"strict" : false
 				},
 				{
-					"name" : "AmayorB",
+					"name" : "q[1]",
 					"strict" : false
 				},
 				{
-					"name" : "AigualB",
+					"name" : "q[2]",
 					"strict" : false
 				},
 				{
-					"name" : "A[3]",
+					"name" : "q[3]",
 					"strict" : false
 				},
 				{
-					"name" : "B[3]",
+					"name" : "en",
 					"strict" : false
 				},
 				{
-					"name" : "A[2]",
+					"name" : "Clk",
 					"strict" : false
 				},
 				{
-					"name" : "B[2]",
-					"strict" : false
-				},
-				{
-					"name" : "A[1]",
-					"strict" : false
-				},
-				{
-					"name" : "B[1]",
-					"strict" : false
-				},
-				{
-					"name" : "A[0]",
-					"strict" : false
-				},
-				{
-					"name" : "B[0]",
+					"name" : "resetn",
 					"strict" : false
 				}
 			]

@@ -1,16 +1,6 @@
-# Quartus Prime Standard Edition
-- Version 17.0.0
-
-# Device
-- FPGA Cyclone V SE 5CSEBA6U23I7
-
-# Hardware - Terasic
-- DE10NANO
-- DE10STANDARD
-
 # CLONE
 - git status
-- git clone https://github.com/vasanza/MSI-VHDL.git
+- git clone https://github.com/vasanza/MSI_VHDL.git
 
 # SWITCHED TO BRANCH
 - git checkout -b NameBranch
