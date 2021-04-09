@@ -1,4 +1,4 @@
---Adder of 2 number of n bits
+--Subtractor of two numbers of n bits (A - B)
 --https://vasanza.blogspot.com
 
 --Library
