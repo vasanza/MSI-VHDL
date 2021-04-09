@@ -16,7 +16,7 @@ entity mux2a1 is
 end mux2a1;
 
 --Architecture
-architecture sol of mux2a1 is
+architecture solve of mux2a1 is
 	-- Signals,Constants,Variables,Components
 	signal f: std_logic_vector(n-1 downto 0);
 	begin
@@ -24,4 +24,4 @@ architecture sol of mux2a1 is
 		f<= A when '0',
 			 B when others;
 		Q<= f when en='1' else (others=>'0');
-end sol;
+end solve;

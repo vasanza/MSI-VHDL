@@ -15,10 +15,10 @@ Entity comparador is
 end comparador;
 
 --Architecture
-Architecture sol of comparador is
+Architecture solve of comparador is
 	-- Signals,Constants,Variables,Components
 	Begin
 		AmenorB<='1' when A<B else '0';
 		AmayorB<='1' when A>B else '0';
 		AigualB<='1' when A=B else '0';
-end sol;
+end solve;

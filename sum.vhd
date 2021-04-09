@@ -15,9 +15,9 @@ entity sum is
 end sum;
 
 --Architecture
-architecture sol of sum is
+architecture solve of sum is
 	-- Signals,Constants,Variables,Components
 	begin
 		s<=('0'&x)+('0'&y);--Without the sign bit
 		--s<='0'&(x+y);--with sign bit
-end sol;
+end solve;

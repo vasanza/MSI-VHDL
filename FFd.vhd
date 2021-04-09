@@ -13,7 +13,7 @@ entity ffd is
 end ffd;
 
 --Architecture
-architecture comportamiento of ffd is
+architecture solve of ffd is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
@@ -27,5 +27,5 @@ architecture comportamiento of ffd is
 			end if;
 	end process;
 	--Process #n...
-end comportamiento;
+end solve;
 

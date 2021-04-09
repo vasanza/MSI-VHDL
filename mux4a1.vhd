@@ -19,7 +19,7 @@ entity mux4a1 is
 end mux4a1;
 
 --Architecture
-architecture Behavioral of mux4a1 is
+architecture solve of mux4a1 is
 	-- Signals,Constants,Variables,Components
 	signal f: std_logic_vector(n-1 downto 0);
 	begin
@@ -29,4 +29,4 @@ architecture Behavioral of mux4a1 is
 			 C when "10",
 			 D when others;
 		Q<= f when en='1' else (others=>'0');	 
-end Behavioral;
+end solve;

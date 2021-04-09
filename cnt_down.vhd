@@ -1,4 +1,4 @@
---Counter up
+--Counter down
 --https://vasanza.blogspot.com
 
 --Library
@@ -7,25 +7,25 @@ use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 
 --Entity
-entity cnt is
+entity cnt_down is
 	generic ( n: integer :=4);--<------- nbits
 	port(
-		Clk,resetn,en: in std_logic;
+		Clk,presetn,en: in std_logic;
 		q: buffer std_logic_vector(n-1 downto 0));
-end cnt;
+end cnt_down;
 
 --Architecture
-architecture solve of cnt is
+architecture solve of cnt_down is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
-	process(resetn,clk)
+	process(presetn,clk)
 	--Sequential programming
 		begin
-			if resetn='0' then
-				q<=(others => '0');
+			if presetn='0' then
+				q<=(others => '1');
 			elsif clk'event and clk='1' then
-				if en='1' then q<=q+1;
+				if en='1' then q<=q-1;
 				end if;
 			end if;
 	end process;

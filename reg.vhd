@@ -15,7 +15,7 @@ entity reg is
 end reg;
 
 --Architecture
-architecture comportamiento of reg is
+architecture solve of reg is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
@@ -31,5 +31,5 @@ architecture comportamiento of reg is
 			end if;
 	end process;
 	--Process #n...
-end comportamiento;
+end solve;
 

@@ -13,7 +13,7 @@ entity ffjk is
 end ffjk;
 
 --Architecture
-architecture comportamiento of ffjk is
+architecture solve of ffjk is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
@@ -31,4 +31,4 @@ architecture comportamiento of ffjk is
 			end if;
 	end process;
 	--Process #n...
-end comportamiento;
+end solve;

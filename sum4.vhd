@@ -15,9 +15,9 @@ entity sum4 is
 end sum4;
 
 --Architecture
-architecture sol of sum4 is
+architecture solve of sum4 is
 	-- Signals,Constants,Variables,Components
 	begin
 		s<=("00"&A)+("00"&B)+("00"&C)+("00"&D);
 		--Without the sign bit
-end sol;
+end solve;

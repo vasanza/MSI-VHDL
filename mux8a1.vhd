@@ -23,7 +23,7 @@ entity mux8a1 is
 end mux8a1;
 
 --Architecture
-architecture Behavioral of mux8a1 is
+architecture solve of mux8a1 is
 	-- Signals,Constants,Variables,Components
 	signal X: std_logic_vector(n-1 downto 0);
 	begin
@@ -37,4 +37,4 @@ architecture Behavioral of mux8a1 is
 			 G when "110",
 			 H when others;
 		Q<= X when en='1' else (others=>'0');	 
-end Behavioral;
+end solve;

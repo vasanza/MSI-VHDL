@@ -14,8 +14,8 @@ entity puerta_not is
 end puerta_not;
 
 --Architecture
-architecture sol of puerta_not is
+architecture solve of puerta_not is
 	-- Signals,Constants,Variables,Components
 	begin
 		s<=not(X);
-end sol;
+end solve;

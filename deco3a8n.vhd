@@ -14,7 +14,7 @@ entity deco3a8n is
 end deco3a8n;
 
 --Architecture
-architecture Behavioral of deco3a8n is
+architecture solve of deco3a8n is
 	-- Signals,Constants,Variables,Components
 	signal f: std_logic_vector(7 downto 0);
 	begin
@@ -28,4 +28,4 @@ architecture Behavioral of deco3a8n is
 			 "01000000" when "110",
 			 "10000000" when others;
 		Q<= not(f) when en='1' else (others=>'0');	 
-end Behavioral;
+end solve;
