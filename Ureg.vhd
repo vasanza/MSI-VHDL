@@ -23,7 +23,8 @@ architecture solve of Ureg is
 	process (clear,clk)
 	--Sequential programming	
 		begin
-			if clear = '0' then Q <= (OTHERS =>'0');
+			if clear = '0' then
+				Q <= (others =>'0');
 			elsif clk'event AND clk='1' then
 				if S(1)='0' AND S(0)='1' then
 					Shift1:
