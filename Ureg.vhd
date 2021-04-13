@@ -33,10 +33,8 @@ architecture solve of Ureg is
 					end loop;
 					Q(n-1)<= R;
 				elsif S(1)='1' AND S(0)='0' then
-					Shift2: for i in 1 to n-1 loop
-						Q(i)<= Q(i-1);
-					end loop;
-					Q(0)<= L;
+					Shift2: 
+						Q<= Q(n-2 downto 0) & L;
 				elsif S(1)='1' AND S(0)='1' then
 					Q<= P;
 				end if;
