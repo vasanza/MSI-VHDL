@@ -27,13 +27,10 @@ architecture solve of Ureg is
 				Q <= (others =>'0');
 			elsif clk'event AND clk='1' then
 				if S(1)='0' AND S(0)='1' then
-					Shift1:
-					for i in 0 to n-2 loop
-						Q(i)<= Q(i+1);
-					end loop;
-					Q(n-1)<= R;
+					Shift1_LR:
+						Q<= R&Q(n-1 downto 1);
 				elsif S(1)='1' AND S(0)='0' then
-					Shift2: 
+					Shift2_RL: 
 						Q<= Q(n-2 downto 0) & L;
 				elsif S(1)='1' AND S(0)='1' then
 					Q<= P;
