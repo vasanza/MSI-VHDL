@@ -13,6 +13,10 @@
 - git clone https://github.com/vasanza/MSI_VHDL.git
 
 # SWITCHED TO BRANCH
+- git branch
+- git checkout NameBranch
+
+# New Branch
 - git checkout -b NameBranch
 
 # PUSH
