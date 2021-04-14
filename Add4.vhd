@@ -1,4 +1,4 @@
---Adder of 2 number of n bits
+--Adder of 4 number of n bits
 --https://vasanza.blogspot.com
 
 --Library
@@ -7,17 +7,17 @@ use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 
 --Entity
-entity sum is
+entity Add4 is
 	generic ( n: integer :=4);--<------- nbits
 	port(
-		X,Y: in std_logic_vector(n-1 downto 0);
-		S: out std_logic_vector(n downto 0));
-end sum;
+		A,B,C,D: in std_logic_vector(n-1 downto 0);
+		S: out std_logic_vector(n+1 downto 0));
+end Add4;
 
 --Architecture
-architecture solve of sum is
+architecture solve of add4 is
 	-- Signals,Constants,Variables,Components
 	begin
-		s<=('0'&x)+('0'&y);--Without the sign bit
-		--s<='0'&(x+y);--with sign bit
+		s<=("00"&A)+("00"&B)+("00"&C)+("00"&D);
+		--Without the sign bit
 end solve;

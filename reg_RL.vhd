@@ -9,7 +9,7 @@ use ieee.std_logic_1164.all;
 entity reg_RL is  
     generic (n: integer:=3);--<------- nbits
     port(
-		Resetn,En,Ld,R,clk : in std_logic;
+		Resetn,En,Ld,L,clk : in std_logic;
 		DataIn : in std_logic_vector(n-1 downto 0);
       Q : buffer std_logic_vector (n-1 downto 0));  
 end reg_RL;  
@@ -26,7 +26,7 @@ architecture solve of reg_RL is
 				Q <= (others =>'0');
 			elsif clk'event and clk='1' then
 				if En='1' and Ld='0' then
-					Q<= Q(n-2 downto 0) & R;
+					Q<= Q(n-2 downto 0) & L;
 				elsif En='1' and Ld='1' then
 					Q<= DataIn;
 				end if;
