@@ -1,4 +1,4 @@
---Synchronous Sequential Machine
+--Synchronous Sequential Machine (Sequential Loading)
 --https://vasanza.blogspot.com
 
 --Library
