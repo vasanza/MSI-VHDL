@@ -1,0 +1,153 @@
+Flow report for mss
+Fri Apr 16 10:52:31 2021
+Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-----------------------------------------------------------------------------------+
+; Flow Summary                                                                      ;
++---------------------------------+-------------------------------------------------+
+; Flow Status                     ; Successful - Fri Apr 16 10:52:31 2021           ;
+; Quartus Prime Version           ; 17.0.0 Build 595 04/25/2017 SJ Standard Edition ;
+; Revision Name                   ; mss                                             ;
+; Top-level Entity Name           ; Block1                                          ;
+; Family                          ; Cyclone V                                       ;
+; Device                          ; 5CSEBA6U23I7                                    ;
+; Timing Models                   ; Final                                           ;
+; Logic utilization (in ALMs)     ; 12 / 41,910 ( < 1 % )                           ;
+; Total registers                 ; 25                                              ;
+; Total pins                      ; 25 / 314 ( 8 % )                                ;
+; Total virtual pins              ; 0                                               ;
+; Total block memory bits         ; 0 / 5,662,720 ( 0 % )                           ;
+; Total DSP Blocks                ; 0 / 112 ( 0 % )                                 ;
+; Total HSSI RX PCSs              ; 0                                               ;
+; Total HSSI PMA RX Deserializers ; 0                                               ;
+; Total HSSI TX PCSs              ; 0                                               ;
+; Total HSSI PMA TX Serializers   ; 0                                               ;
+; Total PLLs                      ; 0 / 6 ( 0 % )                                   ;
+; Total DLLs                      ; 0 / 4 ( 0 % )                                   ;
++---------------------------------+-------------------------------------------------+
+
+
++-----------------------------------------+
+; Flow Settings                           ;
++-------------------+---------------------+
+; Option            ; Setting             ;
++-------------------+---------------------+
+; Start date & time ; 04/16/2021 10:39:09 ;
+; Main task         ; Compilation         ;
+; Revision Name     ; mss                 ;
++-------------------+---------------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                        ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+; COMPILER_SIGNATURE_ID               ; 220295162292527.161858754808516        ; --            ; --          ; --         ;
+; MAX_CORE_JUNCTION_TEMP              ; 100                                    ; --            ; --          ; --         ;
+; MIN_CORE_JUNCTION_TEMP              ; -40                                    ; --            ; --          ; --         ;
+; PARTITION_COLOR                     ; -- (Not supported for targeted family) ; --            ; Block1      ; Top        ;
+; PARTITION_FITTER_PRESERVATION_LEVEL ; -- (Not supported for targeted family) ; --            ; Block1      ; Top        ;
+; PARTITION_NETLIST_TYPE              ; -- (Not supported for targeted family) ; --            ; Block1      ; Top        ;
+; POWER_BOARD_THERMAL_MODEL           ; None (CONSERVATIVE)                    ; --            ; --          ; --         ;
+; POWER_PRESET_COOLING_SOLUTION       ; 23 MM HEAT SINK WITH 200 LFPM AIRFLOW  ; --            ; --          ; --         ;
+; PROJECT_OUTPUT_DIRECTORY            ; output_files                           ; --            ; --          ; --         ;
+; TOP_LEVEL_ENTITY                    ; Block1                                 ; mss           ; --          ; --         ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                             ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Analysis & Synthesis      ; 00:00:35     ; 1.0                     ; 4868 MB             ; 00:01:21                           ;
+; Fitter                    ; 00:02:35     ; 1.0                     ; 6646 MB             ; 00:03:42                           ;
+; Assembler                 ; 00:00:34     ; 1.0                     ; 4837 MB             ; 00:00:33                           ;
+; TimeQuest Timing Analyzer ; 00:00:29     ; 1.0                     ; 5164 MB             ; 00:00:27                           ;
+; EDA Netlist Writer        ; 00:00:06     ; 1.0                     ; 4709 MB             ; 00:00:06                           ;
+; EDA Netlist Writer        ; 00:00:05     ; 1.0                     ; 4718 MB             ; 00:00:05                           ;
+; EDA Netlist Writer        ; 00:00:05     ; 1.0                     ; 4708 MB             ; 00:00:05                           ;
+; EDA Netlist Writer        ; 00:00:06     ; 1.0                     ; 4718 MB             ; 00:00:05                           ;
+; EDA Netlist Writer        ; 00:00:07     ; 1.0                     ; 4709 MB             ; 00:00:06                           ;
+; EDA Netlist Writer        ; 00:00:07     ; 1.0                     ; 4717 MB             ; 00:00:06                           ;
+; EDA Netlist Writer        ; 00:00:06     ; 1.0                     ; 4709 MB             ; 00:00:06                           ;
+; EDA Netlist Writer        ; 00:00:06     ; 1.0                     ; 4718 MB             ; 00:00:06                           ;
+; Total                     ; 00:05:01     ; --                      ; --                  ; 00:06:48                           ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++-----------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                         ;
++---------------------------+------------------+------------+------------+----------------+
+; Module Name               ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
++---------------------------+------------------+------------+------------+----------------+
+; Analysis & Synthesis      ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; Fitter                    ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; Assembler                 ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; TimeQuest Timing Analyzer ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
++---------------------------+------------------+------------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+quartus_map --read_settings_files=on --write_settings_files=off mss -c mss
+quartus_fit --read_settings_files=off --write_settings_files=off mss -c mss
+quartus_asm --read_settings_files=off --write_settings_files=off mss -c mss
+quartus_sta mss -c mss
+quartus_eda --gen_testbench --tool=modelsim_oem --format=vhdl --write_settings_files=off mss -c mss --vector_source=C:/Users/vasanza/Desktop/mss_Sequential_Loading/Waveform.vwf --testbench_file=C:/Users/vasanza/Desktop/mss_Sequential_Loading/simulation/qsim/Waveform.vwf.vht
+quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=vhdl --output_directory=C:/Users/vasanza/Desktop/mss_Sequential_Loading/simulation/qsim/ mss -c mss
+quartus_eda --gen_testbench --tool=modelsim_oem --format=vhdl --write_settings_files=off mss -c mss --vector_source=C:/Users/vasanza/Desktop/mss_Sequential_Loading/Waveform.vwf --testbench_file=C:/Users/vasanza/Desktop/mss_Sequential_Loading/simulation/qsim/Waveform.vwf.vht
+quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=vhdl --output_directory=C:/Users/vasanza/Desktop/mss_Sequential_Loading/simulation/qsim/ mss -c mss
+quartus_eda --gen_testbench --tool=modelsim_oem --format=vhdl --write_settings_files=off mss -c mss --vector_source=C:/Users/vasanza/Desktop/mss_Sequential_Loading/Waveform.vwf --testbench_file=C:/Users/vasanza/Desktop/mss_Sequential_Loading/simulation/qsim/Waveform.vwf.vht
+quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=vhdl --output_directory=C:/Users/vasanza/Desktop/mss_Sequential_Loading/simulation/qsim/ mss -c mss
+quartus_eda --gen_testbench --tool=modelsim_oem --format=vhdl --write_settings_files=off mss -c mss --vector_source=C:/Users/vasanza/Desktop/mss_Sequential_Loading/Waveform.vwf --testbench_file=C:/Users/vasanza/Desktop/mss_Sequential_Loading/simulation/qsim/Waveform.vwf.vht
+quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=vhdl --output_directory=C:/Users/vasanza/Desktop/mss_Sequential_Loading/simulation/qsim/ mss -c mss
+
+
+

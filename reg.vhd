@@ -7,7 +7,7 @@ use ieee.std_logic_1164.all;
 
 --Entity
 entity reg is
-	generic ( n: integer :=8);--<-- nbits
+	generic ( n: integer :=4);--<-- nbits
 	port(
 		Clk,resetn,en: in std_logic;
 		d: in std_logic_vector(n-1 downto 0);
