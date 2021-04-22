@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/3_Leccion/2021_PAE/2021_PAE_C4_Leccion/LeccionC4/simulation/qsim
+E\2021_PAE_C4_Leccion\
+Z1 w1618452983
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 cD3@N^MdoDolN5@R6?T[V1
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx8 cyclonev 19 cyclonev_components 0 22 3BCIeZzdIHLCX<;R;K38G3
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 PQDYM9fR]Wek<A7X8bA8S1
+R0
+Z9 82021_PAE_C4_Leccion.vho
+Z10 F2021_PAE_C4_Leccion.vho
+l0
+L37
+VEWM6Vez2jYF?Aec<BVeZG2
+!s100 E@[?o@WMleIf>oBHjgM4j2
+Z11 OV;C;10.5b;63
+32
+Z12 !s110 1618452987
+!i10b 1
+Z13 !s108 1618452987.000000
+Z14 !s90 -work|work|2021_PAE_C4_Leccion.vho|
+Z15 !s107 2021_PAE_C4_Leccion.vho|
+!i113 1
+Z16 o-work work
+Z17 tExplicit 1 CvgOpt 0
+n@1342021_@p@a@e_@c4_@leccion@134
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z18 DEx4 work 21 \2021_PAE_C4_Leccion\ 0 22 EWM6Vez2jYF?Aec<BVeZG2
+l115
+L74
+Z19 V1BbJJL2MDcHN@TGb:j]V70
+Z20 !s100 <^Q]QmI_CDUIH76nM4Bi:3
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17

@@ -1,0 +1,140 @@
+Flow report for 2021_PAE_C4_Leccion
+Wed Apr 14 21:16:23 2021
+Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-----------------------------------------------------------------------------------+
+; Flow Summary                                                                      ;
++---------------------------------+-------------------------------------------------+
+; Flow Status                     ; Successful - Wed Apr 14 21:16:23 2021           ;
+; Quartus Prime Version           ; 17.0.0 Build 595 04/25/2017 SJ Standard Edition ;
+; Revision Name                   ; 2021_PAE_C4_Leccion                             ;
+; Top-level Entity Name           ; 2021_PAE_C4_Leccion                             ;
+; Family                          ; Cyclone V                                       ;
+; Device                          ; 5CSEBA6U23I7                                    ;
+; Timing Models                   ; Final                                           ;
+; Logic utilization (in ALMs)     ; 6 / 41,910 ( < 1 % )                            ;
+; Total registers                 ; 0                                               ;
+; Total pins                      ; 25 / 314 ( 8 % )                                ;
+; Total virtual pins              ; 0                                               ;
+; Total block memory bits         ; 0 / 5,662,720 ( 0 % )                           ;
+; Total DSP Blocks                ; 0 / 112 ( 0 % )                                 ;
+; Total HSSI RX PCSs              ; 0                                               ;
+; Total HSSI PMA RX Deserializers ; 0                                               ;
+; Total HSSI TX PCSs              ; 0                                               ;
+; Total HSSI PMA TX Serializers   ; 0                                               ;
+; Total PLLs                      ; 0 / 6 ( 0 % )                                   ;
+; Total DLLs                      ; 0 / 4 ( 0 % )                                   ;
++---------------------------------+-------------------------------------------------+
+
+
++-----------------------------------------+
+; Flow Settings                           ;
++-------------------+---------------------+
+; Option            ; Setting             ;
++-------------------+---------------------+
+; Start date & time ; 04/14/2021 21:07:29 ;
+; Main task         ; Compilation         ;
+; Revision Name     ; 2021_PAE_C4_Leccion ;
++-------------------+---------------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                        ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+; COMPILER_SIGNATURE_ID               ; 220295162292527.161845244808948        ; --            ; --          ; --         ;
+; MAX_CORE_JUNCTION_TEMP              ; 100                                    ; --            ; --          ; --         ;
+; MIN_CORE_JUNCTION_TEMP              ; -40                                    ; --            ; --          ; --         ;
+; PARTITION_COLOR                     ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
+; PARTITION_FITTER_PRESERVATION_LEVEL ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
+; PARTITION_NETLIST_TYPE              ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
+; POWER_BOARD_THERMAL_MODEL           ; None (CONSERVATIVE)                    ; --            ; --          ; --         ;
+; POWER_PRESET_COOLING_SOLUTION       ; 23 MM HEAT SINK WITH 200 LFPM AIRFLOW  ; --            ; --          ; --         ;
+; PROJECT_OUTPUT_DIRECTORY            ; output_files                           ; --            ; --          ; --         ;
++-------------------------------------+----------------------------------------+---------------+-------------+------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                             ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Analysis & Synthesis      ; 00:00:35     ; 1.0                     ; 4865 MB             ; 00:01:09                           ;
+; Fitter                    ; 00:02:42     ; 1.0                     ; 6592 MB             ; 00:04:19                           ;
+; Assembler                 ; 00:00:39     ; 1.0                     ; 4842 MB             ; 00:00:35                           ;
+; TimeQuest Timing Analyzer ; 00:00:33     ; 1.0                     ; 5156 MB             ; 00:00:32                           ;
+; EDA Netlist Writer        ; 00:00:07     ; 1.0                     ; 4708 MB             ; 00:00:06                           ;
+; EDA Netlist Writer        ; 00:00:05     ; 1.0                     ; 4718 MB             ; 00:00:05                           ;
+; EDA Netlist Writer        ; 00:00:07     ; 1.0                     ; 4708 MB             ; 00:00:07                           ;
+; EDA Netlist Writer        ; 00:00:07     ; 1.0                     ; 4718 MB             ; 00:00:07                           ;
+; Total                     ; 00:04:55     ; --                      ; --                  ; 00:07:00                           ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++-----------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                         ;
++---------------------------+------------------+------------+------------+----------------+
+; Module Name               ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
++---------------------------+------------------+------------+------------+----------------+
+; Analysis & Synthesis      ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; Fitter                    ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; Assembler                 ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; TimeQuest Timing Analyzer ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer        ; LAPTOP-10910UTF  ; Windows 10 ; 10.0       ; x86_64         ;
++---------------------------+------------------+------------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+quartus_map --read_settings_files=on --write_settings_files=off 2021_PAE_C4_Leccion -c 2021_PAE_C4_Leccion
+quartus_fit --read_settings_files=off --write_settings_files=off 2021_PAE_C4_Leccion -c 2021_PAE_C4_Leccion
+quartus_asm --read_settings_files=off --write_settings_files=off 2021_PAE_C4_Leccion -c 2021_PAE_C4_Leccion
+quartus_sta 2021_PAE_C4_Leccion -c 2021_PAE_C4_Leccion
+quartus_eda --gen_testbench --tool=modelsim_oem --format=vhdl --write_settings_files=off 2021_PAE_C4_Leccion -c 2021_PAE_C4_Leccion --vector_source=D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/3_Leccion/2021_PAE/2021_PAE_C4_Leccion/LeccionC4/Waveform1.vwf --testbench_file=D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/3_Leccion/2021_PAE/2021_PAE_C4_Leccion/LeccionC4/simulation/qsim/Waveform1.vwf.vht
+quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=vhdl --output_directory=D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/3_Leccion/2021_PAE/2021_PAE_C4_Leccion/LeccionC4/simulation/qsim/ 2021_PAE_C4_Leccion -c 2021_PAE_C4_Leccion
+quartus_eda --gen_testbench --tool=modelsim_oem --format=vhdl --write_settings_files=off 2021_PAE_C4_Leccion -c 2021_PAE_C4_Leccion --vector_source=D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/3_Leccion/2021_PAE/2021_PAE_C4_Leccion/LeccionC4/Waveform1.vwf --testbench_file=D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/3_Leccion/2021_PAE/2021_PAE_C4_Leccion/LeccionC4/simulation/qsim/Waveform1.vwf.vht
+quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=vhdl --output_directory=D:/FIEC/F_ESPOL/5.SISTEMAS_DIGITALES_1/3_Leccion/2021_PAE/2021_PAE_C4_Leccion/LeccionC4/simulation/qsim/ 2021_PAE_C4_Leccion -c 2021_PAE_C4_Leccion
+
+
+
