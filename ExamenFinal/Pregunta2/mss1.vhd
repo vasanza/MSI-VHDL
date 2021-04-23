@@ -30,7 +30,6 @@ architecture solve of mss is
 					when C => A
 					when G =>
 						  if X0='0' then y <= C;
-						  elsif X0='1' then y <= G;
 						  else y <= A; end if;
 				end case;
 			end if;

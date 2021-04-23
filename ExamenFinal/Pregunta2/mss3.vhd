@@ -25,10 +25,10 @@ architecture solve of mss is
 			if resetn = '0' then y<= A;
 			elsif (clk'event and clk = '1') then
 				case y is
-					when A => E
-					when E => G
+					when A => B
+					when B => D
 					when C => A
-					when G =>
+					when D =>
 						  if X0='0' then y <= C;
 						  else y <= A; end if;
 				end case;
@@ -40,13 +40,13 @@ architecture solve of mss is
 	--Sequential programming
 		begin
 			case y is
-				when A => Q1<='1';Q0<='1';
+				when A => Q1<='1';Q0<='0';
 				when B => Q1<='1';Q0<='1';
-				when C => Q1<='0';Q0<='0';
+				when C => Q1<='0';Q0<='1';
 				when D => Q1<='0';Q0<='0';
-				when E => Q1<='1';Q0<='0';
+				when E => Q1<='1';Q0<='1';
 				when F => Q1<='1';Q0<='1';
-				when G => Q1<='0';Q0<='1';
+				when G => Q1<='0';Q0<='0';
 				when H => Q1<='1';Q0<='1';
 			end case;
 	end process;
