@@ -1,0 +1,155 @@
+Determining the location of the ModelSim executable...
+
+Using: C:\intelFPGA\17.0\modelsim_ase\win32aloem
+
+To specify a ModelSim executable directory, select: Tools -> Options -> EDA Tool Options
+Note: if both ModelSim-Altera and ModelSim executables are available, ModelSim-Altera will be used.
+
+**** Generating the ModelSim Testbench ****
+
+quartus_eda --gen_testbench --tool=modelsim_oem --format=vhdl --write_settings_files=off Ejemplo1_MK -c Ejemplo1_MK --vector_source="C:/Users/vasanza/Desktop/Ejemplo1_MK/Waveform.vwf" --testbench_file="C:/Users/vasanza/Desktop/Ejemplo1_MK/simulation/qsim/Waveform.vwf.vht"
+
+Info: *******************************************************************
+Info: Running Quartus Prime EDA Netlist Writer
+    Info: Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+    Info: Copyright (C) 2017  Intel Corporation. All rights reserved.
+    Info: Your use of Intel Corporation's design tools, logic functions 
+    Info: and other software and tools, and its AMPP partner logic 
+    Info: functions, and any output files from any of the foregoing 
+    Info: (including device programming or simulation files), and any 
+    Info: associated documentation or information are expressly subject 
+    Info: to the terms and conditions of the Intel Program License 
+    Info: Subscription Agreement, the Intel Quartus Prime License Agreement,
+    Info: the Intel MegaCore Function License Agreement, or other 
+    Info: applicable license agreement, including, without limitation, 
+    Info: that your use is for the sole purpose of programming logic 
+    Info: devices manufactured by Intel and sold by Intel or its 
+    Info: authorized distributors.  Please refer to the applicable 
+    Info: agreement for further details.
+    Info: Processing started: Wed Jun 16 15:30:07 2021
+Info: Command: quartus_eda --gen_testbench --tool=modelsim_oem --format=vhdl --write_settings_files=off Ejemplo1_MK -c Ejemplo1_MK --vector_source=C:/Users/vasanza/Desktop/Ejemplo1_MK/Waveform.vwf --testbench_file=C:/Users/vasanza/Desktop/Ejemplo1_MK/simulation/qsim/Waveform.vwf.vht
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+
+Completed successfully. 
+
+**** Generating the functional simulation netlist ****
+
+quartus_eda --write_settings_files=off --simulation --functional=on --flatten_buses=off --tool=modelsim_oem --format=vhdl --output_directory="C:/Users/vasanza/Desktop/Ejemplo1_MK/simulation/qsim/" Ejemplo1_MK -c Ejemplo1_MK
+
+Info: *******************************************************************
+Info: Running Quartus Prime EDA Netlist Writer
+    Info: Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+    Info: Copyright (C) 2017  Intel Corporation. All rights reserved.
+    Info: Your use of Intel Corporation's design tools, logic functions 
+    Info: and other software and tools, and its AMPP partner logic 
+    Info: functions, and any output files from any of the foregoing 
+    Info: (including device programming or simulation files), and any 
+    Info: associated documentation or information are expressly subject 
+    Info: to the terms and conditions of the Intel Program License 
+    Info: Subscription Agreement, the Intel Quartus Prime License Agreement,
+    Info: the Intel MegaCore Function License Agreement, or other 
+    Info: applicable license agreement, including, without limitation, 
+    Info: that your use is for the sole purpose of programming logic 
+    Info: devices manufactured by Intel and sold by Intel or its 
+    Info: authorized distributors.  Please refer to the applicable 
+    Info: agreement for further details.
+    Info: Processing started: Wed Jun 16 15:30:15 2021
+Info: Command: quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=vhdl --output_directory=C:/Users/vasanza/Desktop/Ejemplo1_MK/simulation/qsim/ Ejemplo1_MK -c Ejemplo1_MK
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Info (204019): Generated file Ejemplo1_MK.vho in folder "C:/Users/vasanza/Desktop/Ejemplo1_MK/simulation/qsim//" for EDA simulation tool
+Info: Quartus Prime EDA Netlist Writer was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4718 megabytes
+    Info: Processing ended: Wed Jun 16 15:30:22 2021
+    Info: Elapsed time: 00:00:07
+    Info: Total CPU time (on all processors): 00:00:07
+
+Completed successfully. 
+
+**** Generating the ModelSim .do script ****
+
+C:/Users/vasanza/Desktop/Ejemplo1_MK/simulation/qsim/Ejemplo1_MK.do generated.
+
+Completed successfully. 
+
+**** Running the ModelSim simulation ****
+
+C:/intelFPGA/17.0/modelsim_ase/win32aloem/vsim -c -do Ejemplo1_MK.do
+
+Reading C:/intelFPGA/17.0/modelsim_ase/tcl/vsim/pref.tcl
+
+
+# 10.5b
+
+
+# do Ejemplo1_MK.do
+
+# ** Warning: (vlib-34) Library already exists at "work".
+
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:30:25 on Jun 16,2021
+# vcom -work work Ejemplo1_MK.vho 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package altera_lnsim_components
+
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package cyclonev_atom_pack
+# -- Loading package cyclonev_components
+# -- Compiling entity ejemplo1_MK
+# -- Compiling architecture structure of ejemplo1_MK
+
+# End time: 15:30:26 on Jun 16,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:30:26 on Jun 16,2021
+# vcom -work work Waveform.vwf.vht 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ejemplo1_MK_vhd_vec_tst
+# -- Compiling architecture ejemplo1_MK_arch of ejemplo1_MK_vhd_vec_tst
+
+# End time: 15:30:26 on Jun 16,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+
+# vsim -novopt -c -t 1ps -L cyclonev -L altera -L altera_mf -L 220model -L sgate -L altera_lnsim work.Ejemplo1_MK_vhd_vec_tst 
+# Start time: 15:30:26 on Jun 16,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ejemplo1_mk_vhd_vec_tst(ejemplo1_mk_arch)
+# Loading altera_lnsim.altera_lnsim_components
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading cyclonev.cyclonev_atom_pack(body)
+# Loading cyclonev.cyclonev_components
+# Loading work.ejemplo1_mk(structure)
+# Loading ieee.std_logic_arith(body)
+# Loading cyclonev.cyclonev_io_obuf(arch)
+# Loading cyclonev.cyclonev_io_ibuf(arch)
+# Loading cyclonev.cyclonev_lcell_comb(vital_lcell_comb)
+# after#32
+
+# End time: 15:30:29 on Jun 16,2021, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 0
+
+Completed successfully. 
+
+**** Converting ModelSim VCD to vector waveform ****
+
+Reading C:/Users/vasanza/Desktop/Ejemplo1_MK/Waveform.vwf...
+
+Reading C:/Users/vasanza/Desktop/Ejemplo1_MK/simulation/qsim/Ejemplo1_MK.msim.vcd...
+
+Processing channel transitions... 
+
+Writing the resulting VWF to C:/Users/vasanza/Desktop/Ejemplo1_MK/simulation/qsim/Ejemplo1_MK_20210616153029.sim.vwf
+
+Finished VCD to VWF conversion.
+
+Completed successfully. 
+
+All completed.

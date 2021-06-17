@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/vasanza/Desktop/Ejemplo1_MK/simulation/qsim
+Eejemplo1_mk
+Z1 w1623875421
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 cD3@N^MdoDolN5@R6?T[V1
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx8 cyclonev 19 cyclonev_components 0 22 3BCIeZzdIHLCX<;R;K38G3
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 PQDYM9fR]Wek<A7X8bA8S1
+R0
+Z9 8Ejemplo1_MK.vho
+Z10 FEjemplo1_MK.vho
+l0
+L37
+V@zJJdg@3^UEAUF1W:>DCK0
+!s100 51cCG[RE^M?3^Z_Lc1@VH1
+Z11 OV;C;10.5b;63
+32
+Z12 !s110 1623875426
+!i10b 1
+Z13 !s108 1623875425.000000
+Z14 !s90 -work|work|Ejemplo1_MK.vho|
+Z15 !s107 Ejemplo1_MK.vho|
+!i113 1
+Z16 o-work work
+Z17 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 11 ejemplo1_mk 0 22 @zJJdg@3^UEAUF1W:>DCK0
+l81
+L55
+Vz04XUXNNcjZbM>_UB60ki1
+!s100 EAb5`nFIGE0D;1<b7nobD3
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+Eejemplo1_mk_vhd_vec_tst
+Z18 w1623875413
+R6
+R7
+R0
+Z19 8Waveform.vwf.vht
+Z20 FWaveform.vwf.vht
+l0
+L32
+VR5A[nC]aW[0413:CYzhd90
+!s100 19Ihg<@6_^h4nV1:Agd9Q1
+R11
+32
+R12
+!i10b 1
+Z21 !s108 1623875426.000000
+Z22 !s90 -work|work|Waveform.vwf.vht|
+Z23 !s107 Waveform.vwf.vht|
+!i113 1
+R16
+R17
+Aejemplo1_mk_arch
+R6
+R7
+DEx4 work 23 ejemplo1_mk_vhd_vec_tst 0 22 R5A[nC]aW[0413:CYzhd90
+l51
+L34
+V_eaNV6H=OMZh]LJ?LDo7C2
+!s100 926W4H^kQ`4dKz9__;9jc3
+R11
+32
+R12
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R16
+R17

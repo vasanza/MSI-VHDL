@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/vasanza/Desktop/Ejemplo1_MK/Ejemplo1_MK.vhd
+source_file = 1, C:/Users/vasanza/Desktop/Ejemplo1_MK/Waveform.vwf
+source_file = 1, c:/intelfpga/17.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/intelfpga/17.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/intelfpga/17.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/intelfpga/17.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, C:/Users/vasanza/Desktop/Ejemplo1_MK/db/Ejemplo1_MK.cbx.xml
+design_name = ejemplo1_MK
+instance = comp, \F[0]~output\, F[0]~output, ejemplo1_MK, 1
+instance = comp, \B[0]~input\, B[0]~input, ejemplo1_MK, 1
+instance = comp, \C[0]~input\, C[0]~input, ejemplo1_MK, 1
+instance = comp, \A[0]~input\, A[0]~input, ejemplo1_MK, 1
+instance = comp, \D[0]~input\, D[0]~input, ejemplo1_MK, 1
+instance = comp, \F~0\, F~0, ejemplo1_MK, 1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, ejemplo1_MK, 1

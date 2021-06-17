@@ -1,0 +1,36 @@
+|ejemplo_estructural
+SA[0] => puerta_not:not1.X[0]
+SA[0] => puerta_and:and2.A[0]
+SB[0] => puerta_not:not2.X[0]
+SB[0] => puerta_and:and1.B[0]
+Y[0] <= puerta_or:or1.F[0]
+
+
+|ejemplo_estructural|puerta_not:not1
+X[0] => S[0].DATAIN
+S[0] <= X[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ejemplo_estructural|puerta_not:not2
+X[0] => S[0].DATAIN
+S[0] <= X[0].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ejemplo_estructural|puerta_and:and1
+A[0] => F.IN0
+B[0] => F.IN1
+F[0] <= F.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ejemplo_estructural|puerta_and:and2
+A[0] => F.IN0
+B[0] => F.IN1
+F[0] <= F.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ejemplo_estructural|puerta_or:or1
+A[0] => F.IN0
+B[0] => F.IN1
+F[0] <= F.DB_MAX_OUTPUT_PORT_TYPE
+
+

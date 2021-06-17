@@ -1,0 +1,13 @@
+|Ejemplo1_MK
+A[0] => F.IN0
+A[0] => F.IN0
+B[0] => F.IN1
+B[0] => F.IN0
+C[0] => F.IN1
+C[0] => F.IN1
+D[0] => F.IN1
+D[0] => F.IN1
+D[0] => F.IN1
+F[0] <= F.DB_MAX_OUTPUT_PORT_TYPE
+
+

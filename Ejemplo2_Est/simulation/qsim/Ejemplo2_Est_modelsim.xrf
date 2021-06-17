@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/vasanza/Desktop/Ejemplo2_Est/puerta_or.vhd
+source_file = 1, C:/Users/vasanza/Desktop/Ejemplo2_Est/puerta_not.vhd
+source_file = 1, C:/Users/vasanza/Desktop/Ejemplo2_Est/puerta_and.vhd
+source_file = 1, C:/Users/vasanza/Desktop/Ejemplo2_Est/ejemplo_estructural.vhd
+source_file = 1, c:/intelfpga/17.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/intelfpga/17.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/intelfpga/17.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/intelfpga/17.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, C:/Users/vasanza/Desktop/Ejemplo2_Est/db/Ejemplo2_Est.cbx.xml
+design_name = ejemplo_estructural
+instance = comp, \Y[0]~output\, Y[0]~output, ejemplo_estructural, 1
+instance = comp, \SB[0]~input\, SB[0]~input, ejemplo_estructural, 1
+instance = comp, \SA[0]~input\, SA[0]~input, ejemplo_estructural, 1
+instance = comp, \or1|F[0]~0\, or1|F[0]~0, ejemplo_estructural, 1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, ejemplo_estructural, 1
