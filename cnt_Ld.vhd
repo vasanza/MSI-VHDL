@@ -1,4 +1,4 @@
---Counter up
+--Counter up with Load
 --https://vasanza.blogspot.com
 
 --Library
@@ -29,7 +29,7 @@ architecture solve of cnt_Ld is
 				if en='1' and ld='0' then
 					q<=q+1;
 				elsif en='1' and ld='1' then
-					Q<= D;
+					q<= D;
 				end if;
 			end if;
 	end process;
