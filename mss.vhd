@@ -50,10 +50,11 @@ architecture solve of mss is
 	process(y)-- mealy ->(y,d,n)
 	--Sequential programming
 		begin
+			c<='0';
 			case y is
-				when s1 => c<='0';est<="001";
-				when s2 => c<='0';est<="010";
-				when s3 => c<='0';est<="011";
+				when s1 => est<="001";
+				when s2 => est<="010";
+				when s3 => est<="011";
 				when s4 => c<='1';est<="100";
 				when s5 => c<='1';est<="101"; 
 			end case;
