@@ -1,0 +1,12 @@
+|ffjk
+j => process_0.IN0
+j => process_0.IN0
+j => process_0.IN0
+k => process_0.IN1
+k => process_0.IN1
+k => process_0.IN1
+Clk => q~reg0.CLK
+resetn => q~reg0.ACLR
+q << q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
