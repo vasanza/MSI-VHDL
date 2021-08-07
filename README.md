@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/12642226/128603025-b79244d5-ac4b-4896-ab77-9f289ed91369.png)
+
+# MSS + MSI: Loading data into registers sequentially
 # IDE
 - Quartus Prime 17.0.0 Build 595 04/25/2017 SJ Standard Edition
 
