@@ -1,0 +1,38 @@
+--Universal Register
+--https://vasanza.blogspot.com
+
+--Library
+library ieee;
+use ieee.std_logic_1164.all;
+
+ENTITY Ureg IS
+	GENERIC (n: integer:= 4);
+	PORT(	S			: IN	STD_LOGIC_VECTOR(1 DOWNTO 0);
+			clear,clk	: IN	STD_LOGIC_VECTOR;
+			L,R			: IN 	STD_LOGIC_VECTOR;
+			P			: IN 	STD_LOGIC_VECTOR(n-1 DOWNTO 0);
+			Q			: BUFFER STD_LOGIC_VECTOR(n-1 DOWNTO 0));
+END Ureg;
+
+ARCHITECTURE solve OF Ureg IS
+BEGIN
+	PROCESS (clear,clk)
+	BEGIN
+		IF clear = '0' THEN Q <= (OTHERS =>'0');
+		ELSIF clk'EVENT AND clk='1' THEN
+			IF S(1)='0' AND S(0)='1' THEN
+				desplazamiento: for i in 0 to n-2 loop
+					Q(i)<= Q(i+1);
+				end loop;
+				Q(n-1)<= R;
+			ELSIF S(1)='1' AND S(0)='0' THEN
+				desplazamiento: for i in 1 to n-1 loop
+					Q(i)<= Q(i-1);
+				end loop;
+				Q(0)<= L;
+			ELSIF S(1)='1' AND S(0)='1' THEN
+				Q<= P;
+			END IF;
+		END IF;
+	END PROCESS;
+END solve;

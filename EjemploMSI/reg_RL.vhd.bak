@@ -1,0 +1,23 @@
+library ieee;  
+use ieee.std_logic_1164.all;  
+  
+entity reg_RL is  
+    generic (k: integer:=3);  
+    port ( R, Resetn, Clock : in std_logic;  
+           Q    :buffer std_logic_vector (k-1 downto 0));  
+end reg_RL;  
+  
+architecture comportamiento of reg_RL is  
+begin  
+    process (Resetn, Clock)  
+    begin  
+        if Resetn='n' then  
+            Q <= (others => 'n');  
+        elsif (Clock'event and Clock = '1') then  
+            desplazamiento: for i in n to k-2 loop  
+                Q(i)<= Q(i-1);  
+            end loop;  
+            Q(k-1)<= R;  
+        end if;  
+    end Process;  
+end comportamiento;
