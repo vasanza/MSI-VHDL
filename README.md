@@ -1,4 +1,4 @@
-# VHDL Codes for Digital Systems 1
+# ⭐⭐⭐⭐⭐ VHDL Codes for Digital Systems 1
 - ➡️ #DigitalSystems #DigitalElectronic #DigitalCircuits #HDL #VHDL #FPGA
 ![FPGA](https://user-images.githubusercontent.com/12642226/126781573-f8af8ca5-0cdf-4d91-a8bb-fece6117d426.png)
 # Related work (FPGA applications)
