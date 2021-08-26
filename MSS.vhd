@@ -1,20 +1,21 @@
 --Synchronous Sequential Machine
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity mss is
+entity MSS is
 	port(
 		resetn,clk,d,n: in std_logic;
 		est: out std_logic_vector(2 downto 0);
 		c: out std_logic);
-end mss;
+end MSS;
 
 --Architecture
-architecture solve of mss is
+architecture solve of MSS is
 	-- Signals,Constants,Variables,Components
 	type estado is (s1,s2,s3,s4,s5);
 	signal y: estado;
