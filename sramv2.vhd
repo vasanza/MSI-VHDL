@@ -9,17 +9,17 @@ use ieee.numeric_std.all;
 use ieee.std_logic_unsigned.all;
 
 --Entity
-entity RAM_1 is
+entity sramv2 is
 generic ( n: integer:=8; 
 			m:integer:=8 );
 port(clock, WE: in std_logic;
 		Data: in std_logic_vector(n-1 downto 0);
 		Address: in std_logic_vector(m-1 downto 0);
 		Q: out std_logic_vector(n-1 downto 0));
-end RAM_1;
+end sramv2;
 
 --Architecture
-architecture comp of RAM_1 is
+architecture comp of sramv2 is
 type ram_type is array (254 downto 0) of std_logic_vector (7 downto 0);
 signal memram: ram_type;
 --signal temp: std_logic_vector(7 downto 0);
