@@ -1,5 +1,6 @@
 --BCD decoder to 7 segment display (Common Anode)
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
@@ -8,14 +9,14 @@ use ieee.std_logic_arith.ALL;
 use ieee.std_logic_unsigned.ALL;
  
 --Entity
-entity deco_bcd7s is
+entity Deco_bcd7s is
    port(
 		BCD: in std_logic_vector(3 downto 0);
 		SEG7: out std_logic_vector(1 to 7));
-end deco_bcd7s;
+end Deco_bcd7s;
 
 --Architecture
-architecture solve of deco_bcd7s is
+architecture solve of Deco_bcd7s is
 	-- Signals,Constants,Variables,Components
 	 begin
 		SEG7 <=	"0000001"	when BCD = "0000" ELSE
