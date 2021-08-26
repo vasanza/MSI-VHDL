@@ -1,19 +1,20 @@
 --Flip Flop type JK
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity ffjk is
+entity FFjk is
 	port(
 		j,k,Clk,resetn: in std_logic;
 		q: buffer std_logic);
-end ffjk;
+end FFjk;
 
 --Architecture
-architecture solve of ffjk is
+architecture solve of FFjk is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
