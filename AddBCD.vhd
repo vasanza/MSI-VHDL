@@ -1,5 +1,6 @@
 --2-number adder BCD
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
