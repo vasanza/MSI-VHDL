@@ -1,20 +1,21 @@
 --Decoder 3 to 8
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity deco3a8 is
+entity Deco3to8 is
 	port (
 		sel : in std_logic_vector(2 downto 0);
 		en: in std_logic;
 		Q : out std_logic_vector(7 downto 0));
-end deco3a8;
+end Deco3to8;
 
 --Architecture
-architecture solve of deco3a8 is
+architecture solve of Deco3to8 is
 	-- Signals,Constants,Variables,Components
 	signal f: std_logic_vector(7 downto 0);
 	begin
