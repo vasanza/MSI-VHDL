@@ -1,6 +1,6 @@
-  --32-word 8-bit synchronous RAM
+--32-word 8-bit synchronous RAM
 --https://vasanza.blogspot.com
--- By: Bryan macias and Angel Villamar
+-- By: Bryan macias and Angel Villamar (2021PAO1)
 
 --Library
 library ieee;
