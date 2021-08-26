@@ -1,12 +1,13 @@
 --4-to-1 n-bit multiplexer
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity mux4a1 is
+entity Mux4a1 is
 	generic ( n: integer:=4);--<-- nbits
 	port (
 		A : in std_logic_vector(n-1 downto 0);
@@ -16,10 +17,10 @@ entity mux4a1 is
 		sel : in std_logic_vector(1 downto 0);
 		en: in std_logic;
 		Q : out std_logic_vector(n-1 downto 0));
-end mux4a1;
+end Mux4a1;
 
 --Architecture
-architecture solve of mux4a1 is
+architecture solve of Mux4a1 is
 	-- Signals,Constants,Variables,Components
 	signal f: std_logic_vector(n-1 downto 0);
 	begin
