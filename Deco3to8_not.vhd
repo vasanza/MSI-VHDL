@@ -1,20 +1,21 @@
 --Decoder 3 to 8 with output denied
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity deco3a8n is
+entity Deco3to8_not is
 	port (
 		sel : in std_logic_vector(2 downto 0);
 		en: in std_logic;
 		Q : out std_logic_vector(7 downto 0));
-end deco3a8n;
+end Deco3to8_not;
 
 --Architecture
-architecture solve of deco3a8n is
+architecture solve of Deco3to8_not is
 	-- Signals,Constants,Variables,Components
 	signal f: std_logic_vector(7 downto 0);
 	begin
