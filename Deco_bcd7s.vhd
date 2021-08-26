@@ -1,6 +1,7 @@
 --BCD decoder to 7 segment display (Common Anode)
 --https://vasanza.blogspot.com
 --https://github.com/vasanza/MSI-VHDL
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
