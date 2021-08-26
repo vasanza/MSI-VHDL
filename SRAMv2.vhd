@@ -1,5 +1,6 @@
 --32-word 8-bit synchronous RAM
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 -- By: Bryan macias and Angel Villamar (2021PAO1)
 
 --Library
