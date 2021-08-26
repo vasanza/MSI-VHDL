@@ -1,5 +1,6 @@
 --8-bit Binary Data Decoder to BCD (Units, Tens and Hundreds)
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
@@ -7,14 +8,14 @@ use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 
 --Entity
-entity decoBin_BCD is
+entity DecoBin_BCD is
     port(
         num_bin: in  std_logic_vector(8 downto 0);
         num_bcd: out std_logic_vector(10 downto 0));
-end decoBin_BCD;
+end DecoBin_BCD;
 
 --Architecture
-architecture solve of decoBin_BCD is
+architecture solve of DecoBin_BCD is
 	-- Signals,Constants,Variables,Components
 	begin
     --Process #1
