@@ -1,19 +1,20 @@
 --Flip Flop type SD
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity ffsd is
+entity FFsd is
 	port(
 		s,d,Clk,resetn: in std_logic;
 		q: buffer std_logic);
-end ffsd;
+end FFsd;
 
 --Architecture
-architecture solve of ffsd is
+architecture solve of FFsd is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
