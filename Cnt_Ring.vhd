@@ -6,14 +6,14 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity RingCnt is
+entity Cnt_Ring is
 	port(
 		Clk,resetn,en: in std_logic;
 		q: buffer std_logic_vector(3 downto 0));
-end RingCnt;
+end Cnt_Ring;
 
 --Architecture
-architecture solve of RingCnt is
+architecture solve of Cnt_Ring is
 	-- Signals,Constants,Variables,Components
 	signal temp: std_logic;
 	begin
