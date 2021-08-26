@@ -1,5 +1,6 @@
 --Pseudorandom number generator
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 --By: Angel Zumba and Jose Marquez (2021PAO1)
 
 --Library
@@ -7,16 +8,16 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity rand8bits is 
+entity Rand_8bits is 
    port (clk : in std_logic;
 	      reset: in std_logic; 
 			load: in std_logic;
 			seed: in std_logic_vector (7 downto 0);
 			random: out std_logic_vector (7 downto 0));
-end rand8bits;
+end Rand_8bits;
 
 --Architecture
-architecture funcional of rand8bits is
+architecture funcional of Rand_8bits is
 	-- Signals,Constants,Variables,Components
     signal lfsr_reg: std_logic_vector(7 downto 0);
 
