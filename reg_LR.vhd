@@ -6,16 +6,16 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity reg_LR is
+entity Reg_LR is
 	generic (n: integer:= 3);--<------- nbits
 	port(
 		Resetn,En,Ld,R,clk : in std_logic;
 		DataIn : in std_logic_vector(n-1 downto 0);
 		Q: buffer std_logic_vector (n-1 downto 0));
-end reg_LR;
+end Reg_LR;
 
 --Architecture
-architecture solve of reg_LR is
+architecture solve of Reg_LR is
 	-- Signals,Constants,Variables,Components
 	begin 
 	--Process #1
