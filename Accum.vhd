@@ -1,5 +1,6 @@
 --Accumulator
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
@@ -7,16 +8,16 @@ use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 
 --Entity
-entity accum is
+entity Accum is
 	generic ( n: integer :=4);--<------- nbits
 	port(
 		Clk,resetn,en: in std_logic;
 		data: in std_logic(n-1 downto 0);
 		q: buffer std_logic_vector(n-1 downto 0));
-end accum;
+end Accum;
 
 --Architecture
-architecture solve of accum is
+architecture solve of Accum is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
