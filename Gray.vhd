@@ -1,19 +1,20 @@
 --Binary (4-bit) to Gray converter
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity gray is
+entity Gray is
 	port(
 		X: in std_logic_vector(3 downto 0);
 		S: out std_logic_vector(3 downto 0));
-end gray;
+end Gray;
 
 --Architecture
-architecture solve of gray is
+architecture solve of Gray is
 	-- Signals,Constants,Variables,Components
 	begin
 		s(3)<=x(3)xor'0';
