@@ -6,14 +6,14 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity Cnt_Ring is
+entity cnt_ring is
 	port(
 		Clk,resetn,en: in std_logic;
 		q: buffer std_logic_vector(3 downto 0));
-end Cnt_Ring;
+end cnt_ring;
 
 --Architecture
-architecture solve of Cnt_Ring is
+architecture solve of cnt_ring is
 	-- Signals,Constants,Variables,Components
 	signal temp: std_logic;
 	begin
