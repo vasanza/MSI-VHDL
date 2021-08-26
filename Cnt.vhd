@@ -7,15 +7,15 @@ use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 
 --Entity
-entity cnt is
+entity Cnt is
 	generic ( n: integer :=4);--<------- nbits
 	port(
 		Clk,resetn,en: in std_logic;
 		q: buffer std_logic_vector(n-1 downto 0));
-end cnt;
+end Cnt;
 
 --Architecture
-architecture solve of cnt is
+architecture solve of Cnt is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
