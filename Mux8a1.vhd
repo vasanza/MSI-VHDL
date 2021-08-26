@@ -1,12 +1,13 @@
 --8-to-1 n-bit multiplexer
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity mux8a1 is
+entity Mux8a1 is
 	generic ( n: integer:=4);--<-- nbits
 	port(
 		A : in std_logic_vector(n-1 downto 0);
@@ -20,10 +21,10 @@ entity mux8a1 is
 		sel : in std_logic_vector(2 downto 0);
 		en: in std_logic;
 		Q : out std_logic_vector(n-1 downto 0));
-end mux8a1;
+end Mux8a1;
 
 --Architecture
-architecture solve of mux8a1 is
+architecture solve of Mux8a1 is
 	-- Signals,Constants,Variables,Components
 	signal X: std_logic_vector(n-1 downto 0);
 	begin
