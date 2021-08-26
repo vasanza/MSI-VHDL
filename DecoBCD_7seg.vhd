@@ -1,19 +1,20 @@
 --BCD data decoder to 7 segment display
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity decoBCD_7seg is
+entity DecoBCD_7seg is
 	port(
 		BCD: in std_logic_vector(3 downto 0);
 		anodo7: out std_logic_vector(6 downto 0));
-end decoBCD_7seg;
+end DecoBCD_7seg;
 
 --Architecture
-architecture solve of decoBCD_7seg is
+architecture solve of DecoBCD_7seg is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
