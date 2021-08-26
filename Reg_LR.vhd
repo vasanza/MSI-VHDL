@@ -1,5 +1,6 @@
 --Left to Right Shift Register
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
