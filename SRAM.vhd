@@ -8,7 +8,7 @@ use ieee.std_logic_arith.all;
 use ieee.std_logic_unsigned.all;
 
 --Entity
-entity sram is 
+entity SRAM is 
 	generic(n: integer:=8;-- n-bits per data
 	m: integer:=2); -- m-bits of addresses
 	port(
@@ -16,10 +16,10 @@ entity sram is
 		addr : in std_logic_vector(m-1 downto 0); 
 		Din : in std_logic_vector(n-1 downto 0);
 		Dout : out std_logic_vector(n-1 downto 0)); 
-end sram;
+end SRAM;
 
 --Architecture
-architecture solve of sram is
+architecture solve of SRAM is
 	-- Signals,Constants,Variables,Components	
 	type ram_type is array (0 to (2**m)-1) of std_logic_vector(n-1 downto 0); 
 	signal tmp_ram: ram_type; 
