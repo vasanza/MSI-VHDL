@@ -1,21 +1,22 @@
 --Right to Left Shift Register
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;  
 use ieee.std_logic_1164.all;  
 
 --Entity
-entity reg_RL is  
+entity Reg_RL is  
     generic (n: integer:=3);--<------- nbits
     port(
 		Resetn,En,Ld,L,clk : in std_logic;
 		DataIn : in std_logic_vector(n-1 downto 0);
       Q : buffer std_logic_vector (n-1 downto 0));  
-end reg_RL;  
+end Reg_RL;  
 
 --Architecture
-architecture solve of reg_RL is
+architecture solve of Reg_RL is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
