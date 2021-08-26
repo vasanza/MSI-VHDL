@@ -1,19 +1,20 @@
 --Flip Flop type SR
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity ffsr is
+entity FFsr is
 	port(
 		s,r,Clk,resetn: in std_logic;
 		q: buffer std_logic);
-end ffsr;
+end FFsr;
 
 --Architecture
-architecture solve of ffsr is
+architecture solve of FFsr is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
