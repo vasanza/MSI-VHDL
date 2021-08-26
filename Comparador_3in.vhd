@@ -1,22 +1,23 @@
 --3-input n-bit comparator
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-Entity comparador3 is
+Entity Comparador_3in is
 	generic ( n: integer :=4);--<-- nbits
 	Port(
 		A,B,C: in std_logic_vector(n-1 downto 0);
 		AmayorB, AmayorC, BmayorC: out std_logic;
 		AigualB, AigualC, BigualC: out std_logic;
 		AmenorB, AmenorC, BmenorC: out std_logic);
-end comparador3;
+end Comparador_3in;
 
 --Architecture
-Architecture solve of comparador3 is
+Architecture solve of Comparador_3in is
 	-- Signals,Constants,Variables,Components
 	Begin
 		AmayorB<='1' when A>B else '0';
