@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+##  VHDL Codes for Digital Systems
 
-You can use the [editor on GitHub](https://github.com/vasanza/MSI-VHDL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Related work (FPGA applications)
+- https://vasanza.blogspot.com/
+- https://ieeexplore.ieee.org/abstract/document/9232863
+- https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17
+- https://ieeexplore.ieee.org/document/9096752
+- https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html
+- https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware_16.html
+- https://vasanza.blogspot.com/2017/08/practica-resolucion-de-circuitos.html
+- https://vasanza.blogspot.com/2017/08/practica-simulacion-de-circuitos-msi-en.html
 
 ### Markdown
 
@@ -11,7 +17,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# git status
+git clone https://github.com/vasanza/MSI_VHDL.git
+
 ## Header 2
 ### Header 3
 
@@ -30,7 +38,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vasanza/MSI-VHDL/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected
 
 ### Support or Contact
 
