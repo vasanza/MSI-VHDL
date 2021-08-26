@@ -1,19 +1,20 @@
 --Flip Flop type T
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity fft is
+entity FFt is
 	port(
 		t,Clk,resetn: in std_logic;
 		q: buffer std_logic);
-end fft;
+end FFt;
 
 --Architecture
-architecture solve of fft is
+architecture solve of FFt is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
