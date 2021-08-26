@@ -1,22 +1,23 @@
 --Universal Register
 --https://vasanza.blogspot.com
+--https://github.com/vasanza/MSI-VHDL
 
 --Library
 library ieee;
 use ieee.std_logic_1164.all;
 
 --Entity
-entity Ureg is
+entity Reg_Univ is
 	generic(n: integer:= 4);--<------- nbits
 	port(
 		S: in	std_logic_vector(1 downto 0);
 		clear,clk,L,R: in	std_logic;
 		P: in std_logic_vector(n-1 downto 0);
 		Q: buffer std_logic_vector(n-1 downto 0));
-end Ureg;
+end Reg_Univ;
 
 --Architecture
-architecture solve of Ureg is
+architecture solve of Reg_Univ is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
