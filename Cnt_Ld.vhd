@@ -7,16 +7,16 @@ use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 
 --Entity
-entity cnt_Ld is
+entity Cnt_Ld is
 	generic ( n: integer :=4);--<------- nbits
 	port(
 		Clk,resetn,en,ld: in std_logic;
 		D: in std_logic_vector(n-1 downto 0);
 		q: buffer std_logic_vector(n-1 downto 0));
-end cnt_Ld;
+end Cnt_Ld;
 
 --Architecture
-architecture solve of cnt_Ld is
+architecture solve of Cnt_Ld is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
