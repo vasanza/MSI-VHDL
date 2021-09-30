@@ -1,6 +1,6 @@
 --32-word 8-bit synchronous RAM with enable
---https://vasanza.blogspot.com
---https://github.com/vasanza/MSI-VHDL
+--https://github.com/VHDL-Digital-Systems
+--http://blog.espol.edu.ec/sistemasdigitalesfiec
 
 --Library
 library ieee;
