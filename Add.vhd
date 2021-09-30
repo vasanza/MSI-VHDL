@@ -1,6 +1,5 @@
 --Adder of 2 number of n bits
---https://vasanza.blogspot.com
---https://github.com/vasanza/MSI-VHDL
+--https://github.com/VHDL-Digital-Systems
 
 --Library
 library ieee;
