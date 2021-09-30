@@ -1,6 +1,5 @@
 --ALU
---https://vasanza.blogspot.com
---https://github.com/vasanza/MSI-VHDL
+--https://github.com/VHDL-Digital-Systems
 	
 --Library
 library ieee;
