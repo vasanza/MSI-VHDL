@@ -2,8 +2,7 @@
 - ➡️ #DigitalSystems #DigitalElectronic #DigitalCircuits #HDL #VHDL #FPGA #MSI #FPGA
 ![FPGA](https://user-images.githubusercontent.com/12642226/126781573-f8af8ca5-0cdf-4d91-a8bb-fece6117d426.png)
 # Related work (FPGA applications)
---http://blog.espol.edu.ec/sistemasdigitalesfiec
-- https://vasanza.blogspot.com/
+- http://blog.espol.edu.ec/sistemasdigitalesfiec
 - https://ieeexplore.ieee.org/abstract/document/9530151
 - https://ieeexplore.ieee.org/abstract/document/9232863
 - https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17
