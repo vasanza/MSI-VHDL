@@ -1,5 +1,6 @@
 --Adder of 2 number of n bits
---https://vasanza.blogspot.com
+--https://github.com/VHDL-Digital-Systems
+--http://blog.espol.edu.ec/sistemasdigitalesfiec
 
 --Library
 library ieee;
