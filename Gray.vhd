@@ -1,6 +1,6 @@
 --Binary (4-bit) to Gray converter
---https://vasanza.blogspot.com
---https://github.com/vasanza/MSI-VHDL
+--https://github.com/VHDL-Digital-Systems
+--http://blog.espol.edu.ec/sistemasdigitalesfiec
 
 --Library
 library ieee;
