@@ -9,17 +9,17 @@ use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
 
 --Entity
-entity Producto is
+entity Product is
 	generic ( n: integer :=4);--<------- nbits
 	port(
 		A,B: in std_logic_vector(n-1 downto 0);
 		clk,ResetnMult,start: in std_logic;
 		q: out std_logic_vector(2*n-1 downto 0);
 		fin: out std_logic);
-end Producto;
+end Product;
 
 --Architecture
-architecture solve of Producto is
+architecture solve of Product is
 	-- Signals,Constants,Variables,Components
 	begin
 	--Process #1
