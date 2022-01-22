@@ -18,8 +18,8 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2017/12/sistemas-digitales-1-solucion-examen.html): Circuito combinatorial.
 
 ## Programación en VHDL
-- [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19), [Blog](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
-- [Video 2](https://www.youtube.com/watch?v=v5BQ54q3yq8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19&t=8s), [Blog](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware_16.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital secuencial.
+- [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19), [Post 1](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
+- [Video 2](https://www.youtube.com/watch?v=v5BQ54q3yq8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19&t=8s), [Post 2](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware_16.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital secuencial.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-resolucion-de-circuitos.html): Circuitos combinatoriales con VHDL.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/03/solucion-leccion-sistemas-digitales-1_29.html): Circuito combinatorial y VHDL.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/04/solucion-evaluacion-sistemas-digitales.html): Circuito combinatorial y VHDL.
