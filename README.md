@@ -3,10 +3,12 @@
 ![FPGA](https://user-images.githubusercontent.com/12642226/126781573-f8af8ca5-0cdf-4d91-a8bb-fece6117d426.png)
 
 # Contenidos
+![SD](https://user-images.githubusercontent.com/12642226/150647904-c8eaf852-bfd2-4465-b432-90fd83dee562.png)
 En este repositorio puedes encontrar códigos de bloques de Mediana Escala de Integración (MSI) para utilizar en tus diseños digitales.
 Además, te recomiendo revisar estos videos que te serán útiles para adentrarte en el diseño de Sistemas Digitales:
 ## Introducción
 - [Video 1](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
+- [Video 2] (https://www.youtube.com/watch?v=RsQSRA2K-R0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=2876s): Ejercicios resueltos de Sistemas Digitales.
 
 ## Programación en VHDL
 - [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
