@@ -10,12 +10,25 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 ## Introducción
 - [Video 1](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
 - [Video 2](https://www.youtube.com/watch?v=RsQSRA2K-R0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=2876s): Ejercicios resueltos de Sistemas Digitales.
+- 
 
 ## Programación en VHDL
 - [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19), [Blog](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
 - [Video 2](https://www.youtube.com/watch?v=v5BQ54q3yq8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19&t=8s), [Blog](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware_16.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital secuencial.
-- [Ejemplo 1](https://vasanza.blogspot.com/2017/08/practica-resolucion-de-circuitos.html): Circuitos combinatoriales
-- [Práctica](https://vasanza.blogspot.com/2017/08/practica-simulacion-de-circuitos-msi-en.html): Simulación de bloques MSI en Quartus
+- [Ejemplo 1](https://vasanza.blogspot.com/2017/08/practica-resolucion-de-circuitos.html): Circuitos combinatoriales.
+- [Práctica](https://vasanza.blogspot.com/2017/08/practica-simulacion-de-circuitos-msi-en.html): Simulación de bloques MSI en Quartus.
+
+## Maquinas Secuenciales Sincrónicas (MSS)
+- [Video 1](https://www.youtube.com/watch?v=LIuhAu6pFls&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15&t=933s): Diseño y conversión de Flip-Flips (FF)
+
+## Dieño Formal de Sistemas Digitales (SD)
+- [Video 1](https://www.youtube.com/watch?v=suKzo0FqlgA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15): Introducción al diseño formal de SD (MSI + MSS)
+
+## Aplicaciones con memorias RAM
+- [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales. 
+
+# Temas de proyectos
+- 
 
 # Related work (FPGA applications)
 - **Paper 1:** [Performance Comparison of Database Server based on SoC FPGA and ARM Processor](https://ieeexplore.ieee.org/document/9647742)
