@@ -1,6 +1,13 @@
 # ⭐⭐⭐⭐⭐ VHDL Codes for Digital Systems 1
 - ➡️ #DigitalSystems #DigitalElectronic #DigitalCircuits #HDL #VHDL #FPGA #MSI #FPGA
 ![FPGA](https://user-images.githubusercontent.com/12642226/126781573-f8af8ca5-0cdf-4d91-a8bb-fece6117d426.png)
+
+# Contenidos
+En este repositorio puedes encontrar códigos de bloques de Mediana Escala de Integración (MSI) para utilizar en tus diseños digitales.
+Además, te recomiendo revisar estos videos que te serán útiles para adentrarte en el diseño de Sistemas Digitales:
+
+- [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19):  Uso de Lenguaje de descripción de hardware VHDL para sistemas concurrentes.
+
 # Related work (FPGA applications)
 - https://vasanza.blogspot.com/
 - https://ieeexplore.ieee.org/abstract/document/9530151
