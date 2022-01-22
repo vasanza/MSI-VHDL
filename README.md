@@ -21,6 +21,10 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 ## Maquinas Secuenciales Sincrónicas (MSS)
 - [Video 1](https://www.youtube.com/watch?v=LIuhAu6pFls&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15&t=933s): Diseño y conversión de Flip-Flips (FF)
 
+
+## Memorias ROM
+- [Video 1] (https://www.youtube.com/watch?v=YXkjFQkx3As&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=13&t=3s): Diseño de una MSS usando memoria ROM
+
 ## Dieño Formal de Sistemas Digitales (SD)
 - [Video 1](https://www.youtube.com/watch?v=suKzo0FqlgA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15): Introducción al diseño formal de SD (MSI + MSS)
 
