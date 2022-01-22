@@ -19,8 +19,10 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-simulacion-de-circuitos-msi-en.html): Simulación de bloques MSI en Quartus.
 
 ## Maquinas Secuenciales Sincrónicas (MSS)
-- [Video 1](https://www.youtube.com/watch?v=LIuhAu6pFls&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15&t=933s): Diseño y conversión de Flip-Flips (FF)
-
+- [Video 1](https://www.youtube.com/watch?v=LIuhAu6pFls&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15&t=933s): Diseño y conversión de Flip-Flips (FF).
+- [Video 2](https://www.youtube.com/watch?v=gm7dK02FfDo&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=12&t=1s): Conversión y aplicaciones de los Flip-Flips (FF).
+- [Video 3](https://www.youtube.com/watch?v=jMllwBxmH0E&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=11&t=6s): Explicación y Simulación del Registro Universal 74194.
+- [Video 4](https://www.youtube.com/watch?v=Sf8DrhujwEE&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=6&t=1s): Simulación de la una MSS para carga de datos secuenciales.
 
 ## Memorias ROM
 - [Video 1] (https://www.youtube.com/watch?v=YXkjFQkx3As&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=13&t=3s): Diseño de una MSS usando memoria ROM
@@ -30,6 +32,13 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 
 ## Aplicaciones con memorias RAM
 - [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales. 
+
+## Arquitectura de Microprocesadores
+- [Video 1](https://www.youtube.com/watch?v=Xma-bvUI-e8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=5&t=3126s): Comparación entre Microcontroladores, Mmicroprocesadores, SoCs y FPGA.
+- [Video 2](https://www.youtube.com/watch?v=Sc5--d7hnN0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=10&t=1363s): Fundamentos de Microprocesadores y Sistemas Embebidos.
+- [Video 3](https://www.youtube.com/watch?v=9PJScPknzhY&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=4&t=1164s): Arquitectura de un Microprocesador Genérico.
+- [Video 4](https://www.youtube.com/watch?v=UdNjA-8QmtU&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=3&t=2s): Arquitectura de un Microprocesador Genérico v2.
+- [Video 5](https://www.youtube.com/watch?v=zKjPHsazdcA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=2&t=180s): Simulación de un Microprocesador Genérico.
 
 # Temas de proyectos
 - 
