@@ -56,6 +56,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-leccion-resuelta.html): Conversión de Flip-Flop, Registro Universal 74194, Contadores.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/08/solucion-leccion-sistemas-digitales-1.html): MSS con VHDL, ASM, Registro Universal 74194, Flip-Flop.
+- [Repositorio](https://github.com/vasanza/DigitalSystems/tree/main/Example_MSS_Sequential_Loading): VHDL de una MSS para carga de datos secuenciales.
 
 ## Memorias ROM
 - [Video 1](https://www.youtube.com/watch?v=YXkjFQkx3As&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=13&t=3s): Diseño de una MSS usando memoria ROM
@@ -64,7 +65,8 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 1](https://www.youtube.com/watch?v=suKzo0FqlgA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15): Introducción al diseño formal de SD (MSI + MSS)
 
 ## Aplicaciones con memorias RAM
-- [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales. 
+- [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales.
+- [Repositorio](https://github.com/vasanza/DigitalSystems/tree/main/Example_MaxToMin_ordering_in_RAM): Ordenamiento de valores de una RAM de Mayor a Menor.
 
 ## Arquitectura de Microprocesadores
 - [Video 1](https://www.youtube.com/watch?v=Xma-bvUI-e8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=5&t=3126s): Comparación entre Microcontroladores, Mmicroprocesadores, SoCs y FPGA.
@@ -72,6 +74,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 3](https://www.youtube.com/watch?v=9PJScPknzhY&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=4&t=1164s): Arquitectura de un Microprocesador Genérico.
 - [Video 4](https://www.youtube.com/watch?v=UdNjA-8QmtU&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=3&t=2s): Arquitectura de un Microprocesador Genérico v2.
 - [Video 5](https://www.youtube.com/watch?v=zKjPHsazdcA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=2&t=180s): Simulación de un Microprocesador Genérico.
+- [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2021PAO2/Practica_MicroProcesador): Arquitectura de un Microprocesador Genérico en VHDL.
 
 # Temas de proyectos
 - [Sistemas Digitales 1](https://vasanza.blogspot.com/2021/05/sistemas-digitales-1-proyectos.html): Proyectos basados en MSS.
