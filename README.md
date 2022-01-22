@@ -19,15 +19,19 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19), [Blog](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
 - [Video 2](https://www.youtube.com/watch?v=v5BQ54q3yq8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19&t=8s), [Blog](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware_16.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital secuencial.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-resolucion-de-circuitos.html): Circuitos combinatoriales con VHDL.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/11/leccion-vhdl-1er-parcial-sistemas.html): Circuito combinatorial y VHDL.
+
+## Circuitos de Mediana Escala de Integración (MSI)
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1_19.html): Mux y Decoder.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-simulacion-de-circuitos-msi-en.html): Simulación de bloques MSI en Quartus.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/11/leccion-vhdl-1er-parcial-sistemas.html): Circuito combinatorial.
 
 ## Maquinas Secuenciales Sincrónicas (MSS)
 - [Video 1](https://www.youtube.com/watch?v=LIuhAu6pFls&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15&t=933s): Diseño y conversión de Flip-Flips (FF).
 - [Video 2](https://www.youtube.com/watch?v=gm7dK02FfDo&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=12&t=1s): Conversión y aplicaciones de los Flip-Flips (FF).
 - [Video 3](https://www.youtube.com/watch?v=jMllwBxmH0E&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=11&t=6s): Explicación y Simulación del Registro Universal 74194.
 - [Video 4](https://www.youtube.com/watch?v=Sf8DrhujwEE&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=6&t=1s): Simulación de la una MSS para carga de datos secuenciales.
-- - [Ejercicios resueltos](https://vasanza.blogspot.com/2018/01/sistemas-digitales-1-leccion-resuelta.html): FF y Registro Univeral.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1_31.html): Flip-Flop con VHDL.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/01/sistemas-digitales-1-leccion-resuelta.html): Flip-Flop y Registro Univeral.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
 
 ## Memorias ROM
