@@ -11,34 +11,34 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 1](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
 - [Video 2](https://www.youtube.com/watch?v=RsQSRA2K-R0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=2876s): Ejercicios resueltos de Sistemas Digitales.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-analisis-de-circuitos.html): Análisis de Circuitos Combinatoriales.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/11/leccion-1er-parcial-sistemas-digitales.html): Conversión de base, Complemento a2, BCD, Algebra de Boole y Circuitos combinatoriales.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/07/solucion-leccion-sistemas-digitales-1.html): Conversión de base, ca2, Codigo BCD-Gray-XS3.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/03/solucion-leccion-sistemas-digitales-1.html): Conversión de base, Codigo BCD-Gray-XS3.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2017/05/ejercicios-propuestos-cap1-sistemas.html): Comversión de base, Suma-Multiplicación-División en diferentes bases, Complemento a2.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/07/solucion-evaluacion-sistemas-digitales.html): Circuito combinatorial y Mapas de Karnaugh.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/07/solucion-leccion-sistemas-digitales-1_7.html): Circuito combinatorial y Mapas de Karnaugh.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/03/solucion-leccion-sistemas-digitales-1_23.html): Circuito combinatorial y Mapas de Karnaugh.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/12/sistemas-digitales-1-solucion-examen.html): Circuito combinatorial.
+- [Ejercicios resueltos 1](https://vasanza.blogspot.com/2017/11/leccion-1er-parcial-sistemas-digitales.html): Conversión de base, Complemento a2, BCD, Algebra de Boole y Circuitos combinatoriales.
+- [Ejercicios resueltos 2](https://vasanza.blogspot.com/2021/07/solucion-leccion-sistemas-digitales-1.html): Conversión de base, ca2, Codigo BCD-Gray-XS3.
+- [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/03/solucion-leccion-sistemas-digitales-1.html): Conversión de base, Codigo BCD-Gray-XS3.
+- [Ejercicios resueltos 4](https://vasanza.blogspot.com/2020/07/solucion-evaluacion-sistemas-digitales.html): Circuito combinatorial y Mapas de Karnaugh.
+- [Ejercicios resueltos 5](https://vasanza.blogspot.com/2021/07/solucion-leccion-sistemas-digitales-1_7.html): Circuito combinatorial y Mapas de Karnaugh.
+- [Ejercicios resueltos 6](https://vasanza.blogspot.com/2021/03/solucion-leccion-sistemas-digitales-1_23.html): Circuito combinatorial y Mapas de Karnaugh.
+- [Ejercicios resueltos 7](https://vasanza.blogspot.com/2017/12/sistemas-digitales-1-solucion-examen.html): Circuito combinatorial.
 
 ## Programación en VHDL
 - [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19), [Post 1](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
 - [Video 2](https://www.youtube.com/watch?v=v5BQ54q3yq8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19&t=8s), [Post 2](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware_16.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital secuencial.
+- [Ejercicios resueltos 1](https://vasanza.blogspot.com/2020/07/solucion-leccion-sistemas-digitales-1.html): Circuito combinatorial, Algebra de Boole y VHDL.
+- [Ejercicios resueltos 2](https://vasanza.blogspot.com/2020/07/solucion-leccion-sistemas-digitales-1_22.html): Circuito combinatorial y VHDL.
+- [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/07/solucion-evaluacion-sistemas-digitales.html): Circuito combinatorial y VHDL.
+- [Ejercicios resueltos 4](https://vasanza.blogspot.com/2021/03/solucion-leccion-sistemas-digitales-1_29.html): Circuito combinatorial y VHDL.
+- [Ejercicios resueltos 5](https://vasanza.blogspot.com/2021/04/solucion-evaluacion-sistemas-digitales.html): Circuito combinatorial y VHDL.
+- [Ejercicios resueltos 6](https://vasanza.blogspot.com/2017/11/leccion-vhdl-1er-parcial-sistemas.html): Circuito combinatorial y VHDL.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-resolucion-de-circuitos.html): Circuito combinatorial y VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/07/solucion-leccion-sistemas-digitales-1.html): Circuito combinatorial, Algebra de Boole y VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/07/solucion-leccion-sistemas-digitales-1_22.html): Circuito combinatorial y VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/07/solucion-evaluacion-sistemas-digitales.html): Circuito combinatorial y VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/03/solucion-leccion-sistemas-digitales-1_29.html): Circuito combinatorial y VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/04/solucion-evaluacion-sistemas-digitales.html): Circuito combinatorial y VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/11/leccion-vhdl-1er-parcial-sistemas.html): Circuito combinatorial y VHDL.
 
 ## Circuitos de Mediana Escala de Integración (MSI)
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/09/solucion-leccion-sistemas-digitales-1_5.html): Mux y Flip-Flop.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1_19.html): Mux y Decoder.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/04/solucion-evaluacion-sistemas-digitales_22.html): Sistemas Digitales basado en MSI y VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/04/solucion-leccion-sistemas-digitales-1.html): Sistemas Digitales basado en MSI y VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1.html): Sistemas Digitales basado en MSI.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/09/solucion-examen-sistemas-digitales-1.html): Sistemas Digitales basado en MSI.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/09/solucion-evaluacion-sistemas-digitales_24.html): Sistemas Digitales basado en MSI y VHDL.
+- [Ejercicios resueltos 1](https://vasanza.blogspot.com/2020/09/solucion-leccion-sistemas-digitales-1_5.html): Mux y Flip-Flop.
+- [Ejercicios resueltos 2](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1_19.html): Mux y Decoder.
+- [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/04/solucion-evaluacion-sistemas-digitales_22.html): Sistemas Digitales basado en MSI y VHDL.
+- [Ejercicios resueltos 4](https://vasanza.blogspot.com/2021/04/solucion-leccion-sistemas-digitales-1.html): Sistemas Digitales basado en MSI y VHDL.
+- [Ejercicios resueltos 5](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1.html): Sistemas Digitales basado en MSI.
+- [Ejercicios resueltos 6](https://vasanza.blogspot.com/2018/09/solucion-examen-sistemas-digitales-1.html): Sistemas Digitales basado en MSI.
+- [Ejercicios resueltos 7](https://vasanza.blogspot.com/2020/09/solucion-evaluacion-sistemas-digitales_24.html): Sistemas Digitales basado en MSI y VHDL.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-simulacion-de-circuitos-msi-en.html): Simulación de bloques MSI en Quartus.
 
 ## Maquinas Secuenciales Sincrónicas (MSS)
@@ -46,16 +46,16 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 2](https://www.youtube.com/watch?v=gm7dK02FfDo&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=12&t=1s): Conversión y aplicaciones de los Flip-Flips (FF).
 - [Video 3](https://www.youtube.com/watch?v=jMllwBxmH0E&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=11&t=6s): Explicación y Simulación del Registro Universal 74194.
 - [Video 4](https://www.youtube.com/watch?v=Sf8DrhujwEE&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=6&t=1s): Simulación de la una MSS para carga de datos secuenciales.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/09/solucion-leccion-sistemas-digitales-1.html): Flip-Flop.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/04/solucion-leccion-sistemas-digitales-1_20.html): Flip-Flop.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales_2.html): Flip-Flop con VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/09/solucion-evaluacion-sistemas-digitales.html): Flip-Flop con VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1_31.html): Flip-Flop con VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-solucion-examen.html): Registro Univeral 74194.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/01/sistemas-digitales-1-leccion-resuelta.html): Flip-Flop y Registro Univeral 74194.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-leccion-resuelta.html): Conversión de Flip-Flop, Registro Universal 74194, Contadores.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/08/solucion-leccion-sistemas-digitales-1.html): MSS con VHDL, ASM, Registro Universal 74194, Flip-Flop.
+- [Ejercicios resueltos 1](https://vasanza.blogspot.com/2020/09/solucion-leccion-sistemas-digitales-1.html): Flip-Flop.
+- [Ejercicios resueltos 2](https://vasanza.blogspot.com/2021/04/solucion-leccion-sistemas-digitales-1_20.html): Flip-Flop.
+- [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales_2.html): Flip-Flop con VHDL.
+- [Ejercicios resueltos 4](https://vasanza.blogspot.com/2020/09/solucion-evaluacion-sistemas-digitales.html): Flip-Flop con VHDL.
+- [Ejercicios resueltos 5](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1_31.html): Flip-Flop con VHDL.
+- [Ejercicios resueltos 6](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-solucion-examen.html): Registro Univeral 74194.
+- [Ejercicios resueltos 7](https://vasanza.blogspot.com/2018/01/sistemas-digitales-1-leccion-resuelta.html): Flip-Flop y Registro Univeral 74194.
+- [Ejercicios resueltos 8](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
+- [Ejercicios resueltos 9](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-leccion-resuelta.html): Conversión de Flip-Flop, Registro Universal 74194, Contadores.
+- [Ejercicios resueltos 10](https://vasanza.blogspot.com/2021/08/solucion-leccion-sistemas-digitales-1.html): MSS con VHDL, ASM, Registro Universal 74194, Flip-Flop.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/main/Example_MSS_Sequential_Loading): VHDL de una MSS para carga de datos secuenciales.
 
 ## Memorias ROM
@@ -67,8 +67,8 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 
 ## Aplicaciones con memorias RAM
 - [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales.
-- [Repositorio](https://github.com/vasanza/DigitalSystems/tree/main/Example_MaxToMin_ordering_in_RAM): Ordenamiento de valores de una RAM de Mayor a Menor.
-- [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2021PAO1/Ejemplo3_BuscadorMaxRep): Busqueda del valor que más se repite en una RAM.
+- [Repositorio 1](https://github.com/vasanza/DigitalSystems/tree/main/Example_MaxToMin_ordering_in_RAM): Ordenamiento de valores de una RAM de Mayor a Menor.
+- [Repositorio 2](https://github.com/vasanza/DigitalSystems/tree/2021PAO1/Ejemplo3_BuscadorMaxRep): Busqueda del valor que más se repite en una RAM.
 
 ## Arquitectura de Microprocesadores
 - [Video 1](https://www.youtube.com/watch?v=Xma-bvUI-e8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=5&t=3126s): Comparación entre Microcontroladores, Mmicroprocesadores, SoCs y FPGA.
@@ -81,6 +81,11 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 # Temas de proyectos
 - [Sistemas Digitales 1](https://vasanza.blogspot.com/2021/05/sistemas-digitales-1-proyectos.html): Proyectos basados en MSS.
 - [Sistemas Digitales 2](https://github.com/vasanza/DigitalSystems): Proyectos basados en memorias RAM.
+
+# Ejemplos de proyectos
+- [Ejemplo 1](https://vasanza.blogspot.com/2015/12/sistema-controlador-de-personal-de.html): Access control system (1).
+- [Ejemplo 2](https://vasanza.blogspot.com/2016/11/sd-diseno-de-una-maquina-controladora.html): Access control system (2).
+- [Ejemplo 3](https://vasanza.blogspot.com/2015/12/sistema-acondicionamiento-de.html): Temperature Conditioner.
 
 # Related work (FPGA applications)
 - **Paper 1:** [Performance Comparison of Database Server based on SoC FPGA and ARM Processor](https://ieeexplore.ieee.org/document/9647742)
