@@ -14,21 +14,22 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 ## Programación en VHDL
 - [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19), [Blog](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
 - [Video 2](https://www.youtube.com/watch?v=v5BQ54q3yq8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19&t=8s), [Blog](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware_16.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital secuencial.
+- [Ejemplo 1](https://vasanza.blogspot.com/2017/08/practica-resolucion-de-circuitos.html): Circuitos combinatoriales
+- [Práctica](https://vasanza.blogspot.com/2017/08/practica-simulacion-de-circuitos-msi-en.html): Simulación de bloques MSI en Quartus
 
 # Related work (FPGA applications)
-- Paper: [FPGA Based Meteorological Monitoring Station](https://ieeexplore.ieee.org/abstract/document/9530151)
-- Paper: [Monitoring of system memory usage embedded in FPGA](https://ieeexplore.ieee.org/abstract/document/9232863)
-- Paper: [Behavioral Signal Processing with Machine Learning Based on FPGA](https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17)
-- Paper: [Implementation of a Classification System of EEG Signals Based on FPGA](https://ieeexplore.ieee.org/document/9096752)
-- https://vasanza.blogspot.com/2017/08/practica-resolucion-de-circuitos.html
-- https://vasanza.blogspot.com/2017/08/practica-simulacion-de-circuitos-msi-en.html
+- **Paper 1:** [Performance Comparison of Database Server based on SoC FPGA and ARM Processor](https://ieeexplore.ieee.org/document/9647742)
+- **Paper 2:** [FPGA Based Meteorological Monitoring Station](https://ieeexplore.ieee.org/abstract/document/9530151)
+- **Paper 3:** [Monitoring of system memory usage embedded in FPGA](https://ieeexplore.ieee.org/abstract/document/9232863)
+- **Paper 4:** [Behavioral Signal Processing with Machine Learning Based on FPGA](https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17)
+- **Paper 5:** [Implementation of a Classification System of EEG Signals Based on FPGA](https://ieeexplore.ieee.org/document/9096752)
 
 # About
 - [Víctor Asanza](https://vasanza.blogspot.com/p/about-me.html)
 
 # Repository technical specifications
-- IDE: Quartus Prime 17.0.0 Build 595 04/25/2017 SJ Standard Edition
-- DEVICE: FPGA Cyclone V SE 5CSEBA6U23I7
+- **IDE:** Quartus Prime 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+- **DEVICE:** FPGA Cyclone V SE 5CSEBA6U23I7
 - HARDWARE TERASIC: DE10NANO, DE10STANDARD
 
 # CLONE
