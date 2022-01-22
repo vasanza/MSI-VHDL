@@ -10,19 +10,24 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 ## Introducción a los Circuitos Combinatoriales
 - [Video 1](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
 - [Video 2](https://www.youtube.com/watch?v=RsQSRA2K-R0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=2876s): Ejercicios resueltos de Sistemas Digitales.
-- [Práctica](https://vasanza.blogspot.com/2017/08/practica-analisis-de-circuitos.html): Análisis de Circuitos COmbinatoriales
+- [Práctica](https://vasanza.blogspot.com/2017/08/practica-analisis-de-circuitos.html): Análisis de Circuitos Combinatoriales.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/12/sistemas-digitales-1-solucion-examen.html): Circuito combinatorial.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/11/leccion-1er-parcial-sistemas-digitales.html): Conversión de base, Complemento a2, BCD, Algebra de Boole y Circuitos combinatoriales.
+- [Ejercicios propuestos](https://vasanza.blogspot.com/2017/05/ejercicios-propuestos-cap1-sistemas.html): Comversión de base, Suma-Multiplicación-División en diferentes bases, Complemento a2.
 
 ## Programación en VHDL
 - [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19), [Blog](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
 - [Video 2](https://www.youtube.com/watch?v=v5BQ54q3yq8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19&t=8s), [Blog](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware_16.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital secuencial.
 - [Ejemplo 1](https://vasanza.blogspot.com/2017/08/practica-resolucion-de-circuitos.html): Circuitos combinatoriales.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-simulacion-de-circuitos-msi-en.html): Simulación de bloques MSI en Quartus.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/11/leccion-vhdl-1er-parcial-sistemas.html): Circuito combinatorial.
 
 ## Maquinas Secuenciales Sincrónicas (MSS)
 - [Video 1](https://www.youtube.com/watch?v=LIuhAu6pFls&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15&t=933s): Diseño y conversión de Flip-Flips (FF).
 - [Video 2](https://www.youtube.com/watch?v=gm7dK02FfDo&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=12&t=1s): Conversión y aplicaciones de los Flip-Flips (FF).
 - [Video 3](https://www.youtube.com/watch?v=jMllwBxmH0E&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=11&t=6s): Explicación y Simulación del Registro Universal 74194.
 - [Video 4](https://www.youtube.com/watch?v=Sf8DrhujwEE&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=6&t=1s): Simulación de la una MSS para carga de datos secuenciales.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
 
 ## Memorias ROM
 - [Video 1](https://www.youtube.com/watch?v=YXkjFQkx3As&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=13&t=3s): Diseño de una MSS usando memoria ROM
@@ -41,7 +46,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 5](https://www.youtube.com/watch?v=zKjPHsazdcA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=2&t=180s): Simulación de un Microprocesador Genérico.
 
 # Temas de proyectos
-- [Proyectos basados en MSS](https://vasanza.blogspot.com/2021/05/sistemas-digitales-1-proyectos.html).
+- [Sistemas Digitales 1](https://vasanza.blogspot.com/2021/05/sistemas-digitales-1-proyectos.html): Proyectos basados en MSS.
 
 # Related work (FPGA applications)
 - **Paper 1:** [Performance Comparison of Database Server based on SoC FPGA and ARM Processor](https://ieeexplore.ieee.org/document/9647742)
