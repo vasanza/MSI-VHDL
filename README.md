@@ -24,6 +24,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 ## Circuitos de Mediana Escala de Integración (MSI)
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2020/09/solucion-leccion-sistemas-digitales-1_5.html): Mux y Flip-Flop.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1_19.html): Mux y Decoder.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/09/solucion-evaluacion-sistemas-digitales_24.html): Sistemas Digitales basado en MSI y VHDL.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-simulacion-de-circuitos-msi-en.html): Simulación de bloques MSI en Quartus.
 
 ## Maquinas Secuenciales Sincrónicas (MSS)
@@ -32,6 +33,8 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 3](https://www.youtube.com/watch?v=jMllwBxmH0E&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=11&t=6s): Explicación y Simulación del Registro Universal 74194.
 - [Video 4](https://www.youtube.com/watch?v=Sf8DrhujwEE&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=6&t=1s): Simulación de la una MSS para carga de datos secuenciales.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2020/09/solucion-leccion-sistemas-digitales-1.html): Flip-Flop.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales_2.html): Flip-Flop con VHDL.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/09/solucion-evaluacion-sistemas-digitales.html): Flip-Flop con VHDL.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1_31.html): Flip-Flop con VHDL.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2018/01/sistemas-digitales-1-leccion-resuelta.html): Flip-Flop y Registro Univeral.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
