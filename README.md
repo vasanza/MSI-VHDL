@@ -2,7 +2,8 @@
 - ➡️ #DigitalSystems #DigitalElectronic #DigitalCircuits #HDL #VHDL #FPGA #MSI #FPGA
 ![FPGA](https://user-images.githubusercontent.com/12642226/126781573-f8af8ca5-0cdf-4d91-a8bb-fece6117d426.png)
 
-# Contenidos
+
+# Contenido
 ![SD](https://user-images.githubusercontent.com/12642226/150647904-c8eaf852-bfd2-4465-b432-90fd83dee562.png)
 En este repositorio puedes encontrar códigos de bloques de Mediana Escala de Integración (MSI) para utilizar en tus diseños digitales.
 Además, te recomiendo revisar estos videos que te serán útiles para adentrarte en el diseño de Sistemas Digitales:
@@ -78,7 +79,6 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 5](https://www.youtube.com/watch?v=zKjPHsazdcA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=2&t=180s): Simulación de un Microprocesador Genérico.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2021PAO2/Practica_MicroProcesador): Arquitectura de un Microprocesador Genérico en VHDL.
 
-# Información adicional
 ## Temas de proyectos
 - [Sistemas Digitales 1](https://vasanza.blogspot.com/2021/05/sistemas-digitales-1-proyectos.html): Proyectos basados en MSS.
 - [Sistemas Digitales 2](https://github.com/vasanza/DigitalSystems): Proyectos basados en memorias RAM.
@@ -90,6 +90,8 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejemplo 4](https://vasanza.blogspot.com/2015/12/sistema-de-facturacion-por-llamadas-en.html): Billing system for telephone booths.
 - [Ejemplo 5](https://vasanza.blogspot.com/2015/11/diseno-de-un-sistema-digital-receptor.html): Serial communication receiver.
 
+
+# Información adicional
 ## Drive con Presentaciones, ejemplos resueltos y videos
 - [Fundamentos de Electricidad y Sistemas Digitales](https://drive.google.com/drive/folders/1KAmU-P6vH2EvedHtexWdH7nW-hQ2_KBn).
 - [Sistemas Digitales 1](https://drive.google.com/drive/folders/1rR92F8U77Ulfhpvhh-KSyb3jAtxpDBdQ).
