@@ -55,8 +55,11 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejercicios resueltos 5](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1_31.html): Flip-Flop con VHDL.
 - [Ejercicios resueltos 6](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-solucion-examen.html): Registro Univeral 74194.
 - [Ejercicios resueltos 7](https://vasanza.blogspot.com/2018/01/sistemas-digitales-1-leccion-resuelta.html): Flip-Flop y Registro Univeral 74194.
+- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/taller-sistemas-digitales-mss-1er.html): Implementación de una MSS basado en expresión booleana y circuito combinatorial.
+- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/lecciones-simuladas-sistemas-digitales.html): Implementación de una MSS basado en Mapas de Karnaugh.
+- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/12/lecciones-sistemas-digitales-mss-1er.html): Implementación de una MSS basado en Mapas de Karnaugh.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/sd-ejercicio-propuesto-de-diseno-de-mss.html): Implementación de una MSS con decoders y multiplexores.
-
+- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/25-ejercicios-propuestos-sistemas.html): Implementación de una MSS basado en Mapas de Karnaugh, VHDL, expresión booleana, circuito combinatorial, diagrama de tiempo, diagrama de estados y diagrama ASM.
 - [Ejercicios resueltos 8](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
 - [Ejercicios resueltos 9](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-leccion-resuelta.html): Conversión de Flip-Flop, Registro Universal 74194, Contadores.
 - [Ejercicios resueltos 10](https://vasanza.blogspot.com/2021/08/solucion-leccion-sistemas-digitales-1.html): MSS con VHDL, ASM, Registro Universal 74194, Flip-Flop.
