@@ -82,6 +82,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Repositorio 1](https://github.com/vasanza/DigitalSystems/tree/main/Example_MaxToMin_ordering_in_RAM): Ordenamiento de valores de una RAM de Mayor a Menor.
 - [Repositorio 2](https://github.com/vasanza/DigitalSystems/tree/2021PAO1/Ejemplo3_BuscadorMaxRep): Busqueda del valor que más se repite en una RAM.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2016/12/ejercicios-propuestos-sd-msa-2do-parcial.html): **Las mejores aplicaciones con memorias RAM** tal como algoritmos de busqueda, operaciones entre conjuntos, comunicación serial, matrices, operaciones digitales, aplicaciones.
+- [Ejercicios propuestos](https://vasanza.blogspot.com/2018/01/sistemas-digitales-2-leccion-propuesta.html): Determinación de la mejor trayectoria para un drone, basado en datos almacenados en RAM.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales_17.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM en VHDL.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html): Busqueda del valor que más se repite en una RAM.
@@ -90,6 +91,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2020/12/leccion-sistemas-digitales-2-2do.html): Extracción de Características de datos temporales almacenados en memoria RAM.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2017/02/lecciones-sistemas-digitales-ii-2do.html): Calculo del perímetro de un polígono y Clasificación de vocales mayúsculas.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2017/08/tema-leccion-sistemas-digitales-ii-2do.html): Calculo de frecuencia de una señal periódica almacenada en RAM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/02/examen-sistemas-digitales-sdmsa-2do.html): Clasificador de features almacenados en RAM desde programación en VHDL.
 
 
 ## 8. Arquitectura de Microprocesadores
