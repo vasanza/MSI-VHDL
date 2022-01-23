@@ -62,19 +62,21 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 
 ## 5. Memorias EPROM y ROM
 - [Video 1](https://www.youtube.com/watch?v=YXkjFQkx3As&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=13&t=3s): Diseño de una MSS usando memoria ROM.
-- [Ejercicio](https://vasanza.blogspot.com/2020/12/solucion-evaluacion-sistemas-digitales.html): Programación VHDL de una MSS e implementación usando la EPROM M2732A.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/12/solucion-evaluacion-sistemas-digitales.html): Programación VHDL de una MSS e implementación usando la EPROM M2732A.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/11/solucion-leccion-sistemas-digitales-2.html): Implementación de una MSS usando la EPROM M2732A para obtener diagrama de estados y VHDL.
 
 ## 6. Dieño Formal de Sistemas Digitales (SD)
 - [Video 1](https://www.youtube.com/watch?v=suKzo0FqlgA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15): Introducción al diseño formal de SD (MSI + MSS)
 - [Post](https://vasanza.blogspot.com/2016/12/resumen-de-pasos-en-implementacion-de.html): Pasos para el diseño formal un Sistema Digital.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2018PAO2/OrdenarRegistrosVHDL): Ordenamiento de Registros.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/12/solucion-examen-sistemas-digitales-2.html): Busqueda de los valores máximo y mínimo almacenados en 3 registros.
 
 ## 7. Aplicaciones con memorias RAM
 - [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales.
 - [Repositorio 1](https://github.com/vasanza/DigitalSystems/tree/main/Example_MaxToMin_ordering_in_RAM): Ordenamiento de valores de una RAM de Mayor a Menor.
 - [Repositorio 2](https://github.com/vasanza/DigitalSystems/tree/2021PAO1/Ejemplo3_BuscadorMaxRep): Busqueda del valor que más se repite en una RAM.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales_17.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM en VHDL.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html): Busqueda del valor que más se repite en una RAM.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales.html): Ordenamientos de valores almacenados en memoria RAM de mayor a menor.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2020/12/leccion-sistemas-digitales-2-2do.html): Extracción de Características de datos almacenados en memoria RAM.
