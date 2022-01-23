@@ -87,6 +87,11 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejemplo 2](https://vasanza.blogspot.com/2016/11/sd-diseno-de-una-maquina-controladora.html): Access control system (2).
 - [Ejemplo 3](https://vasanza.blogspot.com/2015/12/sistema-acondicionamiento-de.html): Temperature Conditioner.
 
+# Drive con Presentaciones, ejemplos resueltos y videos
+- [Fundamentos de Electricidad y Sistemas Digitales](https://drive.google.com/drive/folders/1KAmU-P6vH2EvedHtexWdH7nW-hQ2_KBn).
+- [Sistemas Digitales 1](https://drive.google.com/drive/folders/1rR92F8U77Ulfhpvhh-KSyb3jAtxpDBdQ).
+- [Sistemas Digitales 2](https://drive.google.com/drive/folders/1OLkaLyrg0m6C0qMVIEzXFI1smsw7YWdG).
+
 # Related work (FPGA applications)
 - **Paper 1:** [Performance Comparison of Database Server based on SoC FPGA and ARM Processor](https://ieeexplore.ieee.org/document/9647742)
 - **Paper 2:** [FPGA Based Meteorological Monitoring Station](https://ieeexplore.ieee.org/abstract/document/9530151)
