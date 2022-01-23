@@ -1,4 +1,4 @@
-# ⭐⭐⭐⭐⭐ VHDL Codes for Digital Systems 1
+# ⭐⭐⭐⭐⭐ VHDL Codes for Digital Systems
 - ➡️ #DigitalSystems #DigitalElectronic #DigitalCircuits #HDL #VHDL #FPGA #MSI #FPGA
 ![FPGA](https://user-images.githubusercontent.com/12642226/126781573-f8af8ca5-0cdf-4d91-a8bb-fece6117d426.png)
 
@@ -47,6 +47,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 2](https://www.youtube.com/watch?v=gm7dK02FfDo&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=12&t=1s): Conversión y aplicaciones de los Flip-Flips (FF).
 - [Video 3](https://www.youtube.com/watch?v=jMllwBxmH0E&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=11&t=6s): Explicación y Simulación del Registro Universal 74194.
 - [Video 4](https://www.youtube.com/watch?v=Sf8DrhujwEE&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=6&t=1s): Simulación de la una MSS para carga de datos secuenciales.
+- [Post](https://vasanza.blogspot.com/2016/11/sd-resumen-de-pasos-en-implementacion.html): Pasos para implementar una MSS.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2020/09/solucion-leccion-sistemas-digitales-1.html): Flip-Flop.
 - [Ejercicios resueltos 2](https://vasanza.blogspot.com/2021/04/solucion-leccion-sistemas-digitales-1_20.html): Flip-Flop.
 - [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales_2.html): Flip-Flop con VHDL.
@@ -60,10 +61,11 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/main/Example_MSS_Sequential_Loading): VHDL de una MSS para carga de datos secuenciales.
 
 ## 5. Memorias ROM
-- [Video 1](https://www.youtube.com/watch?v=YXkjFQkx3As&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=13&t=3s): Diseño de una MSS usando memoria ROM
+- [Video 1](https://www.youtube.com/watch?v=YXkjFQkx3As&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=13&t=3s): Diseño de una MSS usando memoria ROM.
 
 ## 6. Dieño Formal de Sistemas Digitales (SD)
 - [Video 1](https://www.youtube.com/watch?v=suKzo0FqlgA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15): Introducción al diseño formal de SD (MSI + MSS)
+- [Post](https://vasanza.blogspot.com/2016/12/resumen-de-pasos-en-implementacion-de.html): Pasos para el diseño formal un Sistema Digital.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2018PAO2/OrdenarRegistrosVHDL): Ordenamiento de Registros.
 
 ## 7. Aplicaciones con memorias RAM
@@ -95,6 +97,10 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejemplo 9](https://vasanza.blogspot.com/2015/10/sistema-de-comunicacion-con-validacion_8.html): Sum of Products Karnaugh Map.
 - [Ejemplo 10](https://vasanza.blogspot.com/2015/10/sistema-checksum-en-vhdl-con-fpga-de.html): communication and checksum validation.
 - [Ejemplo 11](https://vasanza.blogspot.com/2015/10/sistema-de-operacion-entre-conjuntos.html): set operations.
+- [Ejemplo 12](https://vasanza.blogspot.com/2015/09/proyecto3-de-laboratorio-de-digitales.html): Number Sequence Detector.
+- [Ejemplo 13](https://vasanza.blogspot.com/2015/09/proyecto-vhdl-detector-eficiente-de.html): Efficient Number Sequence Detector.
+- [Ejemplo 14](https://vasanza.blogspot.com/2015/09/determinante-de-una-matriz-con-quartus.html): Determinant of a matrix.
+
 
 # Información adicional
 ## Drive con Presentaciones, ejemplos resueltos y videos
