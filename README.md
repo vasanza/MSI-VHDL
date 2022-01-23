@@ -73,6 +73,9 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales.
 - [Repositorio 1](https://github.com/vasanza/DigitalSystems/tree/main/Example_MaxToMin_ordering_in_RAM): Ordenamiento de valores de una RAM de Mayor a Menor.
 - [Repositorio 2](https://github.com/vasanza/DigitalSystems/tree/2021PAO1/Ejemplo3_BuscadorMaxRep): Busqueda del valor que más se repite en una RAM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales_17.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html): Busqueda del valor que más se repite en una RAM.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales.html): Ordenamientos de valores almacenados en memoria RAM de mayor a menor.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2020/12/leccion-sistemas-digitales-2-2do.html): Extracción de Características de datos almacenados en memoria RAM.
 
@@ -86,7 +89,8 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 
 ## Temas de proyectos
 - [Sistemas Digitales 1](https://vasanza.blogspot.com/2021/05/sistemas-digitales-1-proyectos.html): Proyectos basados en MSS.
-- [Sistemas Digitales 2](https://github.com/vasanza/DigitalSystems): Proyectos basados en memorias RAM.
+- [Sistemas Digitales 2](https://vasanza.blogspot.com/2021/06/sistemas-digitales-2-proyectos.html): Proyectos basados en memorias RAM v1.
+- [Sistemas Digitales 2](https://github.com/vasanza/DigitalSystems): Proyectos basados en memorias RAM v2.
 
 ## Ejemplos de proyectos
 - [Ejemplo 1](https://vasanza.blogspot.com/2015/12/sistema-controlador-de-personal-de.html): Access control system (1).
