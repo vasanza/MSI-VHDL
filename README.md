@@ -87,6 +87,8 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejemplo 1](https://vasanza.blogspot.com/2015/12/sistema-controlador-de-personal-de.html): Access control system (1).
 - [Ejemplo 2](https://vasanza.blogspot.com/2016/11/sd-diseno-de-una-maquina-controladora.html): Access control system (2).
 - [Ejemplo 3](https://vasanza.blogspot.com/2015/12/sistema-acondicionamiento-de.html): Temperature Conditioner.
+- [Ejemplo 4](https://vasanza.blogspot.com/2015/12/sistema-de-facturacion-por-llamadas-en.html): Billing system for telephone booths.
+- [Ejemplo 5](https://vasanza.blogspot.com/2015/11/diseno-de-un-sistema-digital-receptor.html): Serial communication receiver.
 
 ## Drive con Presentaciones, ejemplos resueltos y videos
 - [Fundamentos de Electricidad y Sistemas Digitales](https://drive.google.com/drive/folders/1KAmU-P6vH2EvedHtexWdH7nW-hQ2_KBn).
@@ -100,13 +102,14 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - **Paper 4:** [Behavioral Signal Processing with Machine Learning Based on FPGA](https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17)
 - **Paper 5:** [Implementation of a Classification System of EEG Signals Based on FPGA](https://ieeexplore.ieee.org/document/9096752)
 
-## About
-- [Víctor Asanza](https://vasanza.blogspot.com/p/about-me.html)
-
 ## Repository technical specifications
 - **IDE:** Quartus Prime 17.0.0 Build 595 04/25/2017 SJ Standard Edition
 - **DEVICE:** FPGA Cyclone V SE 5CSEBA6U23I7
 - **Hardware TERASIC:** DE10NANO, DE10STANDARD
+
+## About
+- [Víctor Asanza](https://vasanza.blogspot.com/p/about-me.html)
+
 
 # Keynote
 ## CLONE
