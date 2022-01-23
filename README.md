@@ -89,6 +89,8 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejemplo 3](https://vasanza.blogspot.com/2015/12/sistema-acondicionamiento-de.html): Temperature Conditioner.
 - [Ejemplo 4](https://vasanza.blogspot.com/2015/12/sistema-de-facturacion-por-llamadas-en.html): Billing system for telephone booths.
 - [Ejemplo 5](https://vasanza.blogspot.com/2015/11/diseno-de-un-sistema-digital-receptor.html): Serial communication receiver.
+- [Ejemplo 6](https://vasanza.blogspot.com/2015/11/sistema-digital-contador-de.html): Numeric Sequence Counter.
+- [Ejemplo 7](https://vasanza.blogspot.com/2015/11/diseno-de-un-sistema-digital-contador.html): Consecutive 1's Counter.
 
 
 # Información adicional
