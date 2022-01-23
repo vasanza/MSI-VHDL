@@ -60,6 +60,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2016/12/lecciones-sistemas-digitales-mss-1er.html): Implementación de una MSS basado en Mapas de Karnaugh.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/sd-ejercicio-propuesto-de-diseno-de-mss.html): Implementación de una MSS con decoders y multiplexores.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/25-ejercicios-propuestos-sistemas.html): **Las mejores implementación de una MSS** basado en Mapas de Karnaugh, VHDL, expresión booleana, circuito combinatorial, diagrama de tiempo, diagrama de estados y diagrama ASM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/12/solucion-examen-sistemas-digitales-2.html): Implementación de MSS dado el diagrama de tiempo de estado siguiente y decodificador de salidas.
 - [Ejercicios resueltos 8](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
 - [Ejercicios resueltos 9](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-leccion-resuelta.html): Conversión de Flip-Flop, Registro Universal 74194, Contadores.
 - [Ejercicios resueltos 10](https://vasanza.blogspot.com/2021/08/solucion-leccion-sistemas-digitales-1.html): MSS con VHDL, ASM, Registro Universal 74194, Flip-Flop.
@@ -85,7 +86,11 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM en VHDL.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html): Busqueda del valor que más se repite en una RAM.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales.html): Ordenamientos de valores almacenados en memoria RAM de mayor a menor.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/12/leccion-sistemas-digitales-2-2do.html): Extracción de Características de datos almacenados en memoria RAM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/01/ejemplo-de-taller-sistema-digital.html): Extracción de características de señales EEG almacenadas en RAM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/12/leccion-sistemas-digitales-2-2do.html): Extracción de Características de datos temporales almacenados en memoria RAM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/02/lecciones-sistemas-digitales-ii-2do.html): Calculo del perímetro de un polígono y Clasificación de vocales mayúsculas.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/08/tema-leccion-sistemas-digitales-ii-2do.html): Calculo de frecuencia de una señal periódica almacenada en RAM.
+
 
 ## 8. Arquitectura de Microprocesadores
 - [Video 1](https://www.youtube.com/watch?v=Xma-bvUI-e8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=5&t=3126s): Comparación entre Microcontroladores, Mmicroprocesadores, SoCs y FPGA.
