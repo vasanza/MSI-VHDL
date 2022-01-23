@@ -60,8 +60,9 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejercicios resueltos 10](https://vasanza.blogspot.com/2021/08/solucion-leccion-sistemas-digitales-1.html): MSS con VHDL, ASM, Registro Universal 74194, Flip-Flop.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/main/Example_MSS_Sequential_Loading): VHDL de una MSS para carga de datos secuenciales.
 
-## 5. Memorias ROM
+## 5. Memorias EPROM y ROM
 - [Video 1](https://www.youtube.com/watch?v=YXkjFQkx3As&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=13&t=3s): Diseño de una MSS usando memoria ROM.
+- [Ejercicio](https://vasanza.blogspot.com/2020/12/solucion-evaluacion-sistemas-digitales.html): Programación VHDL de una MSS e implementación usando la EPROM M2732A.
 
 ## 6. Dieño Formal de Sistemas Digitales (SD)
 - [Video 1](https://www.youtube.com/watch?v=suKzo0FqlgA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15): Introducción al diseño formal de SD (MSI + MSS)
@@ -72,6 +73,8 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales.
 - [Repositorio 1](https://github.com/vasanza/DigitalSystems/tree/main/Example_MaxToMin_ordering_in_RAM): Ordenamiento de valores de una RAM de Mayor a Menor.
 - [Repositorio 2](https://github.com/vasanza/DigitalSystems/tree/2021PAO1/Ejemplo3_BuscadorMaxRep): Busqueda del valor que más se repite en una RAM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales.html): Ordenamientos de valores almacenados en memoria RAM de mayor a menor.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/12/leccion-sistemas-digitales-2-2do.html): Extracción de Características de datos almacenados en memoria RAM.
 
 ## 8. Arquitectura de Microprocesadores
 - [Video 1](https://www.youtube.com/watch?v=Xma-bvUI-e8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=5&t=3126s): Comparación entre Microcontroladores, Mmicroprocesadores, SoCs y FPGA.
