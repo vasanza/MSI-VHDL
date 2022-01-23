@@ -78,31 +78,32 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 5](https://www.youtube.com/watch?v=zKjPHsazdcA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=2&t=180s): Simulación de un Microprocesador Genérico.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2021PAO2/Practica_MicroProcesador): Arquitectura de un Microprocesador Genérico en VHDL.
 
-# Temas de proyectos
+# Información adicional
+## Temas de proyectos
 - [Sistemas Digitales 1](https://vasanza.blogspot.com/2021/05/sistemas-digitales-1-proyectos.html): Proyectos basados en MSS.
 - [Sistemas Digitales 2](https://github.com/vasanza/DigitalSystems): Proyectos basados en memorias RAM.
 
-# Ejemplos de proyectos
+## Ejemplos de proyectos
 - [Ejemplo 1](https://vasanza.blogspot.com/2015/12/sistema-controlador-de-personal-de.html): Access control system (1).
 - [Ejemplo 2](https://vasanza.blogspot.com/2016/11/sd-diseno-de-una-maquina-controladora.html): Access control system (2).
 - [Ejemplo 3](https://vasanza.blogspot.com/2015/12/sistema-acondicionamiento-de.html): Temperature Conditioner.
 
-# Drive con Presentaciones, ejemplos resueltos y videos
+## Drive con Presentaciones, ejemplos resueltos y videos
 - [Fundamentos de Electricidad y Sistemas Digitales](https://drive.google.com/drive/folders/1KAmU-P6vH2EvedHtexWdH7nW-hQ2_KBn).
 - [Sistemas Digitales 1](https://drive.google.com/drive/folders/1rR92F8U77Ulfhpvhh-KSyb3jAtxpDBdQ).
 - [Sistemas Digitales 2](https://drive.google.com/drive/folders/1OLkaLyrg0m6C0qMVIEzXFI1smsw7YWdG).
 
-# Related work (FPGA applications)
+## Related work (FPGA applications)
 - **Paper 1:** [Performance Comparison of Database Server based on SoC FPGA and ARM Processor](https://ieeexplore.ieee.org/document/9647742)
 - **Paper 2:** [FPGA Based Meteorological Monitoring Station](https://ieeexplore.ieee.org/abstract/document/9530151)
 - **Paper 3:** [Monitoring of system memory usage embedded in FPGA](https://ieeexplore.ieee.org/abstract/document/9232863)
 - **Paper 4:** [Behavioral Signal Processing with Machine Learning Based on FPGA](https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17)
 - **Paper 5:** [Implementation of a Classification System of EEG Signals Based on FPGA](https://ieeexplore.ieee.org/document/9096752)
 
-# About
+## About
 - [Víctor Asanza](https://vasanza.blogspot.com/p/about-me.html)
 
-# Repository technical specifications
+## Repository technical specifications
 - **IDE:** Quartus Prime 17.0.0 Build 595 04/25/2017 SJ Standard Edition
 - **DEVICE:** FPGA Cyclone V SE 5CSEBA6U23I7
 - **Hardware TERASIC:** DE10NANO, DE10STANDARD
