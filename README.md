@@ -55,48 +55,47 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejercicios resueltos 5](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1_31.html): Flip-Flop con VHDL.
 - [Ejercicios resueltos 6](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-solucion-examen.html): Registro Univeral 74194.
 - [Ejercicios resueltos 7](https://vasanza.blogspot.com/2018/01/sistemas-digitales-1-leccion-resuelta.html): Flip-Flop y Registro Univeral 74194.
-- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/taller-sistemas-digitales-mss-1er.html): Implementación de una MSS basado en expresión booleana y circuito combinatorial.
-- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/lecciones-simuladas-sistemas-digitales.html): Implementación de una MSS basado en Mapas de Karnaugh.
-- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/12/lecciones-sistemas-digitales-mss-1er.html): Implementación de una MSS basado en Mapas de Karnaugh.
-- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/sd-ejercicio-propuesto-de-diseno-de-mss.html): Implementación de una MSS con decoders y multiplexores.
-- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/25-ejercicios-propuestos-sistemas.html): **Las mejores implementación de una MSS** basado en Mapas de Karnaugh, VHDL, expresión booleana, circuito combinatorial, diagrama de tiempo, diagrama de estados y diagrama ASM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/11/sistemas-digitales-2-leccion-resuelta.html): Implementación de una MSS basado en Mapas de Karnaugh.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/12/solucion-examen-sistemas-digitales-2.html): Implementación de MSS dado el diagrama de tiempo de estado siguiente y decodificador de salidas.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/11/solucion-examen-sistemas-digitales-2.html): Implementación de MSS dado el diagrama de tiempo de estado siguiente y decodificador de salidas.
-- [Ejercicios resueltos 8](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
-- [Ejercicios resueltos 9](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-leccion-resuelta.html): Conversión de Flip-Flop, Registro Universal 74194, Contadores.
-- [Ejercicios resueltos 10](https://vasanza.blogspot.com/2021/08/solucion-leccion-sistemas-digitales-1.html): MSS con VHDL, ASM, Registro Universal 74194, Flip-Flop.
+- [Ejercicios propuestos 1](https://vasanza.blogspot.com/2016/11/taller-sistemas-digitales-mss-1er.html): Implementación de una MSS basado en expresión booleana y circuito combinatorial.
+- [Ejercicios propuestos 2](https://vasanza.blogspot.com/2016/11/lecciones-simuladas-sistemas-digitales.html): Implementación de una MSS basado en Mapas de Karnaugh.
+- [Ejercicios propuestos 3](https://vasanza.blogspot.com/2016/12/lecciones-sistemas-digitales-mss-1er.html): Implementación de una MSS basado en Mapas de Karnaugh.
+- [Ejercicios propuestos 4](https://vasanza.blogspot.com/2016/11/sd-ejercicio-propuesto-de-diseno-de-mss.html): Implementación de una MSS con decoders y multiplexores.
+- [Ejercicios propuestos 5](https://vasanza.blogspot.com/2016/11/25-ejercicios-propuestos-sistemas.html): **Las mejores implementación de una MSS** basado en Mapas de Karnaugh, VHDL, expresión booleana, circuito combinatorial, diagrama de tiempo, diagrama de estados y diagrama ASM.
+- [Ejercicios resueltos 8](https://vasanza.blogspot.com/2018/11/sistemas-digitales-2-leccion-resuelta.html): Implementación de una MSS basado en Mapas de Karnaugh.
+- [Ejercicios resueltos 9](https://vasanza.blogspot.com/2017/12/solucion-examen-sistemas-digitales-2.html): Implementación de MSS dado el diagrama de tiempo de estado siguiente y decodificador de salidas.
+- [Ejercicios resueltos 10](https://vasanza.blogspot.com/2018/11/solucion-examen-sistemas-digitales-2.html): Implementación de MSS dado el diagrama de tiempo de estado siguiente y decodificador de salidas.
+- [Ejercicios resueltos 11](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
+- [Ejercicios resueltos 12](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-leccion-resuelta.html): Conversión de Flip-Flop, Registro Universal 74194, Contadores.
+- [Ejercicios resueltos 13](https://vasanza.blogspot.com/2021/08/solucion-leccion-sistemas-digitales-1.html): MSS con VHDL, ASM, Registro Universal 74194, Flip-Flop.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/main/Example_MSS_Sequential_Loading): VHDL de una MSS para carga de datos secuenciales.
 
 ## 5. Memorias EPROM y ROM
 - [Video 1](https://www.youtube.com/watch?v=YXkjFQkx3As&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=13&t=3s): Diseño de una MSS usando memoria ROM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/11/solucion-leccion-sistemas-digitales-2.html): Implementación de una MSS usando la EPROM M2732A para obtener diagrama de estados.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/12/solucion-evaluacion-sistemas-digitales.html): Programación VHDL de una MSS e implementación usando la EPROM M2732A.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/11/solucion-leccion-sistemas-digitales-2.html): Implementación de una MSS usando la EPROM M2732A para obtener diagrama de estados y VHDL.
+- [Ejercicios resueltos 1](https://vasanza.blogspot.com/2020/11/solucion-leccion-sistemas-digitales-2.html): Implementación de una MSS usando la EPROM M2732A para obtener diagrama de estados.
+- [Ejercicios resueltos 2](https://vasanza.blogspot.com/2020/12/solucion-evaluacion-sistemas-digitales.html): Programación VHDL de una MSS e implementación usando la EPROM M2732A.
+- [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/11/solucion-leccion-sistemas-digitales-2.html): Implementación de una MSS usando la EPROM M2732A para obtener diagrama de estados y VHDL.
 
 ## 6. Dieño Formal de Sistemas Digitales (SD)
 - [Video 1](https://www.youtube.com/watch?v=suKzo0FqlgA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=15): Introducción al diseño formal de SD (MSI + MSS)
 - [Post](https://vasanza.blogspot.com/2016/12/resumen-de-pasos-en-implementacion-de.html): Pasos para el diseño formal un Sistema Digital.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2018PAO2/OrdenarRegistrosVHDL): Ordenamiento de Registros.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/12/solucion-examen-sistemas-digitales-2.html): Busqueda de los valores máximo y mínimo almacenados en 3 registros.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/09/solucion-examen-sistemas-digitales-2_14.html): Multiplicador de dos números de n bits.
+- [Ejercicios resueltos 1](https://vasanza.blogspot.com/2021/12/solucion-examen-sistemas-digitales-2.html): Busqueda de los valores máximo y mínimo almacenados en 3 registros.
+- [Ejercicios resueltos 2](https://vasanza.blogspot.com/2018/09/solucion-examen-sistemas-digitales-2_14.html): Multiplicador de dos números de n bits.
 
 ## 7. Aplicaciones con memorias RAM
 - [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales.
 - [Repositorio 1](https://github.com/vasanza/DigitalSystems/tree/main/Example_MaxToMin_ordering_in_RAM): Ordenamiento de valores de una RAM de Mayor a Menor.
 - [Repositorio 2](https://github.com/vasanza/DigitalSystems/tree/2021PAO1/Ejemplo3_BuscadorMaxRep): Busqueda del valor que más se repite en una RAM.
-- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/12/ejercicios-propuestos-sd-msa-2do-parcial.html): **Las mejores aplicaciones con memorias RAM** tal como algoritmos de busqueda, operaciones entre conjuntos, comunicación serial, matrices, operaciones digitales, aplicaciones.
-- [Ejercicios propuestos](https://vasanza.blogspot.com/2018/01/sistemas-digitales-2-leccion-propuesta.html): Determinación de la mejor trayectoria para un drone, basado en datos almacenados en RAM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales_17.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM en VHDL.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html): Busqueda del valor que más se repite en una RAM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales.html): Ordenamientos de valores almacenados en memoria RAM de mayor a menor.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/01/ejemplo-de-taller-sistema-digital.html): Extracción de características de señales EEG almacenadas en RAM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/12/leccion-sistemas-digitales-2-2do.html): Extracción de Características de datos temporales almacenados en memoria RAM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/02/lecciones-sistemas-digitales-ii-2do.html): Calculo del perímetro de un polígono y Clasificación de vocales mayúsculas.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/08/tema-leccion-sistemas-digitales-ii-2do.html): Calculo de frecuencia de una señal periódica almacenada en RAM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2017/02/examen-sistemas-digitales-sdmsa-2do.html): Clasificador de features almacenados en RAM desde programación en VHDL.
-
+- [Ejercicios propuestos 1](https://vasanza.blogspot.com/2016/12/ejercicios-propuestos-sd-msa-2do-parcial.html): **Las mejores aplicaciones con memorias RAM** tal como algoritmos de busqueda, operaciones entre conjuntos, comunicación serial, matrices, operaciones digitales, aplicaciones.
+- [Ejercicios propuestos 2](https://vasanza.blogspot.com/2018/01/sistemas-digitales-2-leccion-propuesta.html): Determinación de la mejor trayectoria para un drone, basado en datos almacenados en RAM.
+- [Ejercicios resueltos 1](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales_17.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM.
+- [Ejercicios resueltos 2](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM en VHDL.
+- [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html): Busqueda del valor que más se repite en una RAM.
+- [Ejercicios resueltos 4](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales.html): Ordenamientos de valores almacenados en memoria RAM de mayor a menor.
+- [Ejercicios resueltos 5](https://vasanza.blogspot.com/2017/01/ejemplo-de-taller-sistema-digital.html): Extracción de características de señales EEG almacenadas en RAM.
+- [Ejercicios resueltos 6](https://vasanza.blogspot.com/2020/12/leccion-sistemas-digitales-2-2do.html): Extracción de Características de datos temporales almacenados en memoria RAM.
+- [Ejercicios resueltos 7](https://vasanza.blogspot.com/2017/02/lecciones-sistemas-digitales-ii-2do.html): Calculo del perímetro de un polígono y Clasificación de vocales mayúsculas.
+- [Ejercicios resueltos 8](https://vasanza.blogspot.com/2017/08/tema-leccion-sistemas-digitales-ii-2do.html): Calculo de frecuencia de una señal periódica almacenada en RAM.
+- [Ejercicios resueltos 9](https://vasanza.blogspot.com/2017/02/examen-sistemas-digitales-sdmsa-2do.html): Clasificador de features almacenados en RAM desde programación en VHDL.
 
 ## 8. Arquitectura de Microprocesadores
 - [Video 1](https://www.youtube.com/watch?v=Xma-bvUI-e8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=5&t=3126s): Comparación entre Microcontroladores, Mmicroprocesadores, SoCs y FPGA.
@@ -104,11 +103,11 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 3](https://www.youtube.com/watch?v=9PJScPknzhY&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=4&t=1164s): Arquitectura de un Microprocesador Genérico.
 - [Video 4](https://www.youtube.com/watch?v=UdNjA-8QmtU&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=3&t=2s): Arquitectura de un Microprocesador Genérico v2.
 - [Video 5](https://www.youtube.com/watch?v=zKjPHsazdcA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=2&t=180s): Simulación de un Microprocesador Genérico.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/09/solucion-examen-sistemas-digitales-2.html): Arquietectura fija MSS + ALU para para determinar el valor máximo y mínimo almacenado en RAM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2019/01/sistemas-digitales-2-leccion-propuesta.html): Arquietectura fija MSS + ALU para para determinar las repeticiones del valor más alto en RAM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2019/01/sistemas-digitales-2-examen-resuelto.html): Arquietectura fija MSS + ALU para para ingresar y determinar el valor máximo y mínimo almacenado en RAM.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2022/01/solucion-leccion-sistemas-digitales-2.html): Microprocesador Genérico y su aplicación en un sistema distribuido.
-- [Ejercicios resueltos](https://vasanza.blogspot.com/2019/02/sistemas-digitales-2-examen-resuelto.html): Programación en lenguaje C.
+- [Ejercicios resueltos 1](https://vasanza.blogspot.com/2018/09/solucion-examen-sistemas-digitales-2.html): Arquietectura fija MSS + ALU para para determinar el valor máximo y mínimo almacenado en RAM.
+- [Ejercicios resueltos 2](https://vasanza.blogspot.com/2019/01/sistemas-digitales-2-leccion-propuesta.html): Arquietectura fija MSS + ALU para para determinar las repeticiones del valor más alto en RAM.
+- [Ejercicios resueltos 3](https://vasanza.blogspot.com/2019/01/sistemas-digitales-2-examen-resuelto.html): Arquietectura fija MSS + ALU para para ingresar y determinar el valor máximo y mínimo almacenado en RAM.
+- [Ejercicios resueltos 4](https://vasanza.blogspot.com/2022/01/solucion-leccion-sistemas-digitales-2.html): Microprocesador Genérico y su aplicación en un sistema distribuido.
+- [Ejercicios resueltos 5](https://vasanza.blogspot.com/2019/02/sistemas-digitales-2-examen-resuelto.html): Programación en lenguaje C.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2021PAO2/Practica_MicroProcesador): Arquitectura de un Microprocesador Genérico en VHDL.
 
 ## Temas de proyectos
