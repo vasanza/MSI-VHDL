@@ -59,7 +59,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/lecciones-simuladas-sistemas-digitales.html): Implementación de una MSS basado en Mapas de Karnaugh.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2016/12/lecciones-sistemas-digitales-mss-1er.html): Implementación de una MSS basado en Mapas de Karnaugh.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/sd-ejercicio-propuesto-de-diseno-de-mss.html): Implementación de una MSS con decoders y multiplexores.
-- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/25-ejercicios-propuestos-sistemas.html): Implementación de una MSS basado en Mapas de Karnaugh, VHDL, expresión booleana, circuito combinatorial, diagrama de tiempo, diagrama de estados y diagrama ASM.
+- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/25-ejercicios-propuestos-sistemas.html): **Las mejores implementación de una MSS** basado en Mapas de Karnaugh, VHDL, expresión booleana, circuito combinatorial, diagrama de tiempo, diagrama de estados y diagrama ASM.
 - [Ejercicios resueltos 8](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
 - [Ejercicios resueltos 9](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-leccion-resuelta.html): Conversión de Flip-Flop, Registro Universal 74194, Contadores.
 - [Ejercicios resueltos 10](https://vasanza.blogspot.com/2021/08/solucion-leccion-sistemas-digitales-1.html): MSS con VHDL, ASM, Registro Universal 74194, Flip-Flop.
@@ -80,6 +80,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales.
 - [Repositorio 1](https://github.com/vasanza/DigitalSystems/tree/main/Example_MaxToMin_ordering_in_RAM): Ordenamiento de valores de una RAM de Mayor a Menor.
 - [Repositorio 2](https://github.com/vasanza/DigitalSystems/tree/2021PAO1/Ejemplo3_BuscadorMaxRep): Busqueda del valor que más se repite en una RAM.
+- [Ejercicios propuestos](https://vasanza.blogspot.com/2016/12/ejercicios-propuestos-sd-msa-2do-parcial.html): **Las mejores aplicaciones con memorias RAM** tal como algoritmos de busqueda, operaciones entre conjuntos, comunicación serial, matrices, operaciones digitales, aplicaciones.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/02/solucion-evaluacion-sistemas-digitales_17.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Busqueda de los valores máximo y mínimo almacenados en una memoria RAM en VHDL.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html): Busqueda del valor que más se repite en una RAM.
