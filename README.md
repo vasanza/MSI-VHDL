@@ -59,7 +59,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejercicios propuestos 2](https://vasanza.blogspot.com/2016/11/lecciones-simuladas-sistemas-digitales.html): Implementación de una MSS basado en Mapas de Karnaugh.
 - [Ejercicios propuestos 3](https://vasanza.blogspot.com/2016/12/lecciones-sistemas-digitales-mss-1er.html): Implementación de una MSS basado en Mapas de Karnaugh.
 - [Ejercicios propuestos 4](https://vasanza.blogspot.com/2016/11/sd-ejercicio-propuesto-de-diseno-de-mss.html): Implementación de una MSS con decoders y multiplexores.
-- [Ejercicios propuestos 5](https://vasanza.blogspot.com/2016/11/25-ejercicios-propuestos-sistemas.html): **Las mejores implementación de una MSS** basado en Mapas de Karnaugh, VHDL, expresión booleana, circuito combinatorial, diagrama de tiempo, diagrama de estados y diagrama ASM.
+- [Ejercicios propuestos 5](https://vasanza.blogspot.com/2016/11/25-ejercicios-propuestos-sistemas.html): **Las mejores implementaciones de una MSS** basado en Mapas de Karnaugh, VHDL, expresión booleana, circuito combinatorial, diagrama de tiempo, diagrama de estados y diagrama ASM.
 - [Ejercicios resueltos 8](https://vasanza.blogspot.com/2018/11/sistemas-digitales-2-leccion-resuelta.html): Implementación de una MSS basado en Mapas de Karnaugh.
 - [Ejercicios resueltos 9](https://vasanza.blogspot.com/2017/12/solucion-examen-sistemas-digitales-2.html): Implementación de MSS dado el diagrama de tiempo de estado siguiente y decodificador de salidas.
 - [Ejercicios resueltos 10](https://vasanza.blogspot.com/2018/11/solucion-examen-sistemas-digitales-2.html): Implementación de MSS dado el diagrama de tiempo de estado siguiente y decodificador de salidas.
