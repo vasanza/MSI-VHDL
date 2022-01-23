@@ -91,7 +91,10 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejemplo 5](https://vasanza.blogspot.com/2015/11/diseno-de-un-sistema-digital-receptor.html): Serial communication receiver.
 - [Ejemplo 6](https://vasanza.blogspot.com/2015/11/sistema-digital-contador-de.html): Numeric Sequence Counter.
 - [Ejemplo 7](https://vasanza.blogspot.com/2015/11/diseno-de-un-sistema-digital-contador.html): Consecutive 1's Counter.
-
+- [Ejemplo 8](https://vasanza.blogspot.com/2015/10/sistema-multiplicador-de-matrices-3x4-y.html): Multiplying 3x4 matrix by 4x3 matrix.
+- [Ejemplo 9](https://vasanza.blogspot.com/2015/10/sistema-de-comunicacion-con-validacion_8.html): Sum of Products Karnaugh Map.
+- [Ejemplo 10](https://vasanza.blogspot.com/2015/10/sistema-checksum-en-vhdl-con-fpga-de.html): communication and checksum validation.
+- [Ejemplo 11](https://vasanza.blogspot.com/2015/10/sistema-de-operacion-entre-conjuntos.html): set operations.
 
 # Información adicional
 ## Drive con Presentaciones, ejemplos resueltos y videos
