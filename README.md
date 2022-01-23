@@ -60,7 +60,9 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2016/12/lecciones-sistemas-digitales-mss-1er.html): Implementación de una MSS basado en Mapas de Karnaugh.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/sd-ejercicio-propuesto-de-diseno-de-mss.html): Implementación de una MSS con decoders y multiplexores.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2016/11/25-ejercicios-propuestos-sistemas.html): **Las mejores implementación de una MSS** basado en Mapas de Karnaugh, VHDL, expresión booleana, circuito combinatorial, diagrama de tiempo, diagrama de estados y diagrama ASM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/11/sistemas-digitales-2-leccion-resuelta.html): Implementación de una MSS basado en Mapas de Karnaugh.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2017/12/solucion-examen-sistemas-digitales-2.html): Implementación de MSS dado el diagrama de tiempo de estado siguiente y decodificador de salidas.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/11/solucion-examen-sistemas-digitales-2.html): Implementación de MSS dado el diagrama de tiempo de estado siguiente y decodificador de salidas.
 - [Ejercicios resueltos 8](https://vasanza.blogspot.com/2017/08/lecciones-sistemas-digitales-i-2do.html): Implementación de MSS con FF y decodificadores, Registro Univeral y VHDL.
 - [Ejercicios resueltos 9](https://vasanza.blogspot.com/2018/08/sistemas-digitales-1-leccion-resuelta.html): Conversión de Flip-Flop, Registro Universal 74194, Contadores.
 - [Ejercicios resueltos 10](https://vasanza.blogspot.com/2021/08/solucion-leccion-sistemas-digitales-1.html): MSS con VHDL, ASM, Registro Universal 74194, Flip-Flop.
@@ -68,6 +70,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 
 ## 5. Memorias EPROM y ROM
 - [Video 1](https://www.youtube.com/watch?v=YXkjFQkx3As&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=13&t=3s): Diseño de una MSS usando memoria ROM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2020/11/solucion-leccion-sistemas-digitales-2.html): Implementación de una MSS usando la EPROM M2732A para obtener diagrama de estados.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2020/12/solucion-evaluacion-sistemas-digitales.html): Programación VHDL de una MSS e implementación usando la EPROM M2732A.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/11/solucion-leccion-sistemas-digitales-2.html): Implementación de una MSS usando la EPROM M2732A para obtener diagrama de estados y VHDL.
 
@@ -76,6 +79,7 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Post](https://vasanza.blogspot.com/2016/12/resumen-de-pasos-en-implementacion-de.html): Pasos para el diseño formal un Sistema Digital.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2018PAO2/OrdenarRegistrosVHDL): Ordenamiento de Registros.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2021/12/solucion-examen-sistemas-digitales-2.html): Busqueda de los valores máximo y mínimo almacenados en 3 registros.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/09/solucion-examen-sistemas-digitales-2_14.html): Multiplicador de dos números de n bits.
 
 ## 7. Aplicaciones con memorias RAM
 - [Video 1](https://www.youtube.com/watch?v=tX9d0Zn8ujc&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=14&t=3s): Extracción de Características Post-Adquisición de Datos Temporales.
@@ -100,7 +104,11 @@ Además, te recomiendo revisar estos videos que te serán útiles para adentrart
 - [Video 3](https://www.youtube.com/watch?v=9PJScPknzhY&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=4&t=1164s): Arquitectura de un Microprocesador Genérico.
 - [Video 4](https://www.youtube.com/watch?v=UdNjA-8QmtU&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=3&t=2s): Arquitectura de un Microprocesador Genérico v2.
 - [Video 5](https://www.youtube.com/watch?v=zKjPHsazdcA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=2&t=180s): Simulación de un Microprocesador Genérico.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2018/09/solucion-examen-sistemas-digitales-2.html): Arquietectura fija MSS + ALU para para determinar el valor máximo y mínimo almacenado en RAM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2019/01/sistemas-digitales-2-leccion-propuesta.html): Arquietectura fija MSS + ALU para para determinar las repeticiones del valor más alto en RAM.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2019/01/sistemas-digitales-2-examen-resuelto.html): Arquietectura fija MSS + ALU para para ingresar y determinar el valor máximo y mínimo almacenado en RAM.
 - [Ejercicios resueltos](https://vasanza.blogspot.com/2022/01/solucion-leccion-sistemas-digitales-2.html): Microprocesador Genérico y su aplicación en un sistema distribuido.
+- [Ejercicios resueltos](https://vasanza.blogspot.com/2019/02/sistemas-digitales-2-examen-resuelto.html): Programación en lenguaje C.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2021PAO2/Practica_MicroProcesador): Arquitectura de un Microprocesador Genérico en VHDL.
 
 ## Temas de proyectos
