@@ -20,6 +20,7 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Ejercicios resueltos 5](https://vasanza.blogspot.com/2021/07/solucion-leccion-sistemas-digitales-1_7.html): Circuito combinatorial y Mapas de Karnaugh.
 - [Ejercicios resueltos 6](https://vasanza.blogspot.com/2021/03/solucion-leccion-sistemas-digitales-1_23.html): Circuito combinatorial y Mapas de Karnaugh.
 - [Ejercicios resueltos 7](https://vasanza.blogspot.com/2017/12/sistemas-digitales-1-solucion-examen.html): Circuito combinatorial.
+- [Ejercicios resueltos 8](https://vasanza.blogspot.com/2022/01/solucion-evaluacion-fundamentos-de.html): Circuito combinatorial, mapas de karnaugh, circuitos digitales y conversiones.
 
 ## 2. Programación en VHDL
 - [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19), [Post 1](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
