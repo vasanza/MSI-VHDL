@@ -153,10 +153,6 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 ## About
 - [Víctor Asanza](https://vasanza.blogspot.com/p/about-me.html)
 
-
-# Keynote
-## CLONE
-=======
 # Related work (FPGA applications)
 - http://blog.espol.edu.ec/sistemasdigitalesfiec
 - https://ieeexplore.ieee.org/abstract/document/9530151
@@ -176,7 +172,8 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - DE10NANO
 - DE10STANDARD
 
-# CLONE
+# Keynote
+## CLONE
 - git status
 - git clone https://github.com/VHDL-Digital-Systems/MSI-VHDL.git
 
