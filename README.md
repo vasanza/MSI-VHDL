@@ -162,16 +162,6 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html
 - https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html
 
-# IDE
-- Quartus Prime 17.0.0 Build 595 04/25/2017 SJ Standard Edition
-
-# DEVICE
-- FPGA Cyclone V SE 5CSEBA6U23I7
-
-# HARDWARE TERASIC 
-- DE10NANO
-- DE10STANDARD
-
 # Keynote
 ## CLONE
 - git status
