@@ -144,6 +144,9 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - **Paper 3:** [Monitoring of system memory usage embedded in FPGA](https://ieeexplore.ieee.org/abstract/document/9232863)
 - **Paper 4:** [Behavioral Signal Processing with Machine Learning Based on FPGA](https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17)
 - **Paper 5:** [Implementation of a Classification System of EEG Signals Based on FPGA](https://ieeexplore.ieee.org/document/9096752)
+- http://blog.espol.edu.ec/sistemasdigitalesfiec
+- https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html
+- https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html
 
 ## Repository technical specifications
 - **IDE:** Quartus Prime 17.0.0 Build 595 04/25/2017 SJ Standard Edition
@@ -152,15 +155,6 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 
 ## About
 - [Víctor Asanza](https://vasanza.blogspot.com/p/about-me.html)
-
-# Related work (FPGA applications)
-- http://blog.espol.edu.ec/sistemasdigitalesfiec
-- https://ieeexplore.ieee.org/abstract/document/9530151
-- https://ieeexplore.ieee.org/abstract/document/9232863
-- https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17
-- https://ieeexplore.ieee.org/document/9096752
-- https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html
-- https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html
 
 # Keynote
 ## CLONE
