@@ -10,6 +10,16 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 ## 1. Puertas lógicas y Circuitos Combinatoriales
 - [Video 1](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
 - [Video 2](https://www.youtube.com/watch?v=RsQSRA2K-R0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=2876s): Ejercicios resueltos de Sistemas Digitales.
+- [Video 3 (Felipe Machado)](https://www.youtube.com/watch?v=OI_f3MdsHjM): Decodificador de 2 a 4 - Circuitos combinacionales.
+- [Video 4 (Felipe Machado)](https://www.youtube.com/watch?v=IyYyuDfyXWs): Decodificador de 3 a 8 usando decodificadores de 2 a 4 - Circuitos combinacionales.
+- [Video 5 (Felipe Machado)](https://www.youtube.com/watch?v=LElFYHnz1Ls): Multiplexor de 2 entradas - Circuitos combinacionales.
+- [Video 6 (Felipe Machado)](https://www.youtube.com/watch?v=oLKFXejJ4PI): Multiplexor de 4 entradas - Circuitos combinacionales.
+- [Video 7 (Felipe Machado)](https://www.youtube.com/watch?v=7qJSQClaSyk): Circuitos combinacionales. Reglas de diseño.
+- [Video 8 (Felipe Machado)](https://www.youtube.com/watch?v=m7oDCPnt9Bo): Decodificador de binario de 2 bits a display de 7 segmentos - Circuitos combinacionales.
+- [Video 9 Simulador Digital (Felipe Machado)](https://www.youtube.com/watch?v=dt5Y_P4Xqd0): Tutorial simulador Digital (p1): decodificador binario 2 bits a 7 segmentos con puertas lógicas.
+- [Video 10 Simulador Digital (Felipe Machado)](https://www.youtube.com/watch?v=A5sYTEI7anY): Tutorial simulador Digital (p2): decodificador binario 2 bits a 7 segmentos con serie 74.
+- [Video 11 Ejercicio (Felipe Machado)](https://www.youtube.com/watch?v=_J2JgAyhwrw): Ejercicio ascensor (1/2) - circuitos combinacionales.
+- [Video 10 Ejercicio (Felipe Machado)](https://www.youtube.com/watch?v=Rxv676RDH9M): Ejercicio ascensor (2/2) - Simulador Digital - Circuitos combinacionales.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-analisis-de-circuitos.html): Análisis de Circuitos Combinatoriales.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2017/05/ejercicios-propuestos-cap1-sistemas.html): Comversión de base, Suma-Multiplicación-División en diferentes bases, Complemento a2.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2017/11/leccion-1er-parcial-sistemas-digitales.html): Conversión de base, Complemento a2, BCD, Algebra de Boole y Circuitos combinatoriales.
@@ -24,6 +34,10 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 ## 2. Programación en VHDL
 - [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19), [Post 1](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
 - [Video 2](https://www.youtube.com/watch?v=v5BQ54q3yq8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19&t=8s), [Post 2](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware_16.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital secuencial.
+- [Video 3 (Felipe Machado)](https://www.youtube.com/watch?v=g7Z-sBpmCJU): Diseño VHDL 1: Puertas lógicas.
+- [Video 4 (Felipe Machado)](https://www.youtube.com/watch?v=CQdw-M1ooTI): Diseño VHDL 2: Multiplexor (1/2).
+- [Video 5 (Felipe Machado)](https://www.youtube.com/watch?v=or_vwCTSY8M): Diseño VHDL 2: Multiplexor (2/2).
+- [Video 6 (Felipe Machado)](https://www.youtube.com/watch?v=g0FnaDB3niE): Diseño VHDL 4: Reglas de diseño combinacional.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2020/07/solucion-leccion-sistemas-digitales-1.html): Circuito combinatorial, Algebra de Boole y VHDL.
 - [Ejercicios resueltos 2](https://vasanza.blogspot.com/2020/07/solucion-leccion-sistemas-digitales-1_22.html): Circuito combinatorial y VHDL.
 - [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/07/solucion-evaluacion-sistemas-digitales.html): Circuito combinatorial y VHDL.
@@ -47,6 +61,9 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Video 2](https://www.youtube.com/watch?v=gm7dK02FfDo&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=12&t=1s): Conversión y aplicaciones de los Flip-Flips (FF).
 - [Video 3](https://www.youtube.com/watch?v=jMllwBxmH0E&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=11&t=6s): Explicación y Simulación del Registro Universal 74194.
 - [Video 4](https://www.youtube.com/watch?v=Sf8DrhujwEE&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=6&t=1s): Simulación de la una MSS para carga de datos secuenciales.
+- [Video 5 (Felipe Machado)](https://www.youtube.com/watch?v=Y3B1UKwQ7G8): Biestable S-R asíncrono (1/3) - Circuitos secuenciales.
+- [Video 6 (Felipe Machado)](https://www.youtube.com/watch?v=KdRcHo1msxI): Biestable S-R asíncrono (2/3): Cronograma - Circuitos secuenciales.
+- [Video 7 (Felipe Machado)](https://www.youtube.com/watch?v=ipsJB2MKqvU): Biestable S-R asíncrono (3/3): Puertas NAND - Circuitos secuenciales.
 - [Post](https://vasanza.blogspot.com/2016/11/sd-resumen-de-pasos-en-implementacion.html): Pasos para implementar una MSS.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2020/09/solucion-leccion-sistemas-digitales-1.html): Flip-Flop.
 - [Ejercicios resueltos 2](https://vasanza.blogspot.com/2021/04/solucion-leccion-sistemas-digitales-1_20.html): Flip-Flop.
@@ -130,6 +147,21 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Ejemplo 12](https://vasanza.blogspot.com/2015/09/proyecto3-de-laboratorio-de-digitales.html): Number Sequence Detector.
 - [Ejemplo 13](https://vasanza.blogspot.com/2015/09/proyecto-vhdl-detector-eficiente-de.html): Efficient Number Sequence Detector.
 - [Ejemplo 14](https://vasanza.blogspot.com/2015/09/determinante-de-una-matriz-con-quartus.html): Determinant of a matrix.
+
+## Future work
+- [Software](https://www.youtube.com/watch?v=C3jSokC1FkU): simulacion Xilinx ISE 14.7 con VHDL.
+- [Software](https://www.youtube.com/watch?v=WZnMXwgH4yY): Simulacion Xilinx Vivado v2015.2 con VHDL.
+- [Software](https://www.youtube.com/watch?v=kDdmTHDE9qc): Encontrar los ficheros VHDL en Vivado 2015.2.
+- [Software](https://www.youtube.com/watch?v=Y96goMpGQw0): Simulación con Vivado 2016.4: Cómo encontrar errores de sintaxis VHDL.
+- [VHDL](https://www.youtube.com/watch?v=yZ9lwky60sI): Diseño estructural en VHDL.
+- [RISC-V ISA](https://www.youtube.com/watch?v=g68KrucGxq0): RISC-V ISA 2: Instrucciones tipo R (1/2).
+- [RISC-V ISA](https://www.youtube.com/watch?v=x7b3PgDEAvM): RISC-V ISA 3: Instrucciones tipo R (2/2).
+- [RISC-V ISA](https://www.youtube.com/watch?v=22iIFspcYBM): RISC-V ISA 4: Instrucciones tipo I - Operaciones con constantes.
+- [RISC-V ISA](https://www.youtube.com/watch?v=4_WlVK3E97g): RISC-V ISA 5: Instrucciones de carga y almacenamiento.
+- [RISC-V ISA](https://www.youtube.com/watch?v=Q6FRCH7PStg): RISC-V ISA 6: Instrucciones de control y programa almacenado en memoria.
+
+
+- [RISC-V](https://www.youtube.com/watch?v=nLcPNXMj1lI): RISC-V diseño básico 1: Operaciones entre registros.
 
 
 # Información adicional
