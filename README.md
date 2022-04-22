@@ -10,16 +10,7 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 ## 1. Puertas lógicas y Circuitos Combinatoriales
 - [Video 1](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
 - [Video 2](https://www.youtube.com/watch?v=RsQSRA2K-R0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=2876s): Ejercicios resueltos de Sistemas Digitales.
-- [Video 3 (Felipe Machado)](https://www.youtube.com/watch?v=OI_f3MdsHjM): Decodificador de 2 a 4 - Circuitos combinacionales.
-- [Video 4 (Felipe Machado)](https://www.youtube.com/watch?v=IyYyuDfyXWs): Decodificador de 3 a 8 usando decodificadores de 2 a 4 - Circuitos combinacionales.
-- [Video 5 (Felipe Machado)](https://www.youtube.com/watch?v=LElFYHnz1Ls): Multiplexor de 2 entradas - Circuitos combinacionales.
-- [Video 6 (Felipe Machado)](https://www.youtube.com/watch?v=oLKFXejJ4PI): Multiplexor de 4 entradas - Circuitos combinacionales.
-- [Video 7 (Felipe Machado)](https://www.youtube.com/watch?v=7qJSQClaSyk): Circuitos combinacionales. Reglas de diseño.
-- [Video 8 (Felipe Machado)](https://www.youtube.com/watch?v=m7oDCPnt9Bo): Decodificador de binario de 2 bits a display de 7 segmentos - Circuitos combinacionales.
-- [Video 9 Simulador Digital (Felipe Machado)](https://www.youtube.com/watch?v=dt5Y_P4Xqd0): Tutorial simulador Digital (p1): decodificador binario 2 bits a 7 segmentos con puertas lógicas.
-- [Video 10 Simulador Digital (Felipe Machado)](https://www.youtube.com/watch?v=A5sYTEI7anY): Tutorial simulador Digital (p2): decodificador binario 2 bits a 7 segmentos con serie 74.
-- [Video 11 Ejercicio (Felipe Machado)](https://www.youtube.com/watch?v=_J2JgAyhwrw): Ejercicio ascensor (1/2) - circuitos combinacionales.
-- [Video 10 Ejercicio (Felipe Machado)](https://www.youtube.com/watch?v=Rxv676RDH9M): Ejercicio ascensor (2/2) - Simulador Digital - Circuitos combinacionales.
+- [Video 3 (Felipe Machado)](https://www.youtube.com/watch?v=NsBdEsCLees): Electrónica digital con circuitos integrados básicos (1) - Encender un led con el 74HC04.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-analisis-de-circuitos.html): Análisis de Circuitos Combinatoriales.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2017/05/ejercicios-propuestos-cap1-sistemas.html): Comversión de base, Suma-Multiplicación-División en diferentes bases, Complemento a2.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2017/11/leccion-1er-parcial-sistemas-digitales.html): Conversión de base, Complemento a2, BCD, Algebra de Boole y Circuitos combinatoriales.
@@ -47,6 +38,16 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-resolucion-de-circuitos.html): Circuito combinatorial y VHDL.
 
 ## 3. Circuitos de Mediana Escala de Integración (MSI)
+- [Video 1 (Felipe Machado)](https://www.youtube.com/watch?v=OI_f3MdsHjM): Decodificador de 2 a 4 - Circuitos combinacionales.
+- [Video 2 (Felipe Machado)](https://www.youtube.com/watch?v=IyYyuDfyXWs): Decodificador de 3 a 8 usando decodificadores de 2 a 4 - Circuitos combinacionales.
+- [Video 3 (Felipe Machado)](https://www.youtube.com/watch?v=LElFYHnz1Ls): Multiplexor de 2 entradas - Circuitos combinacionales.
+- [Video 4 (Felipe Machado)](https://www.youtube.com/watch?v=oLKFXejJ4PI): Multiplexor de 4 entradas - Circuitos combinacionales.
+- [Video 5 (Felipe Machado)](https://www.youtube.com/watch?v=7qJSQClaSyk): Circuitos combinacionales. Reglas de diseño.
+- [Video 6 (Felipe Machado)](https://www.youtube.com/watch?v=m7oDCPnt9Bo): Decodificador de binario de 2 bits a display de 7 segmentos - Circuitos combinacionales.
+- [Video 7 Simulador Digital (Felipe Machado)](https://www.youtube.com/watch?v=dt5Y_P4Xqd0): Tutorial simulador Digital (p1): decodificador binario 2 bits a 7 segmentos con puertas lógicas.
+- [Video 8 Simulador Digital (Felipe Machado)](https://www.youtube.com/watch?v=A5sYTEI7anY): Tutorial simulador Digital (p2): decodificador binario 2 bits a 7 segmentos con serie 74.
+- [Video 9 Ejercicio (Felipe Machado)](https://www.youtube.com/watch?v=_J2JgAyhwrw): Ejercicio ascensor (1/2) - circuitos combinacionales.
+- [Video 10 Ejercicio (Felipe Machado)](https://www.youtube.com/watch?v=Rxv676RDH9M): Ejercicio ascensor (2/2) - Simulador Digital - Circuitos combinacionales.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2020/09/solucion-leccion-sistemas-digitales-1_5.html): Mux y Flip-Flop.
 - [Ejercicios resueltos 2](https://vasanza.blogspot.com/2020/08/solucion-leccion-sistemas-digitales-1_19.html): Mux y Decoder.
 - [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/04/solucion-evaluacion-sistemas-digitales_22.html): Sistemas Digitales basado en MSI y VHDL.
@@ -64,6 +65,15 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Video 5 (Felipe Machado)](https://www.youtube.com/watch?v=Y3B1UKwQ7G8): Biestable S-R asíncrono (1/3) - Circuitos secuenciales.
 - [Video 6 (Felipe Machado)](https://www.youtube.com/watch?v=KdRcHo1msxI): Biestable S-R asíncrono (2/3): Cronograma - Circuitos secuenciales.
 - [Video 7 (Felipe Machado)](https://www.youtube.com/watch?v=ipsJB2MKqvU): Biestable S-R asíncrono (3/3): Puertas NAND - Circuitos secuenciales.
+- [Video 8 (Felipe Machado)](https://www.youtube.com/watch?v=gg18OY2jI9o): Biestable T - Circuitos secuenciales.
+- [Video 9 (Felipe Machado)](https://www.youtube.com/watch?v=nfqN-mc4y7U): Conversión entre biestables - Circuitos secuenciales.
+- [Video 10 (Felipe Machado)](https://www.youtube.com/watch?v=sSshNG9Yg3o): Contador hexadecimal ascendente - Contadores síncronos.
+- [Video 11 (Felipe Machado)](https://www.youtube.com/watch?v=KLtJiMPBFQw): Simulador Digital: contador hexadecimal ascendente.
+- [Video 12 (Felipe Machado)](https://www.youtube.com/watch?v=VyQryRyeddM): Contador BCD ascendente - Contadores síncronos.
+- [Video 13 (Felipe Machado)](https://www.youtube.com/watch?v=Xwe54nn43ew): Simulador Digital: contador BCD ascendente.
+- [Video 14 (Felipe Machado)](https://www.youtube.com/watch?v=yIW0QKyELck): Cronómetro: contadores en cascada - Contadores síncronos.
+- [Video 15 (Felipe Machado)](https://www.youtube.com/watch?v=yg38aJgQtSA): Simulador Digital: cronómetro con contadores 74x160.
+- [Video 16 (Felipe Machado)](https://www.youtube.com/watch?v=YV-jXRsEnWs): Ejercicio: Biestable T con carga de datos síncrona - Circuitos secuenciales.
 - [Post](https://vasanza.blogspot.com/2016/11/sd-resumen-de-pasos-en-implementacion.html): Pasos para implementar una MSS.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2020/09/solucion-leccion-sistemas-digitales-1.html): Flip-Flop.
 - [Ejercicios resueltos 2](https://vasanza.blogspot.com/2021/04/solucion-leccion-sistemas-digitales-1_20.html): Flip-Flop.
