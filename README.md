@@ -12,7 +12,6 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Video 2](https://www.youtube.com/watch?v=RsQSRA2K-R0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=2876s): Ejercicios resueltos de Sistemas Digitales.
 - [Video 3 (Felipe Machado)](https://www.youtube.com/watch?v=NsBdEsCLees): Electrónica digital con circuitos integrados básicos (1) - Encender un led con el 74HC04.
 - [Video 4 (Felipe Machado)](https://www.youtube.com/watch?v=7t9DReaGcE8&t=258s): Montar circuitos en placa de inserción (Breadboard o Protoboard).
-- [Práctica](https://vasanza.blogspot.com/2017/08/practica-analisis-de-circuitos.html): Análisis de Circuitos Combinatoriales.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2017/05/ejercicios-propuestos-cap1-sistemas.html): Comversión de base, Suma-Multiplicación-División en diferentes bases, Complemento a2.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2017/11/leccion-1er-parcial-sistemas-digitales.html): Conversión de base, Complemento a2, BCD, Algebra de Boole y Circuitos combinatoriales.
 - [Ejercicios resueltos 2](https://vasanza.blogspot.com/2021/07/solucion-leccion-sistemas-digitales-1.html): Conversión de base, ca2, Codigo BCD-Gray-XS3.
@@ -22,6 +21,7 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Ejercicios resueltos 6](https://vasanza.blogspot.com/2021/03/solucion-leccion-sistemas-digitales-1_23.html): Circuito combinatorial y Mapas de Karnaugh.
 - [Ejercicios resueltos 7](https://vasanza.blogspot.com/2017/12/sistemas-digitales-1-solucion-examen.html): Circuito combinatorial.
 - [Ejercicios resueltos 8](https://vasanza.blogspot.com/2022/01/solucion-evaluacion-fundamentos-de.html): Circuito combinatorial, mapas de karnaugh, circuitos digitales y conversiones.
+- [Práctica](https://vasanza.blogspot.com/2017/08/practica-analisis-de-circuitos.html): Análisis de Circuitos Combinatoriales.
 
 ## 2. Programación en VHDL
 - [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19), [Post 1](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
