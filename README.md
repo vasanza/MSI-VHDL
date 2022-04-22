@@ -11,6 +11,7 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Video 1](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
 - [Video 2](https://www.youtube.com/watch?v=RsQSRA2K-R0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=2876s): Ejercicios resueltos de Sistemas Digitales.
 - [Video 3 (Felipe Machado)](https://www.youtube.com/watch?v=NsBdEsCLees): Electrónica digital con circuitos integrados básicos (1) - Encender un led con el 74HC04.
+- [Video 4 (Felipe Machado)](https://www.youtube.com/watch?v=7t9DReaGcE8&t=258s): Montar circuitos en placa de inserción.
 - [Práctica](https://vasanza.blogspot.com/2017/08/practica-analisis-de-circuitos.html): Análisis de Circuitos Combinatoriales.
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2017/05/ejercicios-propuestos-cap1-sistemas.html): Comversión de base, Suma-Multiplicación-División en diferentes bases, Complemento a2.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2017/11/leccion-1er-parcial-sistemas-digitales.html): Conversión de base, Complemento a2, BCD, Algebra de Boole y Circuitos combinatoriales.
@@ -25,10 +26,11 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 ## 2. Programación en VHDL
 - [Video 1](https://www.youtube.com/watch?v=iWi0UZ-J1ps&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19), [Post 1](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital concurrente.
 - [Video 2](https://www.youtube.com/watch?v=v5BQ54q3yq8&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=19&t=8s), [Post 2](https://vasanza.blogspot.com/2020/01/lenguaje-de-descripcion-de-hardware_16.html):  Uso de Lenguaje de descripción de hardware VHDL para la programación de un Sistema Digital secuencial.
-- [Video 3 (Felipe Machado)](https://www.youtube.com/watch?v=g7Z-sBpmCJU): Diseño VHDL 1: Puertas lógicas.
-- [Video 4 (Felipe Machado)](https://www.youtube.com/watch?v=CQdw-M1ooTI): Diseño VHDL 2: Multiplexor (1/2).
-- [Video 5 (Felipe Machado)](https://www.youtube.com/watch?v=or_vwCTSY8M): Diseño VHDL 2: Multiplexor (2/2).
-- [Video 6 (Felipe Machado)](https://www.youtube.com/watch?v=g0FnaDB3niE): Diseño VHDL 4: Reglas de diseño combinacional.
+- [Video 3 (Felipe Machado)](https://www.youtube.com/watch?v=yZ9lwky60sI): Diseño estructural en VHDL.
+- [Video 4 (Felipe Machado)](https://www.youtube.com/watch?v=g7Z-sBpmCJU): Diseño VHDL 1: Puertas lógicas.
+- [Video 5 (Felipe Machado)](https://www.youtube.com/watch?v=CQdw-M1ooTI): Diseño VHDL 2: Multiplexor (1/2).
+- [Video 6 (Felipe Machado)](https://www.youtube.com/watch?v=or_vwCTSY8M): Diseño VHDL 2: Multiplexor (2/2).
+- [Video 7 (Felipe Machado)](https://www.youtube.com/watch?v=g0FnaDB3niE): Diseño VHDL 4: Reglas de diseño combinacional.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2020/07/solucion-leccion-sistemas-digitales-1.html): Circuito combinatorial, Algebra de Boole y VHDL.
 - [Ejercicios resueltos 2](https://vasanza.blogspot.com/2020/07/solucion-leccion-sistemas-digitales-1_22.html): Circuito combinatorial y VHDL.
 - [Ejercicios resueltos 3](https://vasanza.blogspot.com/2021/07/solucion-evaluacion-sistemas-digitales.html): Circuito combinatorial y VHDL.
@@ -158,21 +160,23 @@ Además, te recomiendo revisar estos enlaces a videos y ejemplos que te serán �
 - [Ejemplo 13](https://vasanza.blogspot.com/2015/09/proyecto-vhdl-detector-eficiente-de.html): Efficient Number Sequence Detector.
 - [Ejemplo 14](https://vasanza.blogspot.com/2015/09/determinante-de-una-matriz-con-quartus.html): Determinant of a matrix.
 
-## Future work
-- [Software](https://www.youtube.com/watch?v=C3jSokC1FkU): simulacion Xilinx ISE 14.7 con VHDL.
-- [Software](https://www.youtube.com/watch?v=WZnMXwgH4yY): Simulacion Xilinx Vivado v2015.2 con VHDL.
-- [Software](https://www.youtube.com/watch?v=kDdmTHDE9qc): Encontrar los ficheros VHDL en Vivado 2015.2.
-- [Software](https://www.youtube.com/watch?v=Y96goMpGQw0): Simulación con Vivado 2016.4: Cómo encontrar errores de sintaxis VHDL.
-- [VHDL](https://www.youtube.com/watch?v=yZ9lwky60sI): Diseño estructural en VHDL.
-- [RISC-V ISA](https://www.youtube.com/watch?v=g68KrucGxq0): RISC-V ISA 2: Instrucciones tipo R (1/2).
-- [RISC-V ISA](https://www.youtube.com/watch?v=x7b3PgDEAvM): RISC-V ISA 3: Instrucciones tipo R (2/2).
-- [RISC-V ISA](https://www.youtube.com/watch?v=22iIFspcYBM): RISC-V ISA 4: Instrucciones tipo I - Operaciones con constantes.
-- [RISC-V ISA](https://www.youtube.com/watch?v=4_WlVK3E97g): RISC-V ISA 5: Instrucciones de carga y almacenamiento.
-- [RISC-V ISA](https://www.youtube.com/watch?v=Q6FRCH7PStg): RISC-V ISA 6: Instrucciones de control y programa almacenado en memoria.
-
-
-- [RISC-V](https://www.youtube.com/watch?v=nLcPNXMj1lI): RISC-V diseño básico 1: Operaciones entre registros.
-
+## Future work (Xilinx and RISC-V)
+- [Video 1 Software ISE (Felipe Machado)](https://www.youtube.com/watch?v=C3jSokC1FkU): simulacion Xilinx ISE 14.7 con VHDL.
+- [Video 2 Software ISE (Felipe Machado)](https://www.youtube.com/watch?v=WZnMXwgH4yY): Simulacion Xilinx Vivado v2015.2 con VHDL.
+- [Video 3 Software ISE (Felipe Machado)](https://www.youtube.com/watch?v=kDdmTHDE9qc): Encontrar los ficheros VHDL en Vivado 2015.2.
+- [Video 4 Software ISE (Felipe Machado)](https://www.youtube.com/watch?v=Y96goMpGQw0): Simulación con Vivado 2016.4: Cómo encontrar errores de sintaxis VHDL.
+- [Video 1 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=JyvZ0i9s6xg&t=13s): RISC-V ISA 1: Introducción al conjunto de instrucciones.
+- [Video 2 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=g68KrucGxq0): RISC-V ISA 2: Instrucciones tipo R (1/2).
+- [Video 3 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=x7b3PgDEAvM): RISC-V ISA 3: Instrucciones tipo R (2/2).
+- [Video 4 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=22iIFspcYBM): RISC-V ISA 4: Instrucciones tipo I - Operaciones con constantes.
+- [Video 5 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=4_WlVK3E97g): RISC-V ISA 5: Instrucciones de carga y almacenamiento.
+- [Video 6 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=Q6FRCH7PStg): RISC-V ISA 6: Instrucciones de control y programa almacenado en memoria.
+- [Video 1 RISC-V](https://www.youtube.com/watch?v=nLcPNXMj1lI): RISC-V diseño básico 1: Operaciones entre registros.
+- [Video 2 RISC-V](https://www.youtube.com/watch?v=0SzpwGoRbuU): RISC-V diseño básico 2: Operaciones con constantes.
+- [Video 3 RISC-V](https://www.youtube.com/watch?v=_cgsoTj7OqM): RISC-V diseño básico 3: Instrucción de carga desde memoria.
+- [Video 4 RISC-V](https://www.youtube.com/watch?v=A7eJFdwGdDk): RISC-V diseño básico 4: Instrucción de almacenamiento en memoria.
+- [Video 5 RISC-V](https://www.youtube.com/watch?v=5Ico3t2405A): RISC-V diseño básico 5: Memoria de programa y contador de programa.
+- [Video 6 RISC-V](https://www.youtube.com/watch?v=UzCLsPhydBY): RISC-V diseño básico 6: Instrucciones de control (branches).
 
 # Información adicional
 ## Drive con Presentaciones, ejemplos resueltos y videos
