@@ -134,6 +134,9 @@ En este repositorio puedes encontrar códigos de bloques de Mediana Escala de In
 - [Video 3](https://www.youtube.com/watch?v=9PJScPknzhY&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=4&t=1164s): Arquitectura de un Microprocesador Genérico.
 - [Video 4](https://www.youtube.com/watch?v=UdNjA-8QmtU&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=3&t=2s): Arquitectura de un Microprocesador Genérico v2.
 - [Video 5](https://www.youtube.com/watch?v=zKjPHsazdcA&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=2&t=180s): Simulación de un Microprocesador Genérico.
+- [Video 6 mlinaje](https://www.youtube.com/watch?v=fLutXVgrh1s): Arquitectura 8086: Introducción (1/3).
+- [Video 7 mlinaje](https://www.youtube.com/watch?v=5xJQF8AqoTs): Arquitectura 8086: Introducción (2/3): Bus Interface Unit.
+- [Video 8 mlinaje](https://www.youtube.com/watch?v=qcH9eUEQqdw): Arquitectura 8086: Introducción (3/3): Execution Unit.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2018/09/solucion-examen-sistemas-digitales-2.html): Arquietectura fija MSS + ALU para para determinar el valor máximo y mínimo almacenado en RAM.
 - [Ejercicios resueltos 2](https://vasanza.blogspot.com/2019/01/sistemas-digitales-2-leccion-propuesta.html): Arquietectura fija MSS + ALU para para determinar las repeticiones del valor más alto en RAM.
 - [Ejercicios resueltos 3](https://vasanza.blogspot.com/2019/01/sistemas-digitales-2-examen-resuelto.html): Arquietectura fija MSS + ALU para para ingresar y determinar el valor máximo y mínimo almacenado en RAM.
