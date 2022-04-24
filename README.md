@@ -13,6 +13,7 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - [Sort Application](https://github.com/vasanza/FPGA-based-Co2-Monitor): FPGA based Co2 Monitor.
 - [Ordering Application](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Maximum to minimum ordering values.
 - [Search Applications](https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html): Maximum number finder and repetition.
+- [Performance Applications](https://github.com/VHDL-Digital-Systems/Sistema_gestion_base_de_datos_FPGA_HPS_DE10Standard), [paper](https://ieeexplore.ieee.org/document/9647742): Performance Comparison of Database Server based on SoC FPGA and ARM Processor.
 
 ## 1. Puertas lógicas y Circuitos Combinatoriales
 - [Video 1](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
