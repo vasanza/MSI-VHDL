@@ -203,7 +203,7 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - **Paper 5:** [Implementation of a Classification System of EEG Signals Based on FPGA](https://ieeexplore.ieee.org/document/9096752)
 - http://blog.espol.edu.ec/sistemasdigitalesfiec
 
-## Repository technical specifications
+# Repository technical specifications
 - **IDE:** Quartus Prime 17.0.0 Build 595 04/25/2017 SJ Standard Edition
 - **DEVICE:** FPGA Cyclone V SE 5CSEBA6U23I7
 - **Hardware TERASIC:** DE10NANO, DE10STANDARD
