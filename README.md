@@ -8,6 +8,10 @@ En este repositorio puedes encontrar códigos de bloques de Mediana Escala de In
 - Sistemas Digitales 1: Desde la sección 1 (Puertas lógicas y Circuitos Combinatoriales) hasta la sección 4 (Maquinas Secuenciales Sincrónicas).
 - Sistemas Digitales 2: Desde la sección 4 (Maquinas Secuenciales Sincrónicas) hasta la sección 8 (Arquitectura de Microprocesadores).
 - Fundamentos de Electricidad y Sistemas Digitales: Sección 1 (Puertas lógicas y Circuitos Combinatoriales).
+Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositorio son los siguientes:
+- [Sort Application](https://github.com/vasanza/FPGA-based-Co2-Monitor): FPGA based Co2 Monitor.
+- [Ordering Application](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Maximum to minimum ordering values.
+- [Search Applications](https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html): Maximum number finder and repetition.
 
 ## 1. Puertas lógicas y Circuitos Combinatoriales
 - [Video 1](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
@@ -196,8 +200,6 @@ En este repositorio puedes encontrar códigos de bloques de Mediana Escala de In
 - **Paper 4:** [Behavioral Signal Processing with Machine Learning Based on FPGA](https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17)
 - **Paper 5:** [Implementation of a Classification System of EEG Signals Based on FPGA](https://ieeexplore.ieee.org/document/9096752)
 - http://blog.espol.edu.ec/sistemasdigitalesfiec
-- https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html
-- https://vasanza.blogspot.com/2021/07/maximum-number-finder-and-repetition.html
 
 ## Repository technical specifications
 - **IDE:** Quartus Prime 17.0.0 Build 595 04/25/2017 SJ Standard Edition
