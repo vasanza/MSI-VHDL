@@ -8,6 +8,7 @@ En este repositorio puedes encontrar códigos de bloques de Mediana Escala de In
 - Sistemas Digitales 1: Desde la sección 1 (Puertas lógicas y Circuitos Combinatoriales) hasta la sección 4 (Maquinas Secuenciales Sincrónicas).
 - Sistemas Digitales 2: Desde la sección 4 (Maquinas Secuenciales Sincrónicas) hasta la sección 8 (Arquitectura de Microprocesadores).
 - Fundamentos de Electricidad y Sistemas Digitales: Sección 1 (Puertas lógicas y Circuitos Combinatoriales).
+
 Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositorio son los siguientes:
 - [Sort Application](https://github.com/vasanza/FPGA-based-Co2-Monitor): FPGA based Co2 Monitor.
 - [Ordering Application](https://vasanza.blogspot.com/2021/08/maximum-to-minimum-ordering-of-values.html): Maximum to minimum ordering values.
