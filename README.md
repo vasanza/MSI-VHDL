@@ -188,6 +188,8 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - [Video 4 RISC-V](https://www.youtube.com/watch?v=A7eJFdwGdDk): RISC-V diseño básico 4: Instrucción de almacenamiento en memoria.
 - [Video 5 RISC-V](https://www.youtube.com/watch?v=5Ico3t2405A): RISC-V diseño básico 5: Memoria de programa y contador de programa.
 - [Video 6 RISC-V](https://www.youtube.com/watch?v=UzCLsPhydBY): RISC-V diseño básico 6: Instrucciones de control (branches).
+- [Example 1 RISC-V Architecture (Semi-core)](https://github.com/VHDL-Digital-Systems/RISC-V-Semi-Core).
+- [Example 2 RISC-V Architecture](https://github.com/VHDL-Digital-Systems/riscv-isa-sim).
 
 # Información adicional
 ## Drive con Presentaciones, ejemplos resueltos y videos
