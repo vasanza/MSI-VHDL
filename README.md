@@ -16,10 +16,11 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - [Performance Applications](https://github.com/VHDL-Digital-Systems/Sistema_gestion_base_de_datos_FPGA_HPS_DE10Standard), [paper](https://ieeexplore.ieee.org/document/9647742): Performance Comparison of Database Server based on SoC FPGA and ARM Processor.
 
 ## 1. Puertas lógicas y Circuitos Combinatoriales
-- [Video 1](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
-- [Video 2](https://www.youtube.com/watch?v=RsQSRA2K-R0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=2876s): Ejercicios resueltos de Sistemas Digitales.
-- [Video 3 (Felipe Machado)](https://www.youtube.com/watch?v=NsBdEsCLees): Electrónica digital con circuitos integrados básicos (1) - Encender un led con el 74HC04.
-- [Video 4 (Felipe Machado)](https://www.youtube.com/watch?v=7t9DReaGcE8&t=258s): Montar circuitos en placa de inserción (Breadboard o Protoboard).
+- [Video 1 (Nate Gentile)]([https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s](https://www.youtube.com/watch?v=RVGIXfC4Xeg)): Sistema BINARIO y Puertas Lógicas.
+- [Video 2](https://www.youtube.com/watch?v=fiQaocvqg9M&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=4393s):  Introducción a los Sistemas Digitales.
+- [Video 3](https://www.youtube.com/watch?v=RsQSRA2K-R0&list=PLQzI-judwt-k4PkAGj_e_ZHDzYI0ZpshK&index=17&t=2876s): Ejercicios resueltos de Sistemas Digitales.
+- [Video 4 (Felipe Machado)](https://www.youtube.com/watch?v=NsBdEsCLees): Electrónica digital con circuitos integrados básicos (1) - Encender un led con el 74HC04.
+- [Video 5 (Felipe Machado)](https://www.youtube.com/watch?v=7t9DReaGcE8&t=258s): Montar circuitos en placa de inserción (Breadboard o Protoboard).
 - [Ejercicios propuestos](https://vasanza.blogspot.com/2017/05/ejercicios-propuestos-cap1-sistemas.html): Comversión de base, Suma-Multiplicación-División en diferentes bases, Complemento a2.
 - [Ejercicios resueltos 1](https://vasanza.blogspot.com/2017/11/leccion-1er-parcial-sistemas-digitales.html): Conversión de base, Complemento a2, BCD, Algebra de Boole y Circuitos combinatoriales.
 - [Ejercicios resueltos 2](https://vasanza.blogspot.com/2021/07/solucion-leccion-sistemas-digitales-1.html): Conversión de base, ca2, Codigo BCD-Gray-XS3.
