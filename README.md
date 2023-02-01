@@ -191,6 +191,20 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - [Video 6 RISC-V](https://www.youtube.com/watch?v=UzCLsPhydBY): RISC-V diseño básico 6: Instrucciones de control (branches).
 - [Example 1 RISC-V Architecture (Semi-core)](https://github.com/VHDL-Digital-Systems/RISC-V-Semi-Core).
 - [Example 2 RISC-V Architecture](https://github.com/VHDL-Digital-Systems/riscv-isa-sim).
+- [Video 1 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=qcBIvnQt0Bw): Introduction.
+- [Video 2 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=eSPFB-xF5iM): Three problems with Memory.
+- [Video 3 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=qlH4-oHnBb8): What is Virtual Memory?.
+- [Video 4 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=59rEMnKWoS4&t=12s): How Does Virtual Memory Work?.
+- [Video 5 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=KNUJhZCQZ9c): Page Tables.
+- [Video 6 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=ZjKS1IbiGDA): Address Translation.
+- [Video 7 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=6neHHkI0Z0o): Address Translation Example Walkthrough.
+- [Video 8 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=bShqyf-hDfg): Page Faults.
+- [Video 9 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=uDzXXnNy544): Memory Protection.
+- [Video 10 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=uyrSn3qbZ8U): Making Virtual Memory Fast.
+- [Video 11 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=95QpHJX55bM): TLB Example.
+- [Video 12 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=Z4kSOv49GNc): Multi-level Page Tables.
+- [Video 13 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=3sX5obQCHNA): TLBs and Caches.
+- [Video 14 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=FRvzCrWcFZA): Summary.
 
 # Información adicional
 ## Drive con Presentaciones, ejemplos resueltos y videos
