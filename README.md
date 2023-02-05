@@ -151,6 +151,40 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - [Ejercicios resueltos 5](https://vasanza.blogspot.com/2019/02/sistemas-digitales-2-examen-resuelto.html): Programación en lenguaje C.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2021PAO2/Practica_MicroProcesador): Arquitectura de un Microprocesador Genérico en VHDL.
 
+## 9. RISC-V (ISA) de hardware libre
+- [Video 1 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=JyvZ0i9s6xg&t=13s): RISC-V ISA 1: Introducción al conjunto de instrucciones.
+- [Video 2 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=g68KrucGxq0): RISC-V ISA 2: Instrucciones tipo R (1/2).
+- [Video 3 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=x7b3PgDEAvM): RISC-V ISA 3: Instrucciones tipo R (2/2).
+- [Video 4 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=22iIFspcYBM): RISC-V ISA 4: Instrucciones tipo I - Operaciones con constantes.
+- [Video 5 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=4_WlVK3E97g): RISC-V ISA 5: Instrucciones de carga y almacenamiento.
+- [Video 6 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=Q6FRCH7PStg): RISC-V ISA 6: Instrucciones de control y programa almacenado en memoria.
+- [Video 1 RISC-V (Felipe Machado)](https://www.youtube.com/watch?v=nLcPNXMj1lI): RISC-V diseño básico 1: Operaciones entre registros.
+- [Video 2 RISC-V (Felipe Machado)](https://www.youtube.com/watch?v=0SzpwGoRbuU): RISC-V diseño básico 2: Operaciones con constantes.
+- [Video 3 RISC-V (Felipe Machado)](https://www.youtube.com/watch?v=_cgsoTj7OqM): RISC-V diseño básico 3: Instrucción de carga desde memoria.
+- [Video 4 RISC-V (Felipe Machado)](https://www.youtube.com/watch?v=A7eJFdwGdDk): RISC-V diseño básico 4: Instrucción de almacenamiento en memoria.
+- [Video 5 RISC-V (Felipe Machado)](https://www.youtube.com/watch?v=5Ico3t2405A): RISC-V diseño básico 5: Memoria de programa y contador de programa.
+- [Video 6 RISC-V (Felipe Machado)](https://www.youtube.com/watch?v=UzCLsPhydBY): RISC-V diseño básico 6: Instrucciones de control (branches).
+- [Example 1 RISC-V Architecture (Semi-core)](https://github.com/VHDL-Digital-Systems/RISC-V-Semi-Core).
+- [Example 2 RISC-V Architecture](https://github.com/VHDL-Digital-Systems/riscv-isa-sim).
+- [Video 1 RISC-V (Obijuan)](https://www.youtube.com/watch?v=GYvBAHdkRwk&t=50s): Arquitectura de Ordenadores RISC-V.
+- [Video 2 RISC-V (Obijuan)](https://www.youtube.com/watch?v=79YWqV1Mi0s&t=17s): Arquitectura de Ordenadores RISC-V.
+
+## 10. The ARM Memory Management Unit (MMU)
+- [Video 1 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=qcBIvnQt0Bw): Introduction.
+- [Video 2 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=eSPFB-xF5iM): Three problems with Memory.
+- [Video 3 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=qlH4-oHnBb8): What is Virtual Memory?.
+- [Video 4 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=59rEMnKWoS4&t=12s): How Does Virtual Memory Work?.
+- [Video 5 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=KNUJhZCQZ9c): Page Tables.
+- [Video 6 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=ZjKS1IbiGDA): Address Translation.
+- [Video 7 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=6neHHkI0Z0o): Address Translation Example Walkthrough.
+- [Video 8 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=bShqyf-hDfg): Page Faults.
+- [Video 9 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=uDzXXnNy544): Memory Protection.
+- [Video 10 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=uyrSn3qbZ8U): Making Virtual Memory Fast.
+- [Video 11 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=95QpHJX55bM): TLB Example.
+- [Video 12 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=Z4kSOv49GNc): Multi-level Page Tables.
+- [Video 13 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=3sX5obQCHNA): TLBs and Caches.
+- [Video 14 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=FRvzCrWcFZA): Summary.
+
 ## Temas de proyectos
 - [Sistemas Digitales 1](https://vasanza.blogspot.com/2021/05/sistemas-digitales-1-proyectos.html): Proyectos basados en MSS.
 - [Sistemas Digitales 2](https://vasanza.blogspot.com/2021/06/sistemas-digitales-2-proyectos.html): Proyectos basados en memorias RAM v1.
@@ -177,34 +211,6 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - [Video 2 Software ISE (Felipe Machado)](https://www.youtube.com/watch?v=WZnMXwgH4yY): Simulacion Xilinx Vivado v2015.2 con VHDL.
 - [Video 3 Software ISE (Felipe Machado)](https://www.youtube.com/watch?v=kDdmTHDE9qc): Encontrar los ficheros VHDL en Vivado 2015.2.
 - [Video 4 Software ISE (Felipe Machado)](https://www.youtube.com/watch?v=Y96goMpGQw0): Simulación con Vivado 2016.4: Cómo encontrar errores de sintaxis VHDL.
-- [Video 1 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=JyvZ0i9s6xg&t=13s): RISC-V ISA 1: Introducción al conjunto de instrucciones.
-- [Video 2 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=g68KrucGxq0): RISC-V ISA 2: Instrucciones tipo R (1/2).
-- [Video 3 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=x7b3PgDEAvM): RISC-V ISA 3: Instrucciones tipo R (2/2).
-- [Video 4 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=22iIFspcYBM): RISC-V ISA 4: Instrucciones tipo I - Operaciones con constantes.
-- [Video 5 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=4_WlVK3E97g): RISC-V ISA 5: Instrucciones de carga y almacenamiento.
-- [Video 6 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=Q6FRCH7PStg): RISC-V ISA 6: Instrucciones de control y programa almacenado en memoria.
-- [Video 1 RISC-V](https://www.youtube.com/watch?v=nLcPNXMj1lI): RISC-V diseño básico 1: Operaciones entre registros.
-- [Video 2 RISC-V](https://www.youtube.com/watch?v=0SzpwGoRbuU): RISC-V diseño básico 2: Operaciones con constantes.
-- [Video 3 RISC-V](https://www.youtube.com/watch?v=_cgsoTj7OqM): RISC-V diseño básico 3: Instrucción de carga desde memoria.
-- [Video 4 RISC-V](https://www.youtube.com/watch?v=A7eJFdwGdDk): RISC-V diseño básico 4: Instrucción de almacenamiento en memoria.
-- [Video 5 RISC-V](https://www.youtube.com/watch?v=5Ico3t2405A): RISC-V diseño básico 5: Memoria de programa y contador de programa.
-- [Video 6 RISC-V](https://www.youtube.com/watch?v=UzCLsPhydBY): RISC-V diseño básico 6: Instrucciones de control (branches).
-- [Example 1 RISC-V Architecture (Semi-core)](https://github.com/VHDL-Digital-Systems/RISC-V-Semi-Core).
-- [Example 2 RISC-V Architecture](https://github.com/VHDL-Digital-Systems/riscv-isa-sim).
-- [Video 1 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=qcBIvnQt0Bw): Introduction.
-- [Video 2 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=eSPFB-xF5iM): Three problems with Memory.
-- [Video 3 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=qlH4-oHnBb8): What is Virtual Memory?.
-- [Video 4 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=59rEMnKWoS4&t=12s): How Does Virtual Memory Work?.
-- [Video 5 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=KNUJhZCQZ9c): Page Tables.
-- [Video 6 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=ZjKS1IbiGDA): Address Translation.
-- [Video 7 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=6neHHkI0Z0o): Address Translation Example Walkthrough.
-- [Video 8 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=bShqyf-hDfg): Page Faults.
-- [Video 9 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=uDzXXnNy544): Memory Protection.
-- [Video 10 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=uyrSn3qbZ8U): Making Virtual Memory Fast.
-- [Video 11 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=95QpHJX55bM): TLB Example.
-- [Video 12 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=Z4kSOv49GNc): Multi-level Page Tables.
-- [Video 13 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=3sX5obQCHNA): TLBs and Caches.
-- [Video 14 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=FRvzCrWcFZA): Summary.
 
 # Información adicional
 ## Drive con Presentaciones, ejemplos resueltos y videos
