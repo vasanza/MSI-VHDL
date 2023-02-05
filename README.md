@@ -151,7 +151,7 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - [Ejercicios resueltos 5](https://vasanza.blogspot.com/2019/02/sistemas-digitales-2-examen-resuelto.html): Programación en lenguaje C.
 - [Repositorio](https://github.com/vasanza/DigitalSystems/tree/2021PAO2/Practica_MicroProcesador): Arquitectura de un Microprocesador Genérico en VHDL.
 
-## 9. RISC-V (ISA) de hardware libre
+## 9. Optional: RISC-V (ISA) de hardware libre
 - [Video 1 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=JyvZ0i9s6xg&t=13s): RISC-V ISA 1: Introducción al conjunto de instrucciones.
 - [Video 2 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=g68KrucGxq0): RISC-V ISA 2: Instrucciones tipo R (1/2).
 - [Video 3 RISC-V ISA (Felipe Machado)](https://www.youtube.com/watch?v=x7b3PgDEAvM): RISC-V ISA 3: Instrucciones tipo R (2/2).
@@ -170,7 +170,7 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - [Video 2 RISC-V (Obijuan)](https://www.youtube.com/watch?v=79YWqV1Mi0s&t=17s): Arquitectura de Ordenadores RISC-V.
 - [Video 3 RISC-V (Obijuan)](https://www.youtube.com/watch?v=UrEDtPgc9IQ&t=8s): Arquitectura de Ordenadores RISC-V.
 
-## 10. The ARM Memory Management Unit (MMU)
+## 10. Optional: The ARM Memory Management Unit (MMU)
 - [Video 1 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=qcBIvnQt0Bw): Introduction.
 - [Video 2 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=eSPFB-xF5iM): Three problems with Memory.
 - [Video 3 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=qlH4-oHnBb8): What is Virtual Memory?.
@@ -220,11 +220,13 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - [Sistemas Digitales 2](https://drive.google.com/drive/folders/1OLkaLyrg0m6C0qMVIEzXFI1smsw7YWdG).
 
 ## Related work (FPGA applications)
-- **Paper 1:** [Performance Comparison of Database Server based on SoC FPGA and ARM Processor](https://ieeexplore.ieee.org/document/9647742)
-- **Paper 2:** [FPGA Based Meteorological Monitoring Station](https://ieeexplore.ieee.org/abstract/document/9530151)
-- **Paper 3:** [Monitoring of system memory usage embedded in FPGA](https://ieeexplore.ieee.org/abstract/document/9232863)
-- **Paper 4:** [Behavioral Signal Processing with Machine Learning Based on FPGA](https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17)
-- **Paper 5:** [Implementation of a Classification System of EEG Signals Based on FPGA](https://ieeexplore.ieee.org/document/9096752)
+- **Paper 1:** [Electrooculography Signals Classification for FPGA-based Human-Computer Interaction](https://ieeexplore.ieee.org/document/9989664)
+- **Paper 2:** [Analysis of Sorting Algorithms Using a WSN and Environmental Pollution Data based on FPGA](https://ieeexplore.ieee.org/document/9920090)
+- **Paper 3:** [Performance Comparison of Database Server based on SoC FPGA and ARM Processor](https://ieeexplore.ieee.org/document/9647742)
+- **Paper 4:** [FPGA Based Meteorological Monitoring Station](https://ieeexplore.ieee.org/abstract/document/9530151)
+- **Paper 5:** [Monitoring of system memory usage embedded in FPGA](https://ieeexplore.ieee.org/abstract/document/9232863)
+- **Paper 6:** [Behavioral Signal Processing with Machine Learning Based on FPGA](https://link.springer.com/chapter/10.1007%2F978-3-030-59194-6_17)
+- **Paper 7:** [Implementation of a Classification System of EEG Signals Based on FPGA](https://ieeexplore.ieee.org/document/9096752)
 - http://blog.espol.edu.ec/sistemasdigitalesfiec
 
 # Repository technical specifications
