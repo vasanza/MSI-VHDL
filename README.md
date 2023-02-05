@@ -168,6 +168,7 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - [Example 2 RISC-V Architecture](https://github.com/VHDL-Digital-Systems/riscv-isa-sim).
 - [Video 1 RISC-V (Obijuan)](https://www.youtube.com/watch?v=GYvBAHdkRwk&t=50s): Arquitectura de Ordenadores RISC-V.
 - [Video 2 RISC-V (Obijuan)](https://www.youtube.com/watch?v=79YWqV1Mi0s&t=17s): Arquitectura de Ordenadores RISC-V.
+- [Video 3 RISC-V (Obijuan)](https://www.youtube.com/watch?v=UrEDtPgc9IQ&t=8s): Arquitectura de Ordenadores RISC-V.
 
 ## 10. The ARM Memory Management Unit (MMU)
 - [Video 1 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=qcBIvnQt0Bw): Introduction.
