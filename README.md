@@ -3,6 +3,7 @@
 ![FPGA](https://user-images.githubusercontent.com/12642226/126781573-f8af8ca5-0cdf-4d91-a8bb-fece6117d426.png)
 
 # Contenido
+![Uploading FPGA.png…]()
 En este repositorio puedes encontrar códigos de bloques de Mediana Escala de Integración (MSI) en VHDL para utilizar en tus diseños digitales. Además, te recomiendo revisar el README, ya que contiene enlaces a videos y ejercicios resueltos que te serán muy útiles. Las secciones resumen todo lo referentes a los Sistemas Digitales y te serán utiles para las materias de Sistemas Digitales 1, Sistemas Digitales2, Fundamentos de Electricidad y Sistemas Digitales. Esto se detalla a continuación:
 - **Sistemas Digitales 1:** Desde la sección 1 (Puertas lógicas y Circuitos Combinatoriales) hasta la sección 4 (Maquinas Secuenciales Sincrónicas).
 - **Sistemas Digitales 2:** Desde la sección 4 (Maquinas Secuenciales Sincrónicas) hasta la sección 8 (Arquitectura de Microprocesadores).
@@ -165,9 +166,12 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - [Video 6 RISC-V (Felipe Machado)](https://www.youtube.com/watch?v=UzCLsPhydBY): RISC-V diseño básico 6: Instrucciones de control (branches).
 - [Example 1 RISC-V Architecture (Semi-core)](https://github.com/VHDL-Digital-Systems/RISC-V-Semi-Core).
 - [Example 2 RISC-V Architecture](https://github.com/VHDL-Digital-Systems/riscv-isa-sim).
-- [Video 1 RISC-V (Obijuan)](https://www.youtube.com/watch?v=GYvBAHdkRwk&t=50s): Arquitectura de Ordenadores RISC-V.
-- [Video 2 RISC-V (Obijuan)](https://www.youtube.com/watch?v=79YWqV1Mi0s&t=17s): Arquitectura de Ordenadores RISC-V.
-- [Video 3 RISC-V (Obijuan)](https://www.youtube.com/watch?v=UrEDtPgc9IQ&t=8s): Arquitectura de Ordenadores RISC-V.
+- [Video 1 RISC-V (Obijuan)](https://www.youtube.com/watch?v=GYvBAHdkRwk&t=50s): Arquitectura de Ordenadores RISC-V. Práctica 1-Sesion-1-Video-01 (1/53)
+- [Video 2 RISC-V (Obijuan)](https://www.youtube.com/watch?v=79YWqV1Mi0s&t=17s): Arquitectura de Ordenadores RISC-V. Práctica 1-Sesion-1-Video-02 (2/53)
+- [Video 3 RISC-V (Obijuan)](https://www.youtube.com/watch?v=UrEDtPgc9IQ&t=8s): Arquitectura de Ordenadores RISC-V. Práctica 1-Sesion-2-Video-01 (3/53)
+- [Video 4 RISC-V (Obijuan)](https://www.youtube.com/watch?v=afZiZNOeblg&t=76s): Arquitectura de Ordenadores RISC-V. Práctica 1-Sesion-2-Video-02 (4/53)
+- [Video 5 RISC-V (Obijuan)](https://www.youtube.com/watch?v=Osy6J0tb4p8&t=6s): Arquitectura de Ordenadores RISC-V. Práctica 1-Sesion-2-Video-05 (5/53)
+- [Video 6 RISC-V (Obijuan)](https://www.youtube.com/watch?v=w4NZ_917M7g&t=49s): Arquitectura de Ordenadores RISC-V. Práctica 1-Sesion-2-Video-04 (6/53)
 
 ## 10. Optional: The ARM Memory Management Unit (MMU)
 - [Video 1 Virtual Memory (David Black-Schaffer)](https://www.youtube.com/watch?v=qcBIvnQt0Bw): Introduction.
