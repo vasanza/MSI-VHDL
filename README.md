@@ -3,7 +3,7 @@
 ![FPGA](https://user-images.githubusercontent.com/12642226/126781573-f8af8ca5-0cdf-4d91-a8bb-fece6117d426.png)
 
 # Contenido
-![FPGA](https://user-images.githubusercontent.com/12642226/216880395-e928fc27-8519-4b80-b21a-e3fa1a289865.png)
+![FPGA](https://user-images.githubusercontent.com/12642226/216881001-e99581a8-93b2-4759-a0e8-f3164da46b1d.png)
 En este repositorio puedes encontrar códigos de bloques de Mediana Escala de Integración (MSI) en VHDL para utilizar en tus diseños digitales. Además, te recomiendo revisar el README, ya que contiene enlaces a videos y ejercicios resueltos que te serán muy útiles. Las secciones resumen todo lo referentes a los Sistemas Digitales y te serán utiles para las materias de Sistemas Digitales 1, Sistemas Digitales2, Fundamentos de Electricidad y Sistemas Digitales. Esto se detalla a continuación:
 - **Sistemas Digitales 1:** Desde la sección 1 (Puertas lógicas y Circuitos Combinatoriales) hasta la sección 4 (Maquinas Secuenciales Sincrónicas).
 - **Sistemas Digitales 2:** Desde la sección 4 (Maquinas Secuenciales Sincrónicas) hasta la sección 8 (Arquitectura de Microprocesadores).
