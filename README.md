@@ -234,7 +234,7 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 - **Hardware TERASIC:** DE10NANO, DE10STANDARD
 
 ## About
-- [Blog Sistemas Digitales & Sistemas Embebidos](http://blog.espol.edu.ec/sistemasdigitalesfiec/).
+- [Summary](https://vasanza.blogspot.com/p/summary.html).
 
 # Keynote
 ## Clone
