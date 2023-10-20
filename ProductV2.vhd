@@ -1,6 +1,8 @@
 --Multiplier of 2 numbers of n bits
---https://vasanza.blogspot.com
---https://github.com/vasanza/MSI-VHDL
+-- Repository: 
+-- https://github.com/vasanza/MSI-VHDL
+-- Read more:
+-- https://vasanza.blogspot.com
 --by: Bryan Steven Espinosa
 
 --Library
