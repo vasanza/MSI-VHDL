@@ -1,5 +1,8 @@
 --Register of 2 number of 4 bits v2
---https://vasanza.blogspot.com
+-- Repository: 
+-- https://github.com/vasanza/MSI-VHDL
+-- Read more:
+-- https://vasanza.blogspot.com
 
 --Library
 library ieee;
