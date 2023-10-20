@@ -1,6 +1,8 @@
 --32-word 8-bit synchronous RAM
---https://github.com/VHDL-Digital-Systems
---http://blog.espol.edu.ec/sistemasdigitalesfiec
+-- Repository: 
+-- https://github.com/vasanza/MSI-VHDL
+-- Read more:
+-- https://vasanza.blogspot.com
 -- By: Bryan macias and Angel Villamar (2021PAO1)
 
 --Library
