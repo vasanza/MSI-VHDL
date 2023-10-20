@@ -1,6 +1,8 @@
 --BCD data decoder to 7 segment display
---https://github.com/VHDL-Digital-Systems
---http://blog.espol.edu.ec/sistemasdigitalesfiec
+-- Repository: 
+-- https://github.com/vasanza/MSI-VHDL
+-- Read more:
+-- https://vasanza.blogspot.com
 
 --Library
 library ieee;
