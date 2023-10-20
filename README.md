@@ -1,4 +1,8 @@
 # ⭐⭐⭐⭐⭐ VHDL Codes for Digital Systems
+VHDL Code Repository: Explora una colección de diseños en VHDL (Lenguaje de Descripción de Hardware VHSIC) de alta calidad para circuitos digitales. Nuestro repositorio ofrece una variedad de fragmentos de código, módulos y proyectos VHDL bien documentados, modulares y eficientes. Ya seas principiante o diseñador digital experimentado, descubre componentes de código reutilizables, tutoriales y ejemplos para acelerar tu desarrollo en FPGA (Matriz de Puertas Programables en Campo) y circuitos digitales. Únete a nuestra comunidad y contribuye a mejorar la experiencia en programación VHDL.
+- ⭐ When using this resource, please cite the original publication:
+    - [Montesdeoca, G., Asanza, V., Estrada, R., Valeriano, I., Muneeb, M.A. (2023). Softprocessor RISCV-EC for Edge Computing Applications. In: Barolli, L. (eds) Innovative Mobile and Internet Services in Ubiquitous Computing . IMIS 2023. Lecture Notes on Data Engineering and Communications Technologies, vol 177. Springer, Cham. https://doi.org/10.1007/978-3-031-35836-4_23](https://link.springer.com/chapter/10.1007/978-3-031-35836-4_23)
+
 ## ➡️ #DigitalSystems #DigitalElectronic #DigitalCircuits #HDL #VHDL #FPGA #MSI #FPGA
 ![FPGA](https://user-images.githubusercontent.com/12642226/126781573-f8af8ca5-0cdf-4d91-a8bb-fece6117d426.png)
 
