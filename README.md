@@ -243,7 +243,7 @@ Algunas de las aplicaciones que hacen uso de los codigos VHDL de este repositori
 # Keynote
 ## Clone
 - git status
-- git clone https://github.com/VHDL-Digital-Systems/MSI-VHDL.git
+- git clone https://github.com/vasanza/MSI-VHDL.git
 
 ## Switched to Branch
 - git branch -a
