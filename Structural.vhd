@@ -1,6 +1,8 @@
 --Structural Implementation
---https://vasanza.blogspot.com
---https://github.com/vasanza/MSI-VHDL
+-- Repository: 
+-- https://github.com/vasanza/MSI-VHDL
+-- Read more:
+-- https://vasanza.blogspot.com
 
 --Library
 library ieee;
