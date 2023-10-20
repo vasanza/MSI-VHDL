@@ -1,6 +1,8 @@
 --3-digit BCD to Binary decoder
---https://github.com/VHDL-Digital-Systems
---http://blog.espol.edu.ec/sistemasdigitalesfiec
+-- Repository: 
+-- https://github.com/vasanza/MSI-VHDL
+-- Read more:
+-- https://vasanza.blogspot.com
 --By: Angel Zumba and Jose Marquez (2021PAO1)
 
 --Library
